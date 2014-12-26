@@ -1,3 +1,12 @@
 [
 	
+		{
+		  "title"      : "Welcome",
+		  "category"   : "",
+      "tags"       : "data science and new york",
+		  "url"        : "/blog/welcome/",
+		  "date"       : "2014-12-26 15:15:00 +0100",
+		  "shortdate"  : "December 26, 2014"
+		} 
+	
 ]
