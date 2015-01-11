@@ -1,11 +1,20 @@
 [
 	
 		{
+		  "title"      : "Discovery of the decade: IPython",
+		  "category"   : "",
+      "tags"       : "data science, interactive computing, and visualization",
+		  "url"        : "/blog/just-discovered-ipython/",
+		  "date"       : "2015-01-11 02:28:00 -0500",
+		  "shortdate"  : "January 11, 2015"
+		} ,
+	
+		{
 		  "title"      : "Welcome",
 		  "category"   : "",
       "tags"       : "data science and new york",
 		  "url"        : "/blog/welcome/",
-		  "date"       : "2014-12-26 15:18:00 +0100",
+		  "date"       : "2014-12-26 09:18:00 -0500",
 		  "shortdate"  : "December 26, 2014"
 		} 
 	

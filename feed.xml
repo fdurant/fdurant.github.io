@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-12-27T22:20:40+01:00</updated>
+<updated>2015-01-11T07:32:10-05:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,44 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Discovery of the decade: IPython]]></title>
+  <link rel="alternate" type="text/html" href="/blog/just-discovered-ipython/" />
+  <id>/blog/just-discovered-ipython</id>
+  <published>2015-01-11T02:28:00-05:00</published>
+  <updated>2015-01-11T02:28:00-05:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;While doing the statistics prework (reading and exercises) for the &lt;a href=&quot;http://www.thisismetis.com/data-science&quot;&gt;Metis Data Science bootcamp&lt;/a&gt;,
+I got to know &lt;a href=&quot;http://ipython.org/&quot;&gt;IPython&lt;/a&gt;, a &lt;em&gt;great&lt;/em&gt; tool/architecture for interactive computing and on-the-fly visualization and publishing.&lt;/p&gt;
+
+&lt;p&gt;I’m ashamed to say that IPython has been around for a &lt;em&gt;decade&lt;/em&gt; without my noticing it.
+Which only shows how much this sabbatical was overdue :-)&lt;/p&gt;
+
+&lt;p&gt;To see IPython at work, check out
+some example IPython notebooks on the &lt;a href=&quot;http://nbviewer.ipython.org/&quot;&gt;nbviewer service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Or if you have more time:&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/bP8ydKBCZiY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;By the way, I got &lt;a href=&quot;https://www.google.com/maps/place/71+Irving+Pl,+Brooklyn,+NY+11238/@40.6830384,-73.9596046,17z/data=!3m1!4b1!4m2!3m1!1s0x89c25bbd564b66a1:0x3dd32d62a569e278&quot;&gt;here&lt;/a&gt; alright.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/just-discovered-ipython/&quot;&gt;Discovery of the decade: IPython&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 11, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Welcome]]></title>
   <link rel="alternate" type="text/html" href="/blog/welcome/" />
   <id>/blog/welcome</id>
-  <published>2014-12-26T15:18:00+01:00</published>
-  <updated>2014-12-26T15:18:00+01:00</updated>
+  <published>2014-12-26T09:18:00-05:00</published>
+  <updated>2014-12-26T09:18:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
