@@ -4,13 +4,57 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-01-11T07:32:10-05:00</updated>
+<updated>2015-01-12T17:21:08-05:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[The hipster classification game]]></title>
+  <link rel="alternate" type="text/html" href="/blog/hipster-or-not/" />
+  <id>/blog/hipster-or-not</id>
+  <published>2015-01-12T12:17:00-05:00</published>
+  <updated>2015-01-12T12:17:00-05:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Hipster_(contemporary_subculture)&quot;&gt;Hipster&lt;/a&gt; or not? A simple enough question, until you’re being asked to come up with a precise rule set.&lt;/p&gt;
+
+&lt;p&gt;Starting from a training set of positive and negative specimina - &lt;em&gt;I just love that plural&lt;/em&gt;, six teams set about
+to define the essential hipster features, and how they relate algorithmically. Once set in stone,
+the algorithms were applied to an unseen test set, and classification accuracy was measured.&lt;/p&gt;
+
+&lt;p&gt;Goal of the icebreaker: demonstrate the core machine learning process, without using any machine other than our brain.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/hipster.jpg&quot; alt=&quot;Photo of a San Francisco hipster&quot; /&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;https://www.flickr.com/photos/cmichel67/11808909353/&quot; title=&quot;A San Francisco Hipster&quot;&gt;Photo Credit: Christopher Michel&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Provisional conclusion: rolled up sleeves, a seemingly ungroomed beard, plus a &lt;a href=&quot;http://en.wikipedia.org/wiki/Beanie_(seamed_cap)&quot;&gt;beanie&lt;/a&gt; are potential
+indicators of hipsterhood, if (and only if) properly combined.&lt;/p&gt;
+
+&lt;p&gt;Basic lessons learnt:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;don’t try to build a rule set (model) that matches the training set all too perfectly: it may lose its generalizing power when applied to the test set&lt;/li&gt;
+  &lt;li&gt;the training set might not contain all necessary features: for example, we didn’t see any suspenders or colored trainers until the test set was revealed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now, what’s worse: being seen as a hipster while not being one, or vice versa?
+Since, to our own surprise, there was no real hipster present in the room, this important question remains as yet scientifically unanswered.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/hipster-or-not/&quot;&gt;The hipster classification game&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 12, 2015.&lt;/p&gt;</content>
+</entry>
 
 
   
