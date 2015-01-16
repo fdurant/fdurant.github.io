@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "First week impressions",
+		  "category"   : "",
+      "tags"       : "data science, new york, food, and transport",
+		  "url"        : "/blog/week1/",
+		  "date"       : "2015-01-16 07:00:00 -0500",
+		  "shortdate"  : "January 16, 2015"
+		} ,
+	
+		{
 		  "title"      : "The hipster classification game",
 		  "category"   : "",
       "tags"       : "data science, classification, machine learning, feature selection, and fun",
