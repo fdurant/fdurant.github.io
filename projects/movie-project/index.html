@@ -5,15 +5,15 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Tag Index &#8211; Frederik Durant's .data blog</title>
-<meta name="description" content="An archive of posts sorted by tag.">
+<title>A basic linear regression model for predicting movie revenue &#8211; Frederik Durant's .data blog</title>
 
+<meta name="keywords" content="movies, linear regression, statsmodels, sklearn, pyplot">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Tag Index">
-<meta name="twitter:description" content="An archive of posts sorted by tag.">
+<meta name="twitter:title" content="A basic linear regression model for predicting movie revenue">
+
 
 
 
@@ -23,16 +23,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Tag Index">
-<meta property="og:description" content="An archive of posts sorted by tag.">
-<meta property="og:url" content="/tags/">
+<meta property="og:title" content="A basic linear regression model for predicting movie revenue">
+
+<meta property="og:url" content="/projects/movie-project/">
 <meta property="og:site_name" content="Frederik Durant's .data blog">
 
 
 
 
 
-<link rel="canonical" href="/tags/">
+<link rel="canonical" href="/projects/movie-project/">
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frederik Durant's .data blog Feed">
 
 
@@ -73,7 +73,7 @@
 
 </head>
 
-<body id="page">
+<body id="post">
 
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
@@ -127,178 +127,93 @@
 <div class="js-menu-screen menu-screen"></div>
 
 <div id="main" role="main">
-  <article class="entry">
+  <article class="hentry">
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title">Tag Index</h1>
-      </header>
-      <div class="entry-content">
+        <span class="entry-tags"><a href="/tags/#movies" title="Pages tagged movies">movies</a>&nbsp;&bull;&nbsp;<a href="/tags/#linear regression" title="Pages tagged linear regression">linear regression</a>&nbsp;&bull;&nbsp;<a href="/tags/#statsmodels" title="Pages tagged statsmodels">statsmodels</a>&nbsp;&bull;&nbsp;<a href="/tags/#sklearn" title="Pages tagged sklearn">sklearn</a>&nbsp;&bull;&nbsp;<a href="/tags/#pyplot" title="Pages tagged pyplot">pyplot</a></span>
         
-<ul class="tag-box inline">
-  
-    
-    <li><a href="#classification">classification <span>1</span></a></li>
-  
-    
-    <li><a href="#data science">data science <span>4</span></a></li>
-  
-    
-    <li><a href="#feature selection">feature selection <span>1</span></a></li>
-  
-    
-    <li><a href="#food">food <span>1</span></a></li>
-  
-    
-    <li><a href="#fun">fun <span>1</span></a></li>
-  
-    
-    <li><a href="#interactive computing">interactive computing <span>1</span></a></li>
-  
-    
-    <li><a href="#linear regression">linear regression <span>1</span></a></li>
-  
-    
-    <li><a href="#machine learning">machine learning <span>1</span></a></li>
-  
-    
-    <li><a href="#movies">movies <span>1</span></a></li>
-  
-    
-    <li><a href="#new york">new york <span>2</span></a></li>
-  
-    
-    <li><a href="#pyplot">pyplot <span>1</span></a></li>
-  
-    
-    <li><a href="#sklearn">sklearn <span>1</span></a></li>
-  
-    
-    <li><a href="#statsmodels">statsmodels <span>1</span></a></li>
-  
-    
-    <li><a href="#transport">transport <span>1</span></a></li>
-  
-    
-    <li><a href="#visualization">visualization <span>1</span></a></li>
-  
+          <h1 class="entry-title">A basic linear regression model for predicting movie revenue</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        
+        
+        
+          <img src="/images/frederik_durant_mugshot.jpg" class="bio-photo" alt="Frederik Durant bio photo"></a>
+        
+        <span class="author vcard">By <span class="fn">Frederik Durant</span></span>
+        <span class="entry-date date published"><time datetime="2015-01-30T07:00:00-05:00"><i class="fa fa-calendar-o"></i> January 30, 2015</time></span>
+        
+        
+        <span class="social-share-twitter">
+  <a href="https://twitter.com/intent/tweet?hashtags=movies,linearregression,statsmodels,sklearn,pyplot&amp;text=A%20basic%20linear%20regression%20model%20for%20predicting%20movie%20revenue&amp;url=/projects/movie-project/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+</span>
+<span class="social-share-facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/projects/movie-project/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+</span>
+<span class="social-share-googleplus">
+  <a href="https://plus.google.com/share?url=/projects/movie-project/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+</span>
+<!-- /.social-share -->
+        
+      </footer>
+      <div class="entry-content">
+        <p>Our instructors from <a href="http://datascopeanalytics.com">Datascope Analytics</a> designed the bootcamp around a number of projects.</p>
+
+<p>In week 2 &amp; 3, we were all let loose on movie revenue data scraped from <a href="http://www.boxofficemojo.com">Box Office Mojo</a>.
+The major goal was to predict a movie-related value of choice by using a <a href="http://en.wikipedia.org/wiki/Linear_regression">linear regression</a> model,
+optionally involving <a href="http://en.wikipedia.org/wiki/Logarithm">logarithmic</a> and/or <a href="http://en.wikipedia.org/wiki/Polynomial_regression">polynomial terms</a>.</p>
+
+<p>The first days were spent on writing and running the web scraper. I used <a href="http://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a> and good old
+<a href="https://docs.python.org/2/library/re.html">regular expressions</a> to parse and convert the messy Box Office Mojo data into a nice and clean <a href="http://en.wikipedia.org/wiki/Comma-separated_values">comma-separated</a> <a href="/projects/movie/BoxOfficeMojoMovies.csv">file</a>.</p>
+
+<p>The scope of my personal project shrunk as the data came in and the days went by.
+In the end, after many iterations in <a href="http://ipython.org/">IPython</a>, I got to fit a number of multilinear regression models with <a href="http://statsmodels.sourceforge.net/0.5.0/regression.html">statsmodels</a>, using
+<a href="http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html">sklearn</a> for model evaluation (<a href="http://en.wikipedia.org/wiki/Root-mean-square_deviation">root-mean-squared error</a>), and the inevitable <a href="http://matplotlib.org/api/pyplot_api.html">pyplot</a> for visualization.</p>
+
+<p>On Friday, the whole class delivered their presentations. My first-ever <a href="/projects/movie/Metis_Data_Science_Project_Luther_20150130.pdf">Keynote presentation</a> was for a ficticious investor known by the name of Dino Brangelino. My conclusion: knowing the box office revenue of the opening weekend reduces total revenue prediction error by 15%.</p>
+
+<figure>
+	<img src="/images/movieproject_presentation_1.jpg" />
+	<figcaption>Presenting performance improvements in linear regression models to the Metis Data Science class</figcaption>
+</figure>
+
+<p>A not-so-random sample of subjects from my fellow students’ talks:</p>
+
+<ul>
+  <li>
+    <p>how to convince laggards among the actors and actresses to go on Twitter, by predicting how many followers they would have if they did</p>
+  </li>
+  <li>
+    <p>can the monthly consumer optimism predict the prevalence of certain movie genres over others?</p>
+  </li>
+  <li>
+    <p>does the choice of a distributor help to secure an Oscar nomination?</p>
+  </li>
+  <li>
+    <p>which actor, actress, director or producer is overpaid or underpaid, given the gross revenue of the movies they have contributed to?</p>
+  </li>
+  <li>
+    <p>does the co-featuring network of actors/actresses determine movie revenue?</p>
+  </li>
 </ul>
 
-<h2 id="classification">classification</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/hipster-or-not/">The hipster classification game<span class="entry-date"><time datetime="2015-01-12T15:07:00-05:00">January 12, 2015</time></span></a></li>
-  
-  </ul>
+<figure>
+	<img src="/images/movieproject_presentation_2.jpg" />
+	<figcaption>Presenting observed vs. predicted movie gross revenue on the best-performing linear regression model</figcaption>
+</figure>
 
-<h2 id="data science">data science</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/week1/">First week impressions<span class="entry-date"><time datetime="2015-01-16T07:00:00-05:00">January 16, 2015</time></span></a></li>
-  
-    <li><a href="/blog/hipster-or-not/">The hipster classification game<span class="entry-date"><time datetime="2015-01-12T15:07:00-05:00">January 12, 2015</time></span></a></li>
-  
-    <li><a href="/blog/just-discovered-ipython/">Discovery of the decade: IPython<span class="entry-date"><time datetime="2015-01-11T02:28:00-05:00">January 11, 2015</time></span></a></li>
-  
-    <li><a href="/blog/welcome/">Welcome<span class="entry-date"><time datetime="2014-12-26T09:18:00-05:00">December 26, 2014</time></span></a></li>
-  
-  </ul>
 
-<h2 id="feature selection">feature selection</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/hipster-or-not/">The hipster classification game<span class="entry-date"><time datetime="2015-01-12T15:07:00-05:00">January 12, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="food">food</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/week1/">First week impressions<span class="entry-date"><time datetime="2015-01-16T07:00:00-05:00">January 16, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="fun">fun</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/hipster-or-not/">The hipster classification game<span class="entry-date"><time datetime="2015-01-12T15:07:00-05:00">January 12, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="interactive computing">interactive computing</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/just-discovered-ipython/">Discovery of the decade: IPython<span class="entry-date"><time datetime="2015-01-11T02:28:00-05:00">January 11, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="linear regression">linear regression</h2>
-<ul class="post-list">
-  
-    <li><a href="/projects/movie-project/">A basic linear regression model for predicting movie revenue<span class="entry-date"><time datetime="2015-01-30T07:00:00-05:00">January 30, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="machine learning">machine learning</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/hipster-or-not/">The hipster classification game<span class="entry-date"><time datetime="2015-01-12T15:07:00-05:00">January 12, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="movies">movies</h2>
-<ul class="post-list">
-  
-    <li><a href="/projects/movie-project/">A basic linear regression model for predicting movie revenue<span class="entry-date"><time datetime="2015-01-30T07:00:00-05:00">January 30, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="new york">new york</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/week1/">First week impressions<span class="entry-date"><time datetime="2015-01-16T07:00:00-05:00">January 16, 2015</time></span></a></li>
-  
-    <li><a href="/blog/welcome/">Welcome<span class="entry-date"><time datetime="2014-12-26T09:18:00-05:00">December 26, 2014</time></span></a></li>
-  
-  </ul>
-
-<h2 id="pyplot">pyplot</h2>
-<ul class="post-list">
-  
-    <li><a href="/projects/movie-project/">A basic linear regression model for predicting movie revenue<span class="entry-date"><time datetime="2015-01-30T07:00:00-05:00">January 30, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="sklearn">sklearn</h2>
-<ul class="post-list">
-  
-    <li><a href="/projects/movie-project/">A basic linear regression model for predicting movie revenue<span class="entry-date"><time datetime="2015-01-30T07:00:00-05:00">January 30, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="statsmodels">statsmodels</h2>
-<ul class="post-list">
-  
-    <li><a href="/projects/movie-project/">A basic linear regression model for predicting movie revenue<span class="entry-date"><time datetime="2015-01-30T07:00:00-05:00">January 30, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="transport">transport</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/week1/">First week impressions<span class="entry-date"><time datetime="2015-01-16T07:00:00-05:00">January 16, 2015</time></span></a></li>
-  
-  </ul>
-
-<h2 id="visualization">visualization</h2>
-<ul class="post-list">
-  
-    <li><a href="/blog/just-discovered-ipython/">Discovery of the decade: IPython<span class="entry-date"><time datetime="2015-01-11T02:28:00-05:00">January 11, 2015</time></span></a></li>
-  
-  </ul>
-
+        
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="/blog/week1/" class="btn" title="First week impressions">Previous</a>
+      
+      
+    </nav><!-- /.pagination -->
   </article>
 </div><!-- /#main -->
 
@@ -367,7 +282,7 @@
 
 
 
-          
+	        
 
 </body>
 </html>

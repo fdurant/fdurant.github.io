@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "A basic linear regression model for predicting movie revenue",
+		  "category"   : "",
+      "tags"       : "movies, linear regression, statsmodels, sklearn, and pyplot",
+		  "url"        : "/projects/movie-project/",
+		  "date"       : "2015-01-30 07:00:00 -0500",
+		  "shortdate"  : "January 30, 2015"
+		} ,
+	
+		{
 		  "title"      : "First week impressions",
 		  "category"   : "",
       "tags"       : "data science, new york, food, and transport",

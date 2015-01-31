@@ -4,13 +4,76 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-01-16T13:40:24-05:00</updated>
+<updated>2015-01-30T22:37:45-05:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[A basic linear regression model for predicting movie revenue]]></title>
+  <link rel="alternate" type="text/html" href="/projects/movie-project/" />
+  <id>/projects/movie-project</id>
+  <published>2015-01-30T07:00:00-05:00</published>
+  <updated>2015-01-30T07:00:00-05:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;Our instructors from &lt;a href=&quot;http://datascopeanalytics.com&quot;&gt;Datascope Analytics&lt;/a&gt; designed the bootcamp around a number of projects.&lt;/p&gt;
+
+&lt;p&gt;In week 2 &amp;amp; 3, we were all let loose on movie revenue data scraped from &lt;a href=&quot;http://www.boxofficemojo.com&quot;&gt;Box Office Mojo&lt;/a&gt;.
+The major goal was to predict a movie-related value of choice by using a &lt;a href=&quot;http://en.wikipedia.org/wiki/Linear_regression&quot;&gt;linear regression&lt;/a&gt; model,
+optionally involving &lt;a href=&quot;http://en.wikipedia.org/wiki/Logarithm&quot;&gt;logarithmic&lt;/a&gt; and/or &lt;a href=&quot;http://en.wikipedia.org/wiki/Polynomial_regression&quot;&gt;polynomial terms&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first days were spent on writing and running the web scraper. I used &lt;a href=&quot;http://www.crummy.com/software/BeautifulSoup/&quot;&gt;Beautiful Soup&lt;/a&gt; and good old
+&lt;a href=&quot;https://docs.python.org/2/library/re.html&quot;&gt;regular expressions&lt;/a&gt; to parse and convert the messy Box Office Mojo data into a nice and clean &lt;a href=&quot;http://en.wikipedia.org/wiki/Comma-separated_values&quot;&gt;comma-separated&lt;/a&gt; &lt;a href=&quot;/projects/movie/BoxOfficeMojoMovies.csv&quot;&gt;file&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The scope of my personal project shrunk as the data came in and the days went by.
+In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&gt;IPython&lt;/a&gt;, I got to fit a number of multilinear regression models with &lt;a href=&quot;http://statsmodels.sourceforge.net/0.5.0/regression.html&quot;&gt;statsmodels&lt;/a&gt;, using
+&lt;a href=&quot;http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html&quot;&gt;sklearn&lt;/a&gt; for model evaluation (&lt;a href=&quot;http://en.wikipedia.org/wiki/Root-mean-square_deviation&quot;&gt;root-mean-squared error&lt;/a&gt;), and the inevitable &lt;a href=&quot;http://matplotlib.org/api/pyplot_api.html&quot;&gt;pyplot&lt;/a&gt; for visualization.&lt;/p&gt;
+
+&lt;p&gt;On Friday, the whole class delivered their presentations. My first-ever &lt;a href=&quot;/projects/movie/Metis_Data_Science_Project_Luther_20150130.pdf&quot;&gt;Keynote presentation&lt;/a&gt; was for a ficticious investor known by the name of Dino Brangelino. My conclusion: knowing the box office revenue of the opening weekend reduces total revenue prediction error by 15%.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/movieproject_presentation_1.jpg&quot; /&gt;
+	&lt;figcaption&gt;Presenting performance improvements in linear regression models to the Metis Data Science class&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A not-so-random sample of subjects from my fellow students’ talks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;how to convince laggards among the actors and actresses to go on Twitter, by predicting how many followers they would have if they did&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;can the monthly consumer optimism predict the prevalence of certain movie genres over others?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;does the choice of a distributor help to secure an Oscar nomination?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;which actor, actress, director or producer is overpaid or underpaid, given the gross revenue of the movies they have contributed to?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;does the co-featuring network of actors/actresses determine movie revenue?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/movieproject_presentation_2.jpg&quot; /&gt;
+	&lt;figcaption&gt;Presenting observed vs. predicted movie gross revenue on the best-performing linear regression model&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/projects/movie-project/&quot;&gt;A basic linear regression model for predicting movie revenue&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 30, 2015.&lt;/p&gt;</content>
+</entry>
 
 
   
