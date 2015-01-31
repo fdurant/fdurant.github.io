@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-01-30T22:37:45-05:00</updated>
+<updated>2015-01-31T10:16:14-05:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -39,7 +39,7 @@ optionally involving &lt;a href=&quot;http://en.wikipedia.org/wiki/Logarithm&quo
 In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&gt;IPython&lt;/a&gt;, I got to fit a number of multilinear regression models with &lt;a href=&quot;http://statsmodels.sourceforge.net/0.5.0/regression.html&quot;&gt;statsmodels&lt;/a&gt;, using
 &lt;a href=&quot;http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html&quot;&gt;sklearn&lt;/a&gt; for model evaluation (&lt;a href=&quot;http://en.wikipedia.org/wiki/Root-mean-square_deviation&quot;&gt;root-mean-squared error&lt;/a&gt;), and the inevitable &lt;a href=&quot;http://matplotlib.org/api/pyplot_api.html&quot;&gt;pyplot&lt;/a&gt; for visualization.&lt;/p&gt;
 
-&lt;p&gt;On Friday, the whole class delivered their presentations. My first-ever &lt;a href=&quot;/projects/movie/Metis_Data_Science_Project_Luther_20150130.pdf&quot;&gt;Keynote presentation&lt;/a&gt; was for a ficticious investor known by the name of Dino Brangelino. My conclusion: knowing the box office revenue of the opening weekend reduces total revenue prediction error by 15%.&lt;/p&gt;
+&lt;p&gt;On Friday, the whole class delivered their presentations. My first-ever &lt;a href=&quot;/projects/movie/Metis_Data_Science_Project_Luther_20150130.pdf&quot;&gt;Keynote presentation&lt;/a&gt; was for a ficticious investor known by the name of Dino Brangelino. My conclusion: knowing the box office revenue of the opening weekend -on top of the production budget- reduces total revenue prediction error by 15%.&lt;/p&gt;
 
 &lt;figure&gt;
 	&lt;img src=&quot;/images/movieproject_presentation_1.jpg&quot; /&gt;
@@ -53,7 +53,7 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
     &lt;p&gt;how to convince laggards among the actors and actresses to go on Twitter, by predicting how many followers they would have if they did&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;can the monthly consumer optimism predict the prevalence of certain movie genres over others?&lt;/p&gt;
+    &lt;p&gt;can monthly consumer optimism predict the mutual prevalence of movie genres?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;does the choice of a distributor help to secure an Oscar nomination?&lt;/p&gt;
