@@ -5,14 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>A basic linear regression model for predicting movie revenue &#8211; Frederik Durant's .data blog</title>
+<title>That second I hugged a Googler &#8211; Frederik Durant's .data blog</title>
 
-<meta name="keywords" content="movies, linear regression, statsmodels, sklearn, pyplot">
+<meta name="keywords" content="brain transfer, iq, eq, mba, science">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="A basic linear regression model for predicting movie revenue">
+<meta name="twitter:title" content="That second I hugged a Googler">
 
 
 
@@ -23,16 +23,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="A basic linear regression model for predicting movie revenue">
+<meta property="og:title" content="That second I hugged a Googler">
 
-<meta property="og:url" content="/projects/movie-project/">
+<meta property="og:url" content="/blog/hugging-a-googler/">
 <meta property="og:site_name" content="Frederik Durant's .data blog">
 
 
 
 
 
-<link rel="canonical" href="/projects/movie-project/">
+<link rel="canonical" href="/blog/hugging-a-googler/">
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frederik Durant's .data blog Feed">
 
 
@@ -131,9 +131,9 @@
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags"><a href="/tags/#movies" title="Pages tagged movies">movies</a>&nbsp;&bull;&nbsp;<a href="/tags/#linear regression" title="Pages tagged linear regression">linear regression</a>&nbsp;&bull;&nbsp;<a href="/tags/#statsmodels" title="Pages tagged statsmodels">statsmodels</a>&nbsp;&bull;&nbsp;<a href="/tags/#sklearn" title="Pages tagged sklearn">sklearn</a>&nbsp;&bull;&nbsp;<a href="/tags/#pyplot" title="Pages tagged pyplot">pyplot</a></span>
+        <span class="entry-tags"><a href="/tags/#brain transfer" title="Pages tagged brain transfer">brain transfer</a>&nbsp;&bull;&nbsp;<a href="/tags/#iq" title="Pages tagged iq">iq</a>&nbsp;&bull;&nbsp;<a href="/tags/#eq" title="Pages tagged eq">eq</a>&nbsp;&bull;&nbsp;<a href="/tags/#mba" title="Pages tagged mba">mba</a>&nbsp;&bull;&nbsp;<a href="/tags/#science" title="Pages tagged science">science</a></span>
         
-          <h1 class="entry-title">A basic linear regression model for predicting movie revenue</h1>
+          <h1 class="entry-title">That second I hugged a Googler</h1>
         
       </header>
       <footer class="entry-meta">
@@ -143,65 +143,71 @@
           <img src="/images/frederik_durant_mugshot.jpg" class="bio-photo" alt="Frederik Durant bio photo"></a>
         
         <span class="author vcard">By <span class="fn">Frederik Durant</span></span>
-        <span class="entry-date date published"><time datetime="2015-01-30T07:00:00-05:00"><i class="fa fa-calendar-o"></i> January 30, 2015</time></span>
+        <span class="entry-date date published"><time datetime="2015-02-08T07:10:00-05:00"><i class="fa fa-calendar-o"></i> February 08, 2015</time></span>
         
         
         <span class="social-share-twitter">
-  <a href="https://twitter.com/intent/tweet?hashtags=movies,linearregression,statsmodels,sklearn,pyplot&amp;text=A%20basic%20linear%20regression%20model%20for%20predicting%20movie%20revenue&amp;url=/projects/movie-project/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+  <a href="https://twitter.com/intent/tweet?hashtags=braintransfer,iq,eq,mba,science&amp;text=That%20second%20I%20hugged%20a%20Googler&amp;url=/blog/hugging-a-googler/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
 </span>
 <span class="social-share-facebook">
-  <a href="https://www.facebook.com/sharer/sharer.php?u=/projects/movie-project/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/blog/hugging-a-googler/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
 </span>
 <span class="social-share-googleplus">
-  <a href="https://plus.google.com/share?url=/projects/movie-project/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+  <a href="https://plus.google.com/share?url=/blog/hugging-a-googler/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
 </span>
 <!-- /.social-share -->
         
       </footer>
       <div class="entry-content">
-        <p>Our instructors from <a href="http://datascopeanalytics.com">Datascope Analytics</a> designed the bootcamp around a number of projects.</p>
+        <p>This week I hugged a <a href="https://www.linkedin.com/profile/view?id=27312399">Googler</a>, yes I did. How, why, huh? Let me tell you.</p>
 
-<p>In week 2 &amp; 3, we were all let loose on movie revenue data scraped from <a href="http://www.boxofficemojo.com">Box Office Mojo</a>.
-The major goal was to predict a movie-related value of choice by using a <a href="http://en.wikipedia.org/wiki/Linear_regression">linear regression</a> model,
-optionally involving <a href="http://en.wikipedia.org/wiki/Logarithm">logarithmic</a> and/or <a href="http://en.wikipedia.org/wiki/Polynomial_regression">polynomial terms</a>.</p>
+<p>On top of providing the formal lectures, challenges and project work, our <a href="http://www.thisismetis.com/data-science">bootcamp</a> regularly invites speakers from industry.
+So last Thursday, we were enlightened on the art of working with data in a scientifically and ethically sound fashion by no less than
+a super-smart and super-enthousiastic <a href="https://www.linkedin.com/profile/view?id=27312399">Googler</a> - my apologies for the double tautology.</p>
 
-<p>The first days were spent on writing and running the web scraper. I used <a href="http://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a> and good old
-<a href="https://docs.python.org/2/library/re.html">regular expressions</a> to parse and convert the messy Box Office Mojo data into a nice and clean <a href="http://en.wikipedia.org/wiki/Comma-separated_values">comma-separated</a> <a href="/projects/movie/BoxOfficeMojoMovies.csv">file</a>.</p>
+<p>To get the interaction going, we, mere mortal students, were offered a multiple (6) choice question. The last one of which was,
+obviously, <em>none of the above</em>.</p>
 
-<p>The scope of my personal project shrunk as the data came in and the days went by.
-In the end, after many iterations in <a href="http://ipython.org/">IPython</a>, I got to fit a number of multilinear regression models with <a href="http://statsmodels.sourceforge.net/0.5.0/regression.html">statsmodels</a>, using
-<a href="http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html">sklearn</a> for model evaluation (<a href="http://en.wikipedia.org/wiki/Root-mean-square_deviation">root-mean-squared error</a>), and the inevitable <a href="http://matplotlib.org/api/pyplot_api.html">pyplot</a> for visualization.</p>
-
-<p>On Friday, the whole class delivered their presentations. My first-ever <a href="/projects/movie/Metis_Data_Science_Project_Luther_20150130.pdf">Keynote presentation</a> was for a ficticious investor known by the name of Dino Brangelino. My conclusion: knowing the box office revenue of the opening weekend -on top of the production budget- reduces total revenue prediction error by 15%.</p>
-
-<figure>
-	<img src="/images/movieproject_presentation_1.jpg" />
-	<figcaption>Presenting performance improvements in linear regression models to the Metis Data Science class</figcaption>
-</figure>
-
-<p>A not-so-random sample of subjects from my fellow students’ talks:</p>
+<p>For a number of reasons, this answer exerted an irresistible attraction on my whole brain, body and being:</p>
 
 <ul>
-  <li>
-    <p>how to convince laggards among the actors and actresses to go on Twitter, by predicting how many followers they would have if they did</p>
-  </li>
-  <li>
-    <p>can monthly consumer optimism predict the mutual prevalence of movie genres?</p>
-  </li>
-  <li>
-    <p>does the choice of a distributor help to secure an Oscar nomination?</p>
-  </li>
-  <li>
-    <p>which actor, actress, director or producer is overpaid or underpaid, given the gross revenue of the movies they have contributed to?</p>
-  </li>
-  <li>
-    <p>does the co-featuring network of actors/actresses determine movie revenue?</p>
-  </li>
+  <li>even in case of total ignorance, it still looks like you gave the matter such deep thought, that none of the above answers
+could possibly be nuanced and/or precise enough for complete intellectual satisfaction</li>
+  <li>strategically, it’s a safe bet, because the speaker may want to demonstrate his/her proficiency on why all of the above answers are clearly wrong or incomplete, as an introduction to the rest of the talk</li>
+  <li>last but not least, my eldest daughter is a self-certified expert in guessing multiple-choice answers</li>
 </ul>
 
+<p>So when the time came, I shouted ‘F!’</p>
+
+<p>And then it happened.</p>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">[Googler]: Who said &#39;F&#39; over there?
+[Humble student]: I did! (hesitantly raising my hand)
+[Googler]: Why?
+[Humble student]: Because whatever mumble mumble bla bla bla
+[Googler]: That&#39;s correct! Let me give you a hug
+[Humble student]: Sure, why not</code></pre></div>
+
+<p>As my grey cells <a href="http://youtu.be/h8JX1Pl9F_Q?t=38s">wandered off</a>, I thankfully received my
+proverbial pat on the shoulder. It was over in a second, but no less real.</p>
+
+<p>I hugged a Googler. Or rather, was hugged by one.</p>
+
+<p>In a strike of celestial irony, the remainder of the talk focused on the importance for aspiring data
+scientists to <strike>dumb down</strike> reformulate their scientific messages to less scientifically
+inclined <strike>creatures</strike> professionals
+known as <a href="http://be.linkedin.com/in/fdurant">MBAs</a>.
+As I understood it, their main role at Google is to translate Truth into more digestible truths, depending
+on the VP they’re trying to please.</p>
+
+<p>So by the time the talk was over, the earth had come back into its normal orbit, everyone knew their place,
+and universal harmony was restored.</p>
+
+<p>But the hug was mine.</p>
+
 <figure>
-	<img src="/images/movieproject_presentation_2.jpg" />
-	<figcaption>Presenting observed vs. predicted movie gross revenue on the best-performing linear regression model</figcaption>
+	<img src="/images/jekyll_hyde_mad_scientist.jpg" alt="Jekyll and Hyde: restaurant and social club for explorers and mad scientists" />
+	<figcaption>Explorers and mad (data) scientists feeling at home in New York City</figcaption>
 </figure>
 
 
@@ -210,10 +216,8 @@ In the end, after many iterations in <a href="http://ipython.org/">IPython</a>, 
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       
-        <a href="/blog/week1/" class="btn" title="First week impressions">Previous</a>
+        <a href="/projects/movie-project/" class="btn" title="A basic linear regression model for predicting movie revenue">Previous</a>
       
-      
-        <a href="/blog/hugging-a-googler/" class="btn" title="That second I hugged a Googler">Next</a>
       
     </nav><!-- /.pagination -->
   </article>

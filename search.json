@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "That second I hugged a Googler",
+		  "category"   : "",
+      "tags"       : "brain transfer, iq, eq, mba, and science",
+		  "url"        : "/blog/hugging-a-googler/",
+		  "date"       : "2015-02-08 07:10:00 -0500",
+		  "shortdate"  : "February 08, 2015"
+		} ,
+	
+		{
 		  "title"      : "A basic linear regression model for predicting movie revenue",
 		  "category"   : "",
       "tags"       : "movies, linear regression, statsmodels, sklearn, and pyplot",
