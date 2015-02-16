@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Five data science haikus",
+		  "category"   : "",
+      "tags"       : "haiku, poetry, and why not",
+		  "url"        : "/blog/data-science-haikus/",
+		  "date"       : "2015-02-15 17:20:00 -0500",
+		  "shortdate"  : "February 15, 2015"
+		} ,
+	
+		{
 		  "title"      : "That second I hugged a Googler",
 		  "category"   : "",
       "tags"       : "brain transfer, iq, eq, mba, and science",
