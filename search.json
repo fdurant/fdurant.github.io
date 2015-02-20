@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Selling a new banking product to the right customers (first)",
+		  "category"   : "",
+      "tags"       : "banking, target marketing, lift, customer ranking, logistic regression, knn, sklearn, d3, and visualization",
+		  "url"        : "/projects/banking-project/",
+		  "date"       : "2015-02-20 10:45:00 -0500",
+		  "shortdate"  : "February 20, 2015"
+		} ,
+	
+		{
 		  "title"      : "Five data science haikus",
 		  "category"   : "",
       "tags"       : "haiku, poetry, and why not",
