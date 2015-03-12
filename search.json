@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "A quick glance into 775 thousand Kiva borrower stories",
+		  "category"   : "",
+      "tags"       : "nlp, topic modelling, microfinance, loans, development, kiva, d3, and visualization",
+		  "url"        : "/projects/kiva-topic-modelling-project/",
+		  "date"       : "2015-03-12 15:00:00 -0400",
+		  "shortdate"  : "March 12, 2015"
+		} ,
+	
+		{
 		  "title"      : "Selling a new banking product to the right customers (first)",
 		  "category"   : "",
       "tags"       : "banking, target marketing, lift, customer ranking, logistic regression, knn, sklearn, d3, and visualization",

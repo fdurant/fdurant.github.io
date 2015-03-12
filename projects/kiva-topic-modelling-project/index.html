@@ -1,0 +1,343 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>A quick glance into 775 thousand Kiva borrower stories &#8211; Frederik Durant's .data blog</title>
+
+<meta name="keywords" content="nlp, topic modelling, microfinance, loans, development, kiva, d3, visualization">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="A quick glance into 775 thousand Kiva borrower stories">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="/images/dot_data_512x512.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A quick glance into 775 thousand Kiva borrower stories">
+
+<meta property="og:url" content="/projects/kiva-topic-modelling-project/">
+<meta property="og:site_name" content="Frederik Durant's .data blog">
+
+
+
+
+
+<link rel="canonical" href="/projects/kiva-topic-modelling-project/">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frederik Durant's .data blog Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="post">
+
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+      
+		    
+		        
+		    
+		    <li><a href="/about/" >About</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="/blog/" >Blog</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="/projects/" >Project portfolio</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="/contact/" >Contact</a></li>
+		  
+        <li class="dosearch"><span><i class="fa fa-search"></i> Search</span></li>
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+<div class="search-wrapper">
+  <div class="search-form">
+    <input type="text" class="search-field" placeholder="Search...">
+    <button class="close-btn"><i class="fa fa-times-circle fa-2x"></i></button>
+    <ul class="search-results post-list"></ul><!-- /.search-results -->
+  </div><!-- /.search-form -->
+</div><!-- ./search-wrapper -->
+
+<header class="masthead">
+	<div class="wrap">
+        
+    		<a href="/" class="site-logo" rel="home" title="Frederik Durant's .data blog"><img src="/images/dot_data_512x512.png" width="200" height="200" alt="Frederik Durant's .data blog logo" class="animated fadeInUp"></a>
+        
+        <h1 class="site-title animated fadeIn"><a href="/">Frederik Durant's .data blog</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">On a data science sabbatical in NYC</h2>
+	</div>
+</header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
+
+<div id="main" role="main">
+  <article class="hentry">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags"><a href="/tags/#nlp" title="Pages tagged nlp">nlp</a>&nbsp;&bull;&nbsp;<a href="/tags/#topic modelling" title="Pages tagged topic modelling">topic modelling</a>&nbsp;&bull;&nbsp;<a href="/tags/#microfinance" title="Pages tagged microfinance">microfinance</a>&nbsp;&bull;&nbsp;<a href="/tags/#loans" title="Pages tagged loans">loans</a>&nbsp;&bull;&nbsp;<a href="/tags/#development" title="Pages tagged development">development</a>&nbsp;&bull;&nbsp;<a href="/tags/#kiva" title="Pages tagged kiva">kiva</a>&nbsp;&bull;&nbsp;<a href="/tags/#d3" title="Pages tagged d3">d3</a>&nbsp;&bull;&nbsp;<a href="/tags/#visualization" title="Pages tagged visualization">visualization</a></span>
+        
+          <h1 class="entry-title">A quick glance into 775 thousand Kiva borrower stories</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        
+        
+        
+          <img src="/images/frederik_durant_mugshot.jpg" class="bio-photo" alt="Frederik Durant bio photo"></a>
+        
+        <span class="author vcard">By <span class="fn">Frederik Durant</span></span>
+        <span class="entry-date date published"><time datetime="2015-03-12T15:00:00-04:00"><i class="fa fa-calendar-o"></i> March 12, 2015</time></span>
+        
+        
+        <span class="social-share-twitter">
+  <a href="https://twitter.com/intent/tweet?hashtags=nlp,topicmodelling,microfinance,loans,development,kiva,d3,visualization&amp;text=A%20quick%20glance%20into%20775%20thousand%20Kiva%20borrower%20stories&amp;url=/projects/kiva-topic-modelling-project/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+</span>
+<span class="social-share-facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/projects/kiva-topic-modelling-project/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+</span>
+<span class="social-share-googleplus">
+  <a href="https://plus.google.com/share?url=/projects/kiva-topic-modelling-project/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+</span>
+<!-- /.social-share -->
+        
+      </footer>
+      <div class="entry-content">
+        <html lang="en" ng-app="hierarchie">
+  <head>
+  <title>Project: A quick glance into 775 thousand Kiva borrower stories</title>
+  <!--script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script-->
+  <script src="http://d3js.org/d3.v3.js" charset="utf-8"></script>
+
+  <!-- Next elements added from Hierarchie-->
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <link rel="stylesheet" type="text/css" media="all" href="app/css/app.css" />
+  <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,400" rel="stylesheet" type="text/css" />
+  <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    
+    <p>A few weeks ago, I made a microloan to political management student Yaqout from Al Hashmiya, Jordan.
+      Twenty-three other lenders from around the globe did
+      the same, for a total of $725. Yaqout will use this sum to
+      finance her next semester.</p>
+
+    <p><img src="/images/yakout_from_jordan.jpg" /></p>
+
+    <p>The loan was facilitated by <a href="http://www.kiva.org/" target="_blank">Kiva</a>, a microfinance
+      platform that has
+      been around since 2005. In these ten years, hundreds of thousands of borrowers like Yaqout have applied for a loan by
+      telling their <a href="http://www.kiva.org/lend/844974" target="_blank">personal story</a> and describing
+      their ambitions and plans.</p>
+
+      <p>As it happens, Kiva <a href="http://build.kiva.org/">meticulously gathers all these stories,
+	and makes them available to the world</a> for further application development and research. So we had a look!</p>
+
+    <h2>Semantic modelling as a subgoal of natural language processing</h2>
+
+    <p>Over the past 2 1/2 weeks, the Metis Data Science Bootcamp
+      introduced <a href="http://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing</a>
+      (= NLP, not to be confused with
+      <a href="http://en.wikipedia.org/wiki/Neuro-linguistic_programming" target="_blank">Neuro-Linguistic Programming</a>).</p>
+
+    <p>One subgoal of NLP is to make it easy for humans to process huge amounts of textual data. While every earthling nowadays
+      routinely uses <a href="http://google.com/" target="_blank">text search</a> (a.k.a. information retrieval),
+      getting an insight into the contents of massive data collections is still less common to the public at large.
+      Yet, over the last 20 years,
+      technologies like <a href="http://en.wikipedia.org/wiki/Latent_semantic_indexing">latent semantic indexing</a> and
+      more recently <a href="http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf" target="_blank">probabilistic topic
+	models</a> have been developed to precisely address this need.</p>
+
+    <h2>Kiva borrower stories at a glance</h2>
+
+    <p>The <a href="http://bl.ocks.org/mbostock/4348373">zoomable
+    sunburst</a> depicted below offers a bird's-eye view into 775
+    thousand Kiva borrower stories. Each of the 64 outer segments 
+    represents one core topic, which is expressed as a probability distribution over a vocabulary of 1000 words (excluding stop
+      words and other very frequent words). From these
+      1000 words, only the <em>seven</em> most prominent ones are shown for each topic.
+      The inner segments represent successive higher-abstract groupings of the core topics.</p>
+
+    <p>The breadcrumb arrow at the top left-hand side shows the path of all most prominent words visited, as you traverse
+      the hierarchy from the central circle to the outer rings, and back.</p>
+
+    <div ng-view="">
+      <script src="bower_components/d3/d3.min.js"></script>
+      <script src="bower_components/angular/angular.js"></script>
+      <script src="bower_components/angular-route/angular-route.js"></script>
+      <script src="bower_components/underscore/underscore.js"></script>
+      <script src="app/js/app.js"></script>
+      <script src="app/js/routes.js"></script>
+      <script src="app/js/services.js"></script>
+      <script src="app/js/controllers.js"></script>
+      <script src="app/js/filters.js"></script>
+      <script src="app/js/directives.js"></script>		
+      <script src="app/js/directives/breadcrumb.js"></script>
+      <script src="app/js/directives/sunburst-perspective.js"></script>
+      <script src="app/js/directives/sunburst.js"></script>  
+    </div>
+
+    <p align="right"><small>See <a href="http://mlvl.github.io/Hierarchie/#/about">Hierarchie intro</a></small></p>
+
+    <p>The size of each segment represents the presence of this topic in the whole collection, i.e. across
+      <em>all</em> borrower stories. In probabilistic topic modelling, each document is indeed seen as having
+      been generated by a probabilistic drawing from <em>all</em> topics in the data collection - with some
+      topics being more prominent than others, for each document at hand. Otherwise stated:
+      no single document has an <em>exclusive</em> relationship to a
+      single topic, and vice versa.</p>
+
+    <p>The colors have no other purpose than to serve visual distinctiveness.</p>
+
+    <h2>The topic modelling process</h2>
+
+    <p>Please refer to
+    our <a href="http://nbviewer.ipython.org/github/fdurant/kiva_project/blob/master/hierarchical_topic_modelling_of_kiva_loan_descriptions.ipynb" target="_">iPython notebook</a>
+    and <a href="https://github.com/fdurant/kiva_project" target="_">GitHub repository</a> for all details of the topic
+    modelling process, up to the production of the topic hierarchy.</p>
+    
+    <p>For visualizing the topic hierarchy , we used the <a href="http://mlvl.github.io/Hierarchie/#/about">Hierarchie</a>
+      system developed at/by the <a href="http://www.dac.us/">Decisive Analytics Corporation</a>.</p>
+
+    </body>
+
+</html>
+
+
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="/projects/banking-project/" class="btn" title="Selling a new banking product to the right customers (first)">Previous</a>
+      
+      
+    </nav><!-- /.pagination -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+    
+
+<span>&copy; 2015 Frederik Durant. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/so-simple/" rel="nofollow">So Simple Theme</a>.</span>
+<div class="social-icons">
+	
+	<a href="http://facebook.com/frederik.durant.7" title="Frederik Durant on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+	
+	<a href="http://linkedin.com/in/fdurant" title="Frederik Durant on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+	
+	
+	
+	<a href="http://github.com/fdurant" title="Frederik Durant on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+	
+  <a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+</div><!-- /.social-icons -->
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+
+<!-- Jekyll Simple Search option -->
+<script>
+  $(document).ready(function() {
+      $('.search-field').jekyllSearch({
+          jsonFile: '/search.json',
+          searchResults: '.search-results',
+          template: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          fuzzy: true,
+          noResults: '<p>Nothing found.</p>'
+        });
+  });
+
+  (function( $, window, undefined ) {
+    
+     var bs = {
+          close: $(".close-btn"),
+          searchform: $(".search-form"),
+          canvas: $(".js-menu-screen"),
+          dothis: $('.dosearch')
+      };
+    
+    bs.dothis.on('click', function() {
+      $('.search-wrapper').css({ display: "block" });
+      $('body').toggleClass('no-scroll');
+      bs.searchform.toggleClass('active');
+      bs.searchform.find('input').focus();
+      bs.canvas.toggleClass('is-visible');
+    });
+    
+      bs.close.on('click', function() {
+        $('.search-wrapper').removeAttr( 'style' );
+        $('body').toggleClass('no-scroll');
+        bs.searchform.toggleClass('active');
+        bs.canvas.removeClass('is-visible');
+    });
+  })( jQuery, window );
+</script>
+
+
+
+
+	        
+
+</body>
+</html>
