@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-03-12T18:49:58-04:00</updated>
+<updated>2015-03-13T12:03:09-04:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -19,8 +19,8 @@
   <title type="html"><![CDATA[A quick glance into 775 thousand Kiva borrower stories]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-topic-modelling-project/" />
   <id>/projects/kiva-topic-modelling-project</id>
-  <published>2015-03-12T15:00:00-04:00</published>
-  <updated>2015-03-12T15:00:00-04:00</updated>
+  <published>2015-03-13T08:00:00-04:00</published>
+  <updated>2015-03-13T08:00:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -43,30 +43,33 @@
     
     &lt;p&gt;A few weeks ago, I made a microloan to political management student Yaqout from Al Hashmiya, Jordan.
       Twenty-three other lenders from around the globe did
-      the same, for a total of $725. Yaqout will use this sum to
+      the same, reaching a total of $725. Yaqout will use the money to
       finance her next semester.&lt;/p&gt;
 
     &lt;p&gt;&lt;img src=&quot;/images/yakout_from_jordan.jpg&quot; /&gt;&lt;/p&gt;
 
     &lt;p&gt;The loan was facilitated by &lt;a href=&quot;http://www.kiva.org/&quot; target=&quot;_blank&quot;&gt;Kiva&lt;/a&gt;, a microfinance
-      platform that has
-      been around since 2005. In these ten years, hundreds of thousands of borrowers like Yaqout have applied for a loan by
-      telling their &lt;a href=&quot;http://www.kiva.org/lend/844974&quot; target=&quot;_blank&quot;&gt;personal story&lt;/a&gt; and describing
-      their ambitions and plans.&lt;/p&gt;
+      platform that has been around since 2005. In ten years, hundreds
+      of thousands of borrowers like Yaqout have supported their loan
+      application with a &lt;a href=&quot;http://www.kiva.org/lend/844974&quot; target=&quot;_blank&quot;&gt;personal story&lt;/a&gt; describing their ambitions and plans.&lt;/p&gt;
 
-      &lt;p&gt;As it happens, Kiva &lt;a href=&quot;http://build.kiva.org/&quot;&gt;meticulously gathers all these stories,
-	and makes them available to the world&lt;/a&gt; for further application development and research. So we had a look!&lt;/p&gt;
+      &lt;p&gt;Over the years, Kiva have
+      meticulously collected all these stories. What&#39;s more, they
+      made them &lt;a href=&quot;http://build.kiva.org/&quot; target=&quot;_blank&quot;&gt;available for further application development and
+      research&lt;/a&gt;. Perfect for a data science project!&lt;/p&gt;
 
-    &lt;h2&gt;Semantic modelling as a subgoal of natural language processing&lt;/h2&gt;
+    &lt;h2&gt;Topic modelling as a subgoal of natural language processing&lt;/h2&gt;
 
     &lt;p&gt;Over the past 2 1/2 weeks, the Metis Data Science Bootcamp
       introduced &lt;a href=&quot;http://en.wikipedia.org/wiki/Natural_language_processing&quot;&gt;Natural Language Processing&lt;/a&gt;
       (= NLP, not to be confused with
-      &lt;a href=&quot;http://en.wikipedia.org/wiki/Neuro-linguistic_programming&quot; target=&quot;_blank&quot;&gt;Neuro-Linguistic Programming&lt;/a&gt;).&lt;/p&gt;
+      &lt;a href=&quot;http://en.wikipedia.org/wiki/Neuro-linguistic_programming&quot; target=&quot;_blank&quot;&gt;Neuro-Linguistic Programming&lt;/a&gt;). One subgoal
+      of NLP is to make it easier for humans to process and interpret huge amounts of
+      text data.&lt;/p&gt;
 
-    &lt;p&gt;One subgoal of NLP is to make it easy for humans to process huge amounts of textual data. While every earthling nowadays
-      routinely uses &lt;a href=&quot;http://google.com/&quot; target=&quot;_blank&quot;&gt;text search&lt;/a&gt; (a.k.a. information retrieval),
-      getting an insight into the contents of massive data collections is still less common to the public at large.
+    &lt;p&gt;While most earthlings nowadays
+      routinely use &lt;a href=&quot;http://google.com/&quot; target=&quot;_blank&quot;&gt;text search&lt;/a&gt; (a.k.a. information retrieval),
+      fewer are accustomed to getting (at least an impressionistic) insight into the contents of massive data collections.
       Yet, over the last 20 years,
       technologies like &lt;a href=&quot;http://en.wikipedia.org/wiki/Latent_semantic_indexing&quot;&gt;latent semantic indexing&lt;/a&gt; and
       more recently &lt;a href=&quot;http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf&quot; target=&quot;_blank&quot;&gt;probabilistic topic
@@ -74,9 +77,20 @@
 
     &lt;h2&gt;Kiva borrower stories at a glance&lt;/h2&gt;
 
+    &lt;p&gt;With the help
+    of &lt;a href=&quot;https://radimrehurek.com/gensim/&quot; target=&quot;_blank&quot;&gt;gensim&lt;/a&gt;, an excellent Python library for topic modelling,
+    we extracted 64 topics from a corpus containing 775 thousand
+    borrower stories. Please refer to
+    our &lt;a href=&quot;http://nbviewer.ipython.org/github/fdurant/kiva_project/blob/master/hierarchical_topic_modelling_of_kiva_loan_descriptions.ipynb&quot; target=&quot;_&quot;&gt;iPython notebook&lt;/a&gt;
+    and &lt;a href=&quot;https://github.com/fdurant/kiva_project&quot; target=&quot;_&quot;&gt;GitHub repository&lt;/a&gt; for details.&lt;/p&gt;
+    
+    &lt;p&gt;The end result of the topic modelling process is a topic
+      hierarchy. To visualize it, we used
+      the &lt;a href=&quot;http://mlvl.github.io/Hierarchie/#/about&quot;&gt;Hierarchie&lt;/a&gt; 
+      system developed at/by the &lt;a href=&quot;http://www.dac.us/&quot;&gt;Decisive Analytics Corporation&lt;/a&gt;.&lt;/p&gt;
+
     &lt;p&gt;The &lt;a href=&quot;http://bl.ocks.org/mbostock/4348373&quot;&gt;zoomable
-    sunburst&lt;/a&gt; depicted below offers a bird&#39;s-eye view into 775
-    thousand Kiva borrower stories. Each of the 64 outer segments 
+    sunburst&lt;/a&gt; graph below offers a bird&#39;s-eye view of the Kiva borrower stories. Each of the 64 outer segments 
     represents one core topic, which is expressed as a probability distribution over a vocabulary of 1000 words (excluding stop
       words and other very frequent words). From these
       1000 words, only the &lt;em&gt;seven&lt;/em&gt; most prominent ones are shown for each topic.
@@ -105,29 +119,20 @@
 
     &lt;p&gt;The size of each segment represents the presence of this topic in the whole collection, i.e. across
       &lt;em&gt;all&lt;/em&gt; borrower stories. In probabilistic topic modelling, each document is indeed seen as having
-      been generated by a probabilistic drawing from &lt;em&gt;all&lt;/em&gt; topics in the data collection - with some
-      topics being more prominent than others, for each document at hand. Otherwise stated:
+      been generated by a probabilistic draw from &lt;em&gt;all&lt;/em&gt; topics in the data collection - with some
+      topics being more prominent than others. Otherwise stated:
       no single document has an &lt;em&gt;exclusive&lt;/em&gt; relationship to a
       single topic, and vice versa.&lt;/p&gt;
 
-    &lt;p&gt;The colors have no other purpose than to serve visual distinctiveness.&lt;/p&gt;
-
-    &lt;h2&gt;The topic modelling process&lt;/h2&gt;
-
-    &lt;p&gt;Please refer to
-    our &lt;a href=&quot;http://nbviewer.ipython.org/github/fdurant/kiva_project/blob/master/hierarchical_topic_modelling_of_kiva_loan_descriptions.ipynb&quot; target=&quot;_&quot;&gt;iPython notebook&lt;/a&gt;
-    and &lt;a href=&quot;https://github.com/fdurant/kiva_project&quot; target=&quot;_&quot;&gt;GitHub repository&lt;/a&gt; for all details of the topic
-    modelling process, up to the production of the topic hierarchy.&lt;/p&gt;
-    
-    &lt;p&gt;For visualizing the topic hierarchy , we used the &lt;a href=&quot;http://mlvl.github.io/Hierarchie/#/about&quot;&gt;Hierarchie&lt;/a&gt;
-      system developed at/by the &lt;a href=&quot;http://www.dac.us/&quot;&gt;Decisive Analytics Corporation&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;The colors have no other purpose than to serve visual
+    distinctiveness; they do not carry any meaning as such.&lt;/p&gt;
 
     &lt;/body&gt;
 
 &lt;/html&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/projects/kiva-topic-modelling-project/&quot;&gt;A quick glance into 775 thousand Kiva borrower stories&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 12, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/projects/kiva-topic-modelling-project/&quot;&gt;A quick glance into 775 thousand Kiva borrower stories&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
