@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-04-07T11:25:53-04:00</updated>
+<updated>2015-04-07T14:44:05-04:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -137,7 +137,7 @@
 
     &lt;figure&gt;
       &lt;img src=&quot;/images/nr_loans_per_quarter.png&quot; style=&quot;margin-top:20px; margin-bottom:20px;&quot; /&gt;
-      &lt;figcaption&gt;Per-quarter histogram of loan requests in period 2006-2014&lt;/figcaption&gt;
+      &lt;figcaption&gt;Per-quarter bar chart of loan requests in period 2006-2014&lt;/figcaption&gt;
     &lt;/figure&gt;
 
     &lt;p&gt;The rising number of non-backfilled loans since 2012 may be due to the
@@ -175,7 +175,7 @@
     &lt;a href=&quot;http://en.wikipedia.org/wiki/Sankey_diagram&quot; target=&quot;_&quot;&gt;Sankey diagram&lt;/a&gt;
     below summarizes, for the period 2012 through 2014, the
     money flows between lenders and borrowers. In these three years,
-    about &lt;b&gt;325 million dollars&lt;/b&gt; have been lent &amp;mdash; and the
+    more than &lt;b&gt;321 million dollars&lt;/b&gt; have been lent &amp;mdash; and then
     (hopefully) repaid.&lt;/p&gt;
     &lt;p&gt; The connections in the center &amp;quot;column&amp;quot; shows the
     country-to-country money flows. The left and right column do not
@@ -319,8 +319,8 @@
       &lt;tr&gt;
 	&lt;td&gt;&lt;a href=&quot;http://matplotlib.org&quot; target=&quot;_&quot;&gt;Matplotlib&lt;/a&gt;&lt;/td&gt;
 	&lt;td&gt;Plotting data&lt;/td&gt;
-	&lt;td&gt;Producing the loan histograms, split per gender and
-	quarter (see above), and other graphs&lt;/td&gt;
+	&lt;td&gt;Producing the loan bar chart, split per gender and
+	quarter (see above), and feature polarity graphs (see below)&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
 	&lt;td&gt;&lt;a href=&quot;https://radimrehurek.com/gensim/&quot; target=&quot;_&quot;&gt;gensim&lt;/a&gt;&lt;/td&gt;
@@ -532,9 +532,11 @@
       &lt;/ul&gt;
     &lt;/p&gt;
 
-    &lt;p&gt;Also interesting is the direction in which each feature
-    influences a positive prediction. Let&#39;s look successively at the
-    &amp;quot;PostedMonth&amp;quot; features, the topic features, and the other ones.&lt;/p&gt;
+    &lt;p&gt;Also of interest is the feature polarity, i.e. whether a feature
+    influences a positive prediction (= full funding) in the positive
+    or negative sense. Let&#39;s look successively at the 
+    &amp;quot;PostedMonth&amp;quot; features, the topic features, and all the
+    other ones.&lt;/p&gt;
 
     &lt;h3&gt;What is the optimal time of year to post a loan?&lt;/h3&gt;
 
