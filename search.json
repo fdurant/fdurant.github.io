@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "An end-to-end loan funding predictor for kiva.org",
+		  "category"   : "",
+      "tags"       : "topic models, microfinance, loans, development, kiva, d3, visualization, end2end, and deployment",
+		  "url"        : "/projects/kiva-loan-funding-predictor-project/",
+		  "date"       : "2015-04-06 23:20:00 -0400",
+		  "shortdate"  : "April 06, 2015"
+		} ,
+	
+		{
 		  "title"      : "A quick glance into 775 thousand Kiva borrower stories",
 		  "category"   : "",
       "tags"       : "nlp, topic modelling, microfinance, loans, development, kiva, d3, and visualization",
