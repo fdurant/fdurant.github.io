@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-04-08T09:25:26-04:00</updated>
+<updated>2015-04-08T09:29:33-04:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -174,14 +174,14 @@
     &lt;h3&gt;Kiva micro-finance is big&lt;/h3&gt;
 
     &lt;p&gt;As a final introductory note, let&#39;s
-    visualize &lt;a href=&quot;sankey.html&quot; target=&quot;_&quot;&gt;how money 
+    visualize &lt;a href=&quot;sankey.html&quot; target=&quot;_&quot;&gt;how (much) money 
     flows through the global Kiva ecosystem&lt;/a&gt;. The interactive
     &lt;a href=&quot;http://en.wikipedia.org/wiki/Sankey_diagram&quot; target=&quot;_&quot;&gt;Sankey diagram&lt;/a&gt;
     below summarizes, for the period 2012 through 2014, the
     money flows between lenders and borrowers. In these three years,
     more than &lt;b&gt;321 million dollars&lt;/b&gt; have been lent &amp;mdash; and then
     (hopefully) repaid.&lt;/p&gt;
-    &lt;p&gt; The connections in the center &amp;quot;column&amp;quot; shows the
+    &lt;p&gt; The connections in the center &amp;quot;column&amp;quot; show the
     country-to-country money flows. The left and right column do not
     really represent flows; they rather group the countries by region,
     respectively from the lenders&#39; and the borrowers&#39; perspective.&lt;/p&gt;
