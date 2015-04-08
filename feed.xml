@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-04-08T08:46:57-04:00</updated>
+<updated>2015-04-08T09:25:26-04:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -148,8 +148,8 @@
     relative lack of fresh inflowing capital from Kiva lenders, and/or to
     an intrinsic deterioration of loan quality. Whichever the reason,
     it is unknown if, to what extent and how soon the rising proportion of
-    non-backfilled loans has translated into a growing refusal of
-      loan requests by the field partners to predisburse loans in the
+    non-backfilled loans has translated into a growing reticence for
+      field partners to predisburse loans in the
       first place: no data are currently available to test either of these
     hypotheses. But from the 
       field partners&#39; perspective, &lt;b&gt;there must
@@ -257,7 +257,7 @@
     controversial&lt;/b&gt;. They might indeed carry unintended
     side-effects, such as information asymmetry, perceived or real
     favoritism, and, in the worst case, intentional misrepresentation of
-    loan characteristics. Since trust and transparancy are key values for Kiva
+    loan characteristics. Since trust and transparency are key values for Kiva
     &amp;mdash; or any other finance system, for that matter &amp;mdash;
     any potential deployment into a global production setting should only happen after careful
     analysis of the risks and benefits involved. &lt;b&gt;In the framework
