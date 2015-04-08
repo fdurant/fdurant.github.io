@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-04-07T14:44:05-04:00</updated>
+<updated>2015-04-08T08:46:57-04:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -45,6 +45,10 @@
   &lt;/head&gt;
 
   &lt;body&gt;
+
+    &lt;h2&gt;No time? Here&#39;s the short story&lt;/h2&gt;
+
+    &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/46767328&quot; width=&quot;476&quot; height=&quot;400&quot; frameborder=&quot;1&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
     &lt;h2&gt;Introduction&lt;/h2&gt;
 
@@ -721,8 +725,8 @@
 	captured in the logistic regression model. At prediction time,
 	the loan document&#39;s
 	gamma values serve as input to the logistic
-	regression model (where, oddly enough, we call them &lt;em&gt;beta&lt;/em&gt;
-	values). This happens in combination with all the other features,
+	regression model.
+	This prediction happens together with all the other features in one go,
 	of course.&lt;/p&gt;
 
     &lt;h2&gt;Step 6: Getting Kiva&#39;s information on a new loan&lt;/h2&gt;
@@ -803,7 +807,7 @@
     behaviours or revise certain decision strategies, should they feel
     the need to do so.&lt;/p&gt;
 
-    &lt;p&gt;As fas as deployment in the Kiva ecosystem is concerned, then, there
+    &lt;p&gt;As far as deployment in the Kiva ecosystem is concerned, then, there
       will be &lt;b&gt;more strategic and ethical questions to be answered,
       than technical ones&lt;/b&gt;.&lt;/p&gt;
 
@@ -847,7 +851,7 @@
 	post, and, more generally, his interest in this project.&lt;/li&gt;
 	&lt;li&gt;all my fellow &lt;a href=&quot;http://www.thisismetis.com/ds-alumni&quot; target=&quot;_&quot;&gt;Metis Data Science students (Winter Cohort
 	2015)&lt;/a&gt;, and my fellow &lt;a href=&quot;https://krash.io/&quot; target=&quot;_&quot;&gt;Krashers in Brooklyn&lt;/a&gt;.&lt;/li&gt;
-	&lt;li&gt;my family and friends at home, for keeping up with my three-month absence.&lt;/li&gt;
+	&lt;li&gt;my family and friends at home, for putting up with my three-month absence.&lt;/li&gt;
 	&lt;li&gt;the amazing and awesome city and people of New York, for
 	their inspiration and energy.&lt;/li&gt;
       &lt;/ul&gt;
