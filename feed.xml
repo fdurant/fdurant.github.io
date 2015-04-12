@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-04-08T09:44:37-04:00</updated>
+<updated>2015-04-12T22:51:14+02:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,79 @@
   
 
 <entry>
+  <title type="html"><![CDATA[American picture haikus]]></title>
+  <link rel="alternate" type="text/html" href="/blog/usa-picture-haikus/" />
+  <id>/blog/usa-picture-haikus</id>
+  <published>2015-04-12T04:00:00+02:00</published>
+  <updated>2015-04-12T04:00:00+02:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Arlington Cemetary&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin-top:20px;&quot; src=&quot;/images/jfk_and_so_my_fellow_americans.jpg&quot; alt=&quot;JFK&#39;s inaugural address at Arlington Cemetary&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote style=&quot;clear:left&quot;&gt;
+What&#39;s America?&lt;br /&gt;
+No greater duty on earth&lt;br /&gt;
+Than live by free will
+&lt;/blockquote&gt;
+
+&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Art&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/nam_june_paik_electronic_superhighway.jpg&quot; alt=&quot;Nam June Paik: Electronic Superhighway&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote style=&quot;clear:left&quot;&gt;
+The canvass of truth&lt;br /&gt;
+Is more than often painted&lt;br /&gt;
+In hellish colors
+&lt;/blockquote&gt;
+
+&lt;h1 style=&quot;float:left&quot; id=&quot;Six&quot;&gt;New York Subway&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/faith_vs_fate.jpg&quot; alt=&quot;Faith versus fate&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote style=&quot;clear:left&quot;&gt;
+Motion and movement&lt;br /&gt;
+Driven by skies or by man&lt;br /&gt;
+A squeaking balance
+&lt;/blockquote&gt;
+
+&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Brooklyn&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/brooklyn_graffiti.jpg&quot; alt=&quot;Faith versus fate&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote style=&quot;clear:left&quot;&gt;
+Looneys keeping guard&lt;br /&gt;
+On the street, women yelling&lt;br /&gt;
+Spring is in the air
+&lt;/blockquote&gt;
+
+&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Broadway&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/helen_mirren_the_audience.jpg&quot; alt=&quot;Helen Mirren in The Audience&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote style=&quot;clear:left&quot;&gt;
+A ticket to life&lt;br /&gt;
+Please &amp;mdash; between fame and forgotten&lt;br /&gt;
+There&#39;s no mezzanine
+&lt;/blockquote&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/usa-picture-haikus/&quot;&gt;American picture haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 12, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[An end-to-end loan funding predictor for kiva.org]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-loan-funding-predictor-project/" />
   <id>/projects/kiva-loan-funding-predictor-project</id>
-  <published>2015-04-07T07:00:00-04:00</published>
-  <updated>2015-04-07T07:00:00-04:00</updated>
+  <published>2015-04-07T13:00:00+02:00</published>
+  <updated>2015-04-07T13:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -876,8 +944,8 @@
   <title type="html"><![CDATA[A quick glance into 775 thousand Kiva borrower stories]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-topic-modelling-project/" />
   <id>/projects/kiva-topic-modelling-project</id>
-  <published>2015-03-13T08:00:00-04:00</published>
-  <updated>2015-03-13T08:00:00-04:00</updated>
+  <published>2015-03-13T13:00:00+01:00</published>
+  <updated>2015-03-13T13:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -999,8 +1067,8 @@
   <title type="html"><![CDATA[Selling a new banking product to the right customers (first)]]></title>
   <link rel="alternate" type="text/html" href="/projects/banking-project/" />
   <id>/projects/banking-project</id>
-  <published>2015-02-20T10:45:00-05:00</published>
-  <updated>2015-02-20T10:45:00-05:00</updated>
+  <published>2015-02-20T16:45:00+01:00</published>
+  <updated>2015-02-20T16:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1303,8 +1371,8 @@
   <title type="html"><![CDATA[Five data science haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/data-science-haikus/" />
   <id>/blog/data-science-haikus</id>
-  <published>2015-02-15T17:20:00-05:00</published>
-  <updated>2015-02-15T17:20:00-05:00</updated>
+  <published>2015-02-15T23:20:00+01:00</published>
+  <updated>2015-02-15T23:20:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1366,8 +1434,8 @@ But where is my soul?&lt;/p&gt;
   <title type="html"><![CDATA[That second I hugged a Googler]]></title>
   <link rel="alternate" type="text/html" href="/blog/hugging-a-googler/" />
   <id>/blog/hugging-a-googler</id>
-  <published>2015-02-08T07:10:00-05:00</published>
-  <updated>2015-02-08T07:10:00-05:00</updated>
+  <published>2015-02-08T13:10:00+01:00</published>
+  <updated>2015-02-08T13:10:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1435,8 +1503,8 @@ and universal harmony was restored.&lt;/p&gt;
   <title type="html"><![CDATA[A basic linear regression model for predicting movie revenue]]></title>
   <link rel="alternate" type="text/html" href="/projects/movie-project/" />
   <id>/projects/movie-project</id>
-  <published>2015-01-30T07:00:00-05:00</published>
-  <updated>2015-01-30T07:00:00-05:00</updated>
+  <published>2015-01-30T13:00:00+01:00</published>
+  <updated>2015-01-30T13:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1498,8 +1566,8 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
   <title type="html"><![CDATA[First week impressions]]></title>
   <link rel="alternate" type="text/html" href="/blog/week1/" />
   <id>/blog/week1</id>
-  <published>2015-01-16T07:00:00-05:00</published>
-  <updated>2015-01-16T07:00:00-05:00</updated>
+  <published>2015-01-16T13:00:00+01:00</published>
+  <updated>2015-01-16T13:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1550,8 +1618,8 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
   <title type="html"><![CDATA[The hipster classification game]]></title>
   <link rel="alternate" type="text/html" href="/blog/hipster-or-not/" />
   <id>/blog/hipster-or-not</id>
-  <published>2015-01-12T15:07:00-05:00</published>
-  <updated>2015-01-12T15:07:00-05:00</updated>
+  <published>2015-01-12T21:07:00+01:00</published>
+  <updated>2015-01-12T21:07:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1599,8 +1667,8 @@ Since, to our own surprise, there was no real hipster present in the room, this 
   <title type="html"><![CDATA[Discovery of the decade: IPython]]></title>
   <link rel="alternate" type="text/html" href="/blog/just-discovered-ipython/" />
   <id>/blog/just-discovered-ipython</id>
-  <published>2015-01-11T02:28:00-05:00</published>
-  <updated>2015-01-11T02:28:00-05:00</updated>
+  <published>2015-01-11T08:28:00+01:00</published>
+  <updated>2015-01-11T08:28:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1632,8 +1700,8 @@ some example IPython notebooks on the &lt;a href=&quot;http://nbviewer.ipython.o
   <title type="html"><![CDATA[Welcome]]></title>
   <link rel="alternate" type="text/html" href="/blog/welcome/" />
   <id>/blog/welcome</id>
-  <published>2014-12-26T09:18:00-05:00</published>
-  <updated>2014-12-26T09:18:00-05:00</updated>
+  <published>2014-12-26T15:18:00+01:00</published>
+  <updated>2014-12-26T15:18:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>

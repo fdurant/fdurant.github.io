@@ -1,11 +1,20 @@
 [
 	
 		{
+		  "title"      : "American picture haikus",
+		  "category"   : "",
+      "tags"       : "haiku, poetry, america, and nyc",
+		  "url"        : "/blog/usa-picture-haikus/",
+		  "date"       : "2015-04-12 04:00:00 +0200",
+		  "shortdate"  : "April 12, 2015"
+		} ,
+	
+		{
 		  "title"      : "An end-to-end loan funding predictor for kiva.org",
 		  "category"   : "",
       "tags"       : "topic models, microfinance, loans, development, kiva, d3, visualization, end2end, and deployment",
 		  "url"        : "/projects/kiva-loan-funding-predictor-project/",
-		  "date"       : "2015-04-07 07:00:00 -0400",
+		  "date"       : "2015-04-07 13:00:00 +0200",
 		  "shortdate"  : "April 07, 2015"
 		} ,
 	
@@ -14,7 +23,7 @@
 		  "category"   : "",
       "tags"       : "nlp, topic modelling, microfinance, loans, development, kiva, d3, and visualization",
 		  "url"        : "/projects/kiva-topic-modelling-project/",
-		  "date"       : "2015-03-13 08:00:00 -0400",
+		  "date"       : "2015-03-13 13:00:00 +0100",
 		  "shortdate"  : "March 13, 2015"
 		} ,
 	
@@ -23,7 +32,7 @@
 		  "category"   : "",
       "tags"       : "banking, target marketing, lift, customer ranking, logistic regression, knn, sklearn, d3, and visualization",
 		  "url"        : "/projects/banking-project/",
-		  "date"       : "2015-02-20 10:45:00 -0500",
+		  "date"       : "2015-02-20 16:45:00 +0100",
 		  "shortdate"  : "February 20, 2015"
 		} ,
 	
@@ -32,7 +41,7 @@
 		  "category"   : "",
       "tags"       : "haiku, poetry, and why not",
 		  "url"        : "/blog/data-science-haikus/",
-		  "date"       : "2015-02-15 17:20:00 -0500",
+		  "date"       : "2015-02-15 23:20:00 +0100",
 		  "shortdate"  : "February 15, 2015"
 		} ,
 	
@@ -41,7 +50,7 @@
 		  "category"   : "",
       "tags"       : "brain transfer, iq, eq, mba, and science",
 		  "url"        : "/blog/hugging-a-googler/",
-		  "date"       : "2015-02-08 07:10:00 -0500",
+		  "date"       : "2015-02-08 13:10:00 +0100",
 		  "shortdate"  : "February 08, 2015"
 		} ,
 	
@@ -50,7 +59,7 @@
 		  "category"   : "",
       "tags"       : "movies, linear regression, statsmodels, sklearn, and pyplot",
 		  "url"        : "/projects/movie-project/",
-		  "date"       : "2015-01-30 07:00:00 -0500",
+		  "date"       : "2015-01-30 13:00:00 +0100",
 		  "shortdate"  : "January 30, 2015"
 		} ,
 	
@@ -59,7 +68,7 @@
 		  "category"   : "",
       "tags"       : "data science, new york, food, and transport",
 		  "url"        : "/blog/week1/",
-		  "date"       : "2015-01-16 07:00:00 -0500",
+		  "date"       : "2015-01-16 13:00:00 +0100",
 		  "shortdate"  : "January 16, 2015"
 		} ,
 	
@@ -68,7 +77,7 @@
 		  "category"   : "",
       "tags"       : "data science, classification, machine learning, feature selection, and fun",
 		  "url"        : "/blog/hipster-or-not/",
-		  "date"       : "2015-01-12 15:07:00 -0500",
+		  "date"       : "2015-01-12 21:07:00 +0100",
 		  "shortdate"  : "January 12, 2015"
 		} ,
 	
@@ -77,7 +86,7 @@
 		  "category"   : "",
       "tags"       : "data science, interactive computing, and visualization",
 		  "url"        : "/blog/just-discovered-ipython/",
-		  "date"       : "2015-01-11 02:28:00 -0500",
+		  "date"       : "2015-01-11 08:28:00 +0100",
 		  "shortdate"  : "January 11, 2015"
 		} ,
 	
@@ -86,7 +95,7 @@
 		  "category"   : "",
       "tags"       : "data science and new york",
 		  "url"        : "/blog/welcome/",
-		  "date"       : "2014-12-26 09:18:00 -0500",
+		  "date"       : "2014-12-26 15:18:00 +0100",
 		  "shortdate"  : "December 26, 2014"
 		} 
 	

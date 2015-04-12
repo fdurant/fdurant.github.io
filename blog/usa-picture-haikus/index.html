@@ -5,14 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>A basic linear regression model for predicting movie revenue &#8211; Frederik Durant's .data blog</title>
+<title>American picture haikus &#8211; Frederik Durant's .data blog</title>
 
-<meta name="keywords" content="movies, linear regression, statsmodels, sklearn, pyplot">
+<meta name="keywords" content="haiku, poetry, america, nyc">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="A basic linear regression model for predicting movie revenue">
+<meta name="twitter:title" content="American picture haikus">
 
 
 
@@ -23,16 +23,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="A basic linear regression model for predicting movie revenue">
+<meta property="og:title" content="American picture haikus">
 
-<meta property="og:url" content="/projects/movie-project/">
+<meta property="og:url" content="/blog/usa-picture-haikus/">
 <meta property="og:site_name" content="Frederik Durant's .data blog">
 
 
 
 
 
-<link rel="canonical" href="/projects/movie-project/">
+<link rel="canonical" href="/blog/usa-picture-haikus/">
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frederik Durant's .data blog Feed">
 
 
@@ -131,9 +131,9 @@
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags"><a href="/tags/#movies" title="Pages tagged movies">movies</a>&nbsp;&bull;&nbsp;<a href="/tags/#linear regression" title="Pages tagged linear regression">linear regression</a>&nbsp;&bull;&nbsp;<a href="/tags/#statsmodels" title="Pages tagged statsmodels">statsmodels</a>&nbsp;&bull;&nbsp;<a href="/tags/#sklearn" title="Pages tagged sklearn">sklearn</a>&nbsp;&bull;&nbsp;<a href="/tags/#pyplot" title="Pages tagged pyplot">pyplot</a></span>
+        <span class="entry-tags"><a href="/tags/#haiku" title="Pages tagged haiku">haiku</a>&nbsp;&bull;&nbsp;<a href="/tags/#poetry" title="Pages tagged poetry">poetry</a>&nbsp;&bull;&nbsp;<a href="/tags/#america" title="Pages tagged america">america</a>&nbsp;&bull;&nbsp;<a href="/tags/#nyc" title="Pages tagged nyc">nyc</a></span>
         
-          <h1 class="entry-title">A basic linear regression model for predicting movie revenue</h1>
+          <h1 class="entry-title">American picture haikus</h1>
         
       </header>
       <footer class="entry-meta">
@@ -143,66 +143,71 @@
           <img src="/images/frederik_durant_mugshot.jpg" class="bio-photo" alt="Frederik Durant bio photo"></a>
         
         <span class="author vcard">By <span class="fn">Frederik Durant</span></span>
-        <span class="entry-date date published"><time datetime="2015-01-30T13:00:00+01:00"><i class="fa fa-calendar-o"></i> January 30, 2015</time></span>
+        <span class="entry-date date published"><time datetime="2015-04-12T04:00:00+02:00"><i class="fa fa-calendar-o"></i> April 12, 2015</time></span>
         
         
         <span class="social-share-twitter">
-  <a href="https://twitter.com/intent/tweet?hashtags=movies,linearregression,statsmodels,sklearn,pyplot&amp;text=A%20basic%20linear%20regression%20model%20for%20predicting%20movie%20revenue&amp;url=/projects/movie-project/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+  <a href="https://twitter.com/intent/tweet?hashtags=haiku,poetry,america,nyc&amp;text=American%20picture%20haikus&amp;url=/blog/usa-picture-haikus/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
 </span>
 <span class="social-share-facebook">
-  <a href="https://www.facebook.com/sharer/sharer.php?u=/projects/movie-project/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/blog/usa-picture-haikus/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
 </span>
 <span class="social-share-googleplus">
-  <a href="https://plus.google.com/share?url=/projects/movie-project/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+  <a href="https://plus.google.com/share?url=/blog/usa-picture-haikus/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
 </span>
 <!-- /.social-share -->
         
       </footer>
       <div class="entry-content">
-        <p>Our instructors from <a href="http://datascopeanalytics.com">Datascope Analytics</a> designed the bootcamp around a number of projects.</p>
+        <h1 style="clear:both; float:left" id="Six">Arlington Cemetary</h1>
 
-<p>In week 2 &amp; 3, we were all let loose on movie revenue data scraped from <a href="http://www.boxofficemojo.com">Box Office Mojo</a>.
-The major goal was to predict a movie-related value of choice by using a <a href="http://en.wikipedia.org/wiki/Linear_regression">linear regression</a> model,
-optionally involving <a href="http://en.wikipedia.org/wiki/Logarithm">logarithmic</a> and/or <a href="http://en.wikipedia.org/wiki/Polynomial_regression">polynomial terms</a>.</p>
+<p><img style="float:right; margin-top:20px;" src="/images/jfk_and_so_my_fellow_americans.jpg" alt="JFK's inaugural address at Arlington Cemetary" /></p>
 
-<p>The first days were spent on writing and running the web scraper. I used <a href="http://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a> and good old
-<a href="https://docs.python.org/2/library/re.html">regular expressions</a> to parse and convert the messy Box Office Mojo data into a nice and clean <a href="http://en.wikipedia.org/wiki/Comma-separated_values">comma-separated</a> <a href="/projects/movie/BoxOfficeMojoMovies.csv">file</a>.</p>
+<blockquote style="clear:left">
+What's America?<br />
+No greater duty on earth<br />
+Than live by free will
+</blockquote>
 
-<p>The scope of my personal project shrunk as the data came in and the days went by.
-In the end, after many iterations in <a href="http://ipython.org/">IPython</a>, I got to fit a number of multilinear regression models with <a href="http://statsmodels.sourceforge.net/0.5.0/regression.html">statsmodels</a>, using
-<a href="http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html">sklearn</a> for model evaluation (<a href="http://en.wikipedia.org/wiki/Root-mean-square_deviation">root-mean-squared error</a>), and the inevitable <a href="http://matplotlib.org/api/pyplot_api.html">pyplot</a> for visualization.</p>
+<h1 style="clear:both; float:left" id="Six">Art</h1>
 
-<p>On Friday, the whole class delivered their presentations. My first-ever <a href="/projects/movie/Metis_Data_Science_Project_Luther_20150130.pdf">Keynote presentation</a> was for a ficticious investor known by the name of Dino Brangelino. My conclusion: knowing the box office revenue of the opening weekend -on top of the production budget- reduces total revenue prediction error by 15%.</p>
+<p><img style="float:right; margin-top:30px;" src="/images/nam_june_paik_electronic_superhighway.jpg" alt="Nam June Paik: Electronic Superhighway" /></p>
 
-<figure>
-	<img src="/images/movieproject_presentation_1.jpg" />
-	<figcaption>Presenting performance improvements in linear regression models to the Metis Data Science class</figcaption>
-</figure>
+<blockquote style="clear:left">
+The canvass of truth<br />
+Is more than often painted<br />
+In hellish colors
+</blockquote>
 
-<p>A not-so-random sample of subjects from my fellow students’ talks:</p>
+<h1 style="float:left" id="Six">New York Subway</h1>
 
-<ul>
-  <li>
-    <p>how to convince laggards among the actors and actresses to go on Twitter, by predicting how many followers they would have if they did</p>
-  </li>
-  <li>
-    <p>can monthly consumer optimism predict the mutual prevalence of movie genres?</p>
-  </li>
-  <li>
-    <p>does the choice of a distributor help to secure an Oscar nomination?</p>
-  </li>
-  <li>
-    <p>which actor, actress, director or producer is overpaid or underpaid, given the gross revenue of the movies they have contributed to?</p>
-  </li>
-  <li>
-    <p>does the co-featuring network of actors/actresses determine movie revenue?</p>
-  </li>
-</ul>
+<p><img style="float:right; margin-top:30px;" src="/images/faith_vs_fate.jpg" alt="Faith versus fate" /></p>
 
-<figure>
-	<img src="/images/movieproject_presentation_2.jpg" />
-	<figcaption>Presenting observed vs. predicted movie gross revenue on the best-performing linear regression model</figcaption>
-</figure>
+<blockquote style="clear:left">
+Motion and movement<br />
+Driven by skies or by man<br />
+A squeaking balance
+</blockquote>
+
+<h1 style="clear:both; float:left" id="Six">Brooklyn</h1>
+
+<p><img style="float:right; margin-top:30px;" src="/images/brooklyn_graffiti.jpg" alt="Faith versus fate" /></p>
+
+<blockquote style="clear:left">
+Looneys keeping guard<br />
+On the street, women yelling<br />
+Spring is in the air
+</blockquote>
+
+<h1 style="clear:both; float:left" id="Six">Broadway</h1>
+
+<p><img style="float:right; margin-top:30px;" src="/images/helen_mirren_the_audience.jpg" alt="Helen Mirren in The Audience" /></p>
+
+<blockquote style="clear:left">
+A ticket to life<br />
+Please &mdash; between fame and forgotten<br />
+There's no mezzanine
+</blockquote>
 
 
         
@@ -210,10 +215,8 @@ In the end, after many iterations in <a href="http://ipython.org/">IPython</a>, 
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       
-        <a href="/blog/week1/" class="btn" title="First week impressions">Previous</a>
+        <a href="/projects/kiva-loan-funding-predictor-project/" class="btn" title="An end-to-end loan funding predictor for kiva.org">Previous</a>
       
-      
-        <a href="/blog/hugging-a-googler/" class="btn" title="That second I hugged a Googler">Next</a>
       
     </nav><!-- /.pagination -->
   </article>
