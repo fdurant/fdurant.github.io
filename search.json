@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "9 1/2 data science bootcamp survival tips",
+		  "category"   : "",
+      "tags"       : "bootcamp, data science, and survival kit",
+		  "url"        : "/blog/survive-data-science-bootcamp/",
+		  "date"       : "2015-04-22 17:00:00 +0200",
+		  "shortdate"  : "April 22, 2015"
+		} ,
+	
+		{
 		  "title"      : "American picture haikus",
 		  "category"   : "",
       "tags"       : "haiku, poetry, america, and nyc",

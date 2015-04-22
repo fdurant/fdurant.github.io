@@ -1,0 +1,414 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>9 1/2 data science bootcamp survival tips &#8211; Frederik Durant's .data blog</title>
+
+<meta name="keywords" content="bootcamp, data science, survival kit">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="9 1/2 data science bootcamp survival tips">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="/images/dot_data_512x512.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="9 1/2 data science bootcamp survival tips">
+
+<meta property="og:url" content="/blog/survive-data-science-bootcamp/">
+<meta property="og:site_name" content="Frederik Durant's .data blog">
+
+
+
+
+
+<link rel="canonical" href="/blog/survive-data-science-bootcamp/">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frederik Durant's .data blog Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="post">
+
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+      
+		    
+		        
+		    
+		    <li><a href="/about/" >About</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="/blog/" >Blog</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="/projects/" >Project portfolio</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="/contact/" >Contact</a></li>
+		  
+        <li class="dosearch"><span><i class="fa fa-search"></i> Search</span></li>
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+<div class="search-wrapper">
+  <div class="search-form">
+    <input type="text" class="search-field" placeholder="Search...">
+    <button class="close-btn"><i class="fa fa-times-circle fa-2x"></i></button>
+    <ul class="search-results post-list"></ul><!-- /.search-results -->
+  </div><!-- /.search-form -->
+</div><!-- ./search-wrapper -->
+
+<header class="masthead">
+	<div class="wrap">
+        
+    		<a href="/" class="site-logo" rel="home" title="Frederik Durant's .data blog"><img src="/images/dot_data_512x512.png" width="200" height="200" alt="Frederik Durant's .data blog logo" class="animated fadeInUp"></a>
+        
+        <h1 class="site-title animated fadeIn"><a href="/">Frederik Durant's .data blog</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">On a data science sabbatical in NYC</h2>
+	</div>
+</header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
+
+<div id="main" role="main">
+  <article class="hentry">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags"><a href="/tags/#bootcamp" title="Pages tagged bootcamp">bootcamp</a>&nbsp;&bull;&nbsp;<a href="/tags/#data science" title="Pages tagged data science">data science</a>&nbsp;&bull;&nbsp;<a href="/tags/#survival kit" title="Pages tagged survival kit">survival kit</a></span>
+        
+          <h1 class="entry-title">9 1/2 data science bootcamp survival tips</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        
+        
+        
+          <img src="/images/frederik_durant_mugshot.jpg" class="bio-photo" alt="Frederik Durant bio photo"></a>
+        
+        <span class="author vcard">By <span class="fn">Frederik Durant</span></span>
+        <span class="entry-date date published"><time datetime="2015-04-22T17:00:00+02:00"><i class="fa fa-calendar-o"></i> April 22, 2015</time></span>
+        
+        
+        <span class="social-share-twitter">
+  <a href="https://twitter.com/intent/tweet?hashtags=bootcamp,datascience,survivalkit&amp;text=9%201/2%20data%20science%20bootcamp%20survival%20tips&amp;url=/blog/survive-data-science-bootcamp/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+</span>
+<span class="social-share-facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/blog/survive-data-science-bootcamp/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+</span>
+<span class="social-share-googleplus">
+  <a href="https://plus.google.com/share?url=/blog/survive-data-science-bootcamp/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+</span>
+<!-- /.social-share -->
+        
+      </footer>
+      <div class="entry-content">
+        <p>It’s been two weeks now since the <a href="http://www.thisismetis.com/ds-alumni">Winter Class of 2015</a> presented their final projects to
+a few dozen hiring companies. For us presenters, summarizing our
+<a href="/projects/kiva-loan-funding-predictor-project/">project work of 4-6 weeks</a> into a three-minute
+presentation was a challenge. Then again, it forced us to <strong>focus
+on the absolute essence</strong>. Which, at higher granularity, was a necessity throughout the
+bootcamp.</p>
+
+<p>In this post, I want to share a number of tips that helped me survive 12 very intense
+weeks of information overload, never-ending programming assignments
+(euphemistically called <em>challenges</em>) and long days.</p>
+
+<p>So, without further ado:</p>
+
+<h1 id="tip-1-define-your-learning-goals-upfront-and-adapt-as-you-go">Tip #1: Define your learning goals upfront, and adapt as you go</h1>
+
+<p>Each student starts class with his/her own background, strengths and
+weaknesses. Given the wide array of addressed topics, you may find
+yourself positioned on the knowledge/skills curve at the fifth percentile today, and at the
+ninety-fifth tomorrow. That’s fine, really — it’s just a
+statistical fact.</p>
+
+<p>Apply a <a href="http://en.wikipedia.org/wiki/Triage"><strong>knowledge and
+relevance triage</strong></a> to each topic, so you don’t waste time on either “lost” causes
+(personal example: <a href="http://en.wikipedia.org/wiki/Generalized_linear_model">generalized linear models</a>) or already gained causes
+(personal examples: <a href="http://en.wikipedia.org/wiki/Representational_state_transfer">RESTful API</a>, <a href="http://en.wikipedia.org/wiki/SQL">SQL</a>, <a href="http://en.wikipedia.org/wiki/MySQL">mySQL</a>,
+and a few others). <strong>Focus your time and effort
+exclusively on what you can, want and need to learn.</strong></p>
+
+<p>It goes without saying that this is different for each student.</p>
+
+<h1 id="tip-2-know-what-you-dont-know-and-want">Tip #2: Know what you (don’t) know and want</h1>
+
+<p>A precondition to tip #1 is that you <a href="http://en.wikipedia.org/wiki/There_are_known_knowns"><strong>know you knowns and unknowns</strong></a>. You
+should also know what you (don’t) want to reach as your end
+goal. It’s OK to define this self-knowledge as the bootcamp
+progresses, but about half-way into the bootcamp, this picture should
+become clear.</p>
+
+<p>If you don’t know where you’re going, you won’t get there. If you’re
+lost, ask for help. You already paid for it, after all :-)</p>
+
+<h1 id="tip-3-skip-a-lecture-challenge-or-speaker-its-ok">Tip #3: Skip a lecture, challenge or speaker, it’s OK</h1>
+
+<p>If your mind is a muscle, and it’s been strained, give it a
+rest. <strong>Don’t feel bad about skipping class every now and then, if
+that’s what you need.</strong> Chances are the
+information offered that day won’t sink in anyway, so this is probably the
+best you can do.</p>
+
+<p>For clarity’s sake: this does <em>not</em> mean that you should give up on the <em>bootcamp</em>,
+quite the contrary! The goal is to get your grey cells functioning
+again as soon as possible.</p>
+
+<h1 id="tip-4-write-your-first-blog-post-today-yes-today">Tip #4: Write your first blog post today. Yes, today!</h1>
+
+<p>The knowledge and skills that you acquire are one thing — their <strong>public
+visibility</strong> quite another. Don’t wait too long to set up your
+blog and tell the world about that cool problem you’re working on.
+If you do wait too long, you may already suffer a mid-bootcamp-crisis. Instead,
+<strong>lay your blogging foundations early enough in the game</strong>.</p>
+
+<h1 id="tip-5-always-always-store-your-work-on-github">Tip #5: Always, <em>always</em> store your work on GitHub</h1>
+
+<p><strong>Push your code and key results at least once a day.</strong> Believe me, you
+<em>don’t</em> want to be that one student who lost 
+everything because of a disk crash, a stolen laptop or that
+“funny” classmate aka Unix guru who told you that typing “sudo rm -rf /”
+would solve all your problems.</p>
+
+<p>Two out of these three purely
+hypothetical examples actually happened during our class.</p>
+
+<h1 id="tip-6-be-ambitious-overstretch-it-but-only-so-far">Tip #6: Be ambitious, overstretch it, but only so far</h1>
+
+<p>There is <strong>no learning within the comfort zone</strong>, so if the bootcamp doesn’t hurt
+every now and then, you’re not paying attention and/or not making much progress. Then again,
+beware of setting unrealistic project goals: the deadline at the end of the
+bootcamp is real, and cannot be postponed.</p>
+
+<p>Therefore, design your final project in such a way that the
+solution will be <strong>based on low-risk technologies</strong>
+you know you master. Complement this foundation with <strong>newly acquired
+skills and techniques that you feel comfortable applying</strong> during the
+bootcamp. Finally, top it off with <strong>a fancy technique or crazy idea</strong>.
+Just make sure that this cherry on the cake is dispensable — you
+never know the odds/gods are against you.</p>
+
+<p>Applied to <a href="/projects/kiva-loan-funding-predictor-project/">my own final project</a>:</p>
+
+<ul>
+  <li>Foundation: RESTful API, end-to-end solution, GitHub, Python, JSON,
+object-oriented programming, agile process.</li>
+  <li>Novelties: pandas/numpy, serialization and deployment of trained logistic regression model;
+D3 visualization of money flows; Supervised Latent Dirichlet
+Allocation (SLDA)</li>
+  <li>Cherry on the cake: browser integration via Google Chrome extension
+(written in JavaScript).</li>
+</ul>
+
+<h1 id="tip-7-be-agile">Tip #7: Be agile</h1>
+
+<p>To further reduce risk while making steady progress, apply a number of
+well-known principles from Agile development:</p>
+
+<ul>
+  <li>Tackle the <strong>highest-risk problems first</strong>.</li>
+  <li>Work in <strong>short iterations</strong> of 3-5 days each; make sure you have a
+<strong>working Minimum Viable Product to show</strong> at the end of each one.</li>
+  <li>Use so-called <a href="http://en.wikipedia.org/wiki/Method_stub">stubs</a> to replace complex functionality in
+your first iteration, so that the <strong>end-to-end solution chain</strong> is never
+broken.</li>
+  <li>Apply <a href="http://en.wikipedia.org/wiki/Test-driven_development"><strong>test-driven development</strong></a>.</li>
+</ul>
+
+<p>Applied to my project:</p>
+
+<ul>
+  <li>I started with an explorative iteration in which I tested if a
+<a href="https://github.com/chbrown/slda">crucial but
+external C++ software package for SLDA</a> would work at all — it did.</li>
+  <li>In the second iteration, the RESTful API hid a <a href="https://github.com/fdurant/kiva_project/commit/594a08af1123af3853f5af47bea75e5b4af139c6">stub function</a> that
+returned a score that was randomly generated, but in the right JSON
+format. This way, all interfaces between the solution components
+were successfully tested end-to-end right from the start. After
+that, I “only” needed to fill in the blanks.</li>
+  <li>My initial idea was to visualize the loan prediction score in a
+<a href="http://jqwidgets.com/jquery-widgets-demo/demos/jqxgauge/index.htm">Javascript gauge
+widget</a>. Since I couldn’t get it to work, and the functionality was
+non-essential, I ditched this idea quite quickly.</li>
+  <li>80% of all code developed in the the explorative iteration was
+reorganized into separate Python classes, with a quite comprehensive number of
+test cases.</li>
+</ul>
+
+<h1 id="tip-8-whenever-possible-take-shortcuts">Tip #8: Whenever possible, take shortcuts</h1>
+
+<p>By definition, <strong>the most efficiently performed piece of work is the one you choose
+not to do</strong>. When picking my final project, the availability of a
+comprehensive snapshot of historical Kiva data was a major decision
+factor. It meant that I didn’t need to spend (read: waste) my own development and
+the machine’s downloading time on web scraping. Having done web
+scraping many times before, there was no learning argument either.</p>
+
+<p>Therefore: <strong>be pragmatic. Cut the waste.</strong></p>
+
+<h1 id="tip-9-avoid-dependencies">Tip #9: Avoid dependencies</h1>
+
+<p>Dependencies on external parties, customers, data deliveries,
+knowledge gaps, unreliable cloud services, etc. are all risks:
+whenever possible, try to avoid them. Focus on what works for you, and
+<strong>don’t rely (too much) on external factors that you cannot control.</strong> If
+you <em>must</em> rely on an external piece of code or data, make sure to take
+away that risk <em>first</em>.</p>
+
+<p>In my project, I decided not to contact Kiva.org before the work was
+completed (I <em>am</em> talking to them <em>now</em>). By doing so, I may have missed
+an opportunity to work on the most important problem they have, but I
+also gained a lot of time, and had total freedom.</p>
+
+<h1 id="tip-10-remember-oscar-wilde">Tip #10: Remember Oscar Wilde</h1>
+
+<p><em>“The only thing to do with good advice is to pass it on. It is never of
+any use to oneself.”</em></p>
+
+<p>(source: <a href="http://www.brainyquote.com/quotes/quotes/o/oscarwilde103888.html">BrainyQuote</a>)</p>
+
+<p><strong>To all current and future students: enjoy the pain - and don’t
+  forget to have <em>some</em> fun in between!</strong></p>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/imhrDrE4-mI" frameborder="0" allowfullscreen=""></iframe>
+
+
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="/blog/usa-picture-haikus/" class="btn" title="American picture haikus">Previous</a>
+      
+      
+    </nav><!-- /.pagination -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+    
+
+<span>&copy; 2015 Frederik Durant. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/so-simple/" rel="nofollow">So Simple Theme</a>.</span>
+<div class="social-icons">
+	
+	<a href="http://facebook.com/frederik.durant.7" title="Frederik Durant on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+	
+	<a href="http://linkedin.com/in/fdurant" title="Frederik Durant on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+	
+	
+	
+	<a href="http://github.com/fdurant" title="Frederik Durant on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+	
+  <a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+</div><!-- /.social-icons -->
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+
+<!-- Jekyll Simple Search option -->
+<script>
+  $(document).ready(function() {
+      $('.search-field').jekyllSearch({
+          jsonFile: '/search.json',
+          searchResults: '.search-results',
+          template: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          fuzzy: true,
+          noResults: '<p>Nothing found.</p>'
+        });
+  });
+
+  (function( $, window, undefined ) {
+    
+     var bs = {
+          close: $(".close-btn"),
+          searchform: $(".search-form"),
+          canvas: $(".js-menu-screen"),
+          dothis: $('.dosearch')
+      };
+    
+    bs.dothis.on('click', function() {
+      $('.search-wrapper').css({ display: "block" });
+      $('body').toggleClass('no-scroll');
+      bs.searchform.toggleClass('active');
+      bs.searchform.find('input').focus();
+      bs.canvas.toggleClass('is-visible');
+    });
+    
+      bs.close.on('click', function() {
+        $('.search-wrapper').removeAttr( 'style' );
+        $('body').toggleClass('no-scroll');
+        bs.searchform.toggleClass('active');
+        bs.canvas.removeClass('is-visible');
+    });
+  })( jQuery, window );
+</script>
+
+
+
+
+	        
+
+</body>
+</html>
