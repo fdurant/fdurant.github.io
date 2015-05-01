@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Age prediction&#39;s child diseases",
+		  "category"   : "",
+      "tags"       : "face detection, microsoft, age & gender prediction, and machine vision",
+		  "url"        : "/blog/age-prediction-child-diseases/",
+		  "date"       : "2015-05-01 18:00:00 +0200",
+		  "shortdate"  : "May 01, 2015"
+		} ,
+	
+		{
 		  "title"      : "9 1/2 data science bootcamp survival tips",
 		  "category"   : "",
       "tags"       : "bootcamp, data science, and survival kit",
