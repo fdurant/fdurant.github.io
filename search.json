@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Presenting the Kiva project to the Brussels Data Science Community",
+		  "category"   : "",
+      "tags"       : "kiva, data science, and brussels",
+		  "url"        : "/projects/kiva-talk-brussels-data-science-community/",
+		  "date"       : "2015-05-06 01:55:00 +0200",
+		  "shortdate"  : "May 06, 2015"
+		} ,
+	
+		{
 		  "title"      : "Age prediction&#39;s child diseases",
 		  "category"   : "",
       "tags"       : "face detection, microsoft, age & gender prediction, and machine vision",
