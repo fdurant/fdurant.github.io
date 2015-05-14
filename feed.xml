@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-05-14T12:46:50+02:00</updated>
+<updated>2015-05-14T12:49:19+02:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -66,7 +66,7 @@ fully fund a loan. If not, the act of consistent highlighting
 obviously steers lending behavior, favoring some loan proposals over
 others.&lt;/p&gt;
 
-&lt;p&gt;The really interesting question, now, is  for Kiva to decide &lt;strong&gt;whether the a
+&lt;p&gt;The really interesting question, now, is  &lt;strong&gt;whether the a
 priori prediction offered by the model should play a role in
 highlighting soon-to-expire loans&lt;/strong&gt; (and/or other types of featured
 loans).
