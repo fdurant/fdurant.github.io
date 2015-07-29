@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Musings from a distant present",
+		  "category"   : "",
+      "tags"       : "poetry, haiku, and amateur",
+		  "url"        : "/blog/poetry/",
+		  "date"       : "2015-07-29 14:01:00 +0200",
+		  "shortdate"  : "July 29, 2015"
+		} ,
+	
+		{
 		  "title"      : "Presenting the Kiva project to the Brussels Data Science Community",
 		  "category"   : "",
       "tags"       : "kiva, data science, and brussels",
