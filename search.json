@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Corporate buddhism",
+		  "category"   : "",
+      "tags"       : "poetry, haiku, and business",
+		  "url"        : "/blog/corporate-buddhism/",
+		  "date"       : "2015-10-03 14:01:00 +0200",
+		  "shortdate"  : "October 03, 2015"
+		} ,
+	
+		{
 		  "title"      : "Musings from a distant present",
 		  "category"   : "",
       "tags"       : "poetry, haiku, and amateur",
