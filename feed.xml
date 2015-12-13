@@ -4,13 +4,50 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-10-03T20:47:57+02:00</updated>
+<updated>2015-12-13T14:48:00+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Changing course, once more]]></title>
+  <link rel="alternate" type="text/html" href="/blog/changing-course/" />
+  <id>/blog/changing-course</id>
+  <published>2015-12-13T16:00:00+01:00</published>
+  <updated>2015-12-13T16:00:00+01:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;People come, people go.&lt;/p&gt;
+
+&lt;p&gt;Earlier this week, I resigned from speech &amp;amp; language company &lt;a href=&quot;http://www.nuance.com/index.htm&quot;&gt;Nuance Communications&lt;/a&gt;, and signed at &lt;a href=&quot;http://www.colruytgroup.be/en&quot;&gt;Colruyt Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For my foreign friends: &lt;a href=&quot;http://www.colruytgroup.be/en&quot;&gt;Colruyt Group&lt;/a&gt; is Belgium’s largest food
+retailer - among other things - with a 24.7% local market share (source: &lt;a href=&quot;http://www.gondola.be/nl/content/gondola-scant-de-belgische-food-retail-76829&quot;&gt;gondola.be&lt;/a&gt;). &lt;/p&gt;
+
+&lt;p&gt;From mid-March 2016 on, I’ll be mining Colruyt’s vast data resources,
+in search for actionable insights and innovative applications.&lt;/p&gt;
+
+&lt;p&gt;I can’t be very specific at this moment,
+but &lt;a href=&quot;https://en.wikipedia.org/wiki/Text_mining&quot;&gt;text mining&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Process_mining&quot;&gt;process mining&lt;/a&gt; will likely be on my radar. While
+I did some work on &lt;a href=&quot;http://www.clips.ua.ac.be/projects/biomint-biological-text-mining&quot;&gt;(biological) text mining&lt;/a&gt; before - it’s a classical subdiscipline of &lt;a href=&quot;https://en.wikipedia.org/wiki/Natural_language_processing&quot;&gt;Natural
+Language Processing&lt;/a&gt; - process mining is rather new to me. Which makes it all
+the more exciting, of course. I’m already reading an &lt;a href=&quot;http://www.processmining.org/book/start&quot;&gt;introductory
+book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/procmin&quot;&gt;Coursera course&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to 2016!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/changing-course/&quot;&gt;Changing course, once more&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 13, 2015.&lt;/p&gt;</content>
+</entry>
 
 
   
