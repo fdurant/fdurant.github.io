@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "New York, one year ago",
+		  "category"   : "",
+      "tags"       : "words, thoughts, and moving pictures",
+		  "url"        : "/blog/new-york-video/",
+		  "date"       : "2016-01-16 00:00:00 +0100",
+		  "shortdate"  : "January 16, 2016"
+		} ,
+	
+		{
 		  "title"      : "Changing course, once more",
 		  "category"   : "",
       "tags"       : "career, change, never too old, and stay agile",
