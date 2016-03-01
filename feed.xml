@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-01-16T15:37:18+01:00</updated>
+<updated>2016-03-01T16:43:03-05:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,75 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
+  <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
+  <id>/blog/open-belgium-2016</id>
+  <published>2016-03-01T17:40:00-05:00</published>
+  <updated>2016-03-01T17:40:00-05:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;Being &lt;a href=&quot;/blog/changing-course/&quot;&gt;in-between jobs&lt;/a&gt; for a (short) while, I spent the leap day yesterday at the
+&lt;a href=&quot;http://2016.openbelgium.be/&quot;&gt;Open Belgium conference&lt;/a&gt; in Antwerp. The announcement of the federal &lt;a href=&quot;http://www.openknowledge.be/2015/07/24/green-light-for-the-belgian-federal-open-data-strategy/&quot;&gt;Open Data strategy&lt;/a&gt;
+in December 2015 has raised new expectations in the Belgian open data community. So, how are we doing?&lt;/p&gt;
+
+&lt;p&gt;During the opening panel discussion, &lt;a href=&quot;http://www.fedict.belgium.be/nl&quot;&gt;Fedict&lt;/a&gt; Innovation Manager &lt;a href=&quot;https://be.linkedin.com/in/christinecopers&quot;&gt;Christine Copers&lt;/a&gt;
+warned that the shift to open government data is not going to happen overnight. Take for example the 
+the &lt;a href=&quot;http://www.ngi.be/&quot;&gt;National Geographic Institute&lt;/a&gt;. From its &lt;a href=&quot;http://www.ngi.be/Common/NGI_2013_verslag.pdf&quot;&gt;2013 yearly report&lt;/a&gt;, we learn that more than 15%
+of annual income is self-originated. At this moment, giving away map data for free without direct monetary compensation
+seems like a no-go.&lt;/p&gt;
+
+&lt;p&gt;Yet all is not lost. Since 1999, the Flemish authorities have invested €93 million into the development of the Large-Scale
+(Geographical) Reference Database. Keeping this database up to date requires another €7 million per annum. Nevertheless,
+in December 2015, the database was made freely available under the &lt;a href=&quot;https://dov.vlaanderen.be/dovweb/html/pdf/Gratis%20Open%20Data%20Licentie.pdf&quot;&gt;Gratis Open Data Licentie Vlaanderen&lt;/a&gt;. A simple registration
+is all that’s required. The open map data have recently supported the creation of
+a map of available youth space in the Flemish region. Local youth organizations including &lt;a href=&quot;https://chiro.be/english&quot;&gt;Chiro Vlaanderen&lt;/a&gt; and
+&lt;a href=&quot;https://www.scoutsengidsenvlaanderen.be&quot;&gt;Scouts en Gidsen Vlaanderen&lt;/a&gt; are contributing themselves to create this extra layer, to their own benefit and that of society
+at large.&lt;/p&gt;
+
+&lt;p&gt;As a regular attendee - or should I say spectator - of &lt;a href=&quot;http://www.dilbeek.be/bestuur-administratie/gemeentebestuur/gemeenteraad.html&quot;&gt;my own municipality council&lt;/a&gt;,
+I participated actively in a brainstorm session on open data use cases
+for local government. One topic was proactive transparency in local decision making.
+What if the complete process leading to a local council decision was public by default,
+and open for Wikipedia-style amendments by any citizen or other stakeholder? Even though the final vote would
+still be made by elected representatives,
+much of its quality lies in how it was prepared. Civic engagement platforms like &lt;a href=&quot;http://citizenlab.co&quot;&gt;CitizenLab&lt;/a&gt; are available &lt;em&gt;right now&lt;/em&gt;
+to serve as modern communication bridges between municipalities and citizens. To prevent reinvention of
+the wheel, Flemish organizations like &lt;a href=&quot;http://www.vvsg.be/&quot;&gt;VVSG&lt;/a&gt; and &lt;a href=&quot;https://www.v-ict-or.be&quot;&gt;V-ICT-OR&lt;/a&gt; can (read: must) play a coordinating
+and facilitating role here, without doing all the work themselves. Even more so, because municipal budgets are scarcer than ever.&lt;/p&gt;
+
+&lt;p&gt;Data journalist &lt;a href=&quot;http://www.maartenlambrechts.be/&quot;&gt;Maarten Lambrechts&lt;/a&gt; listed do’s and don’ts
+for data publishers like &lt;a href=&quot;http://ec.europa.eu/eurostat&quot;&gt;Eurostat&lt;/a&gt;, &lt;a href=&quot;http://www.oecd.org&quot;&gt;OECD&lt;/a&gt;, &lt;a href=&quot;http://statbel.fgov.be&quot;&gt;Statistics Belgium&lt;/a&gt;
+or any other local data provider.
+As a data exchange format, PDFs are evil. As a story inducer, aggregate figures like the mean are useless.
+To give journalists and their graphic collaborators an incentive to comment on your data and graphs, make sure
+they can be easily recreated straight from the source. For complex data that require more time to handle, an embargo
+works just fine. To see what’s possible when all these conditions are met, check out this &lt;a href=&quot;http://www.tijd.be/ondernemen/transport/Interactief_De_pendelaars_van_en_naar_uw_gemeente.9734600-3084.art?ckc=1&quot;&gt;interactive map of
+daily commuters in Belgium&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The maxim “open your data and they will come and build” has not yet been proven in the (Belgian) field.
+Nevertheless, success will keep on depending on the collaboration between (governmental) publishers and users. 
+In a data publication project, elaborate requirements, specifications and cost estimates are not the way to go.
+A better approach is to start small, and work iteratively towards on-the-spot discovery
+of new uses and applications, which may in turn lead to new data requirements.
+To promote this agile approach, large government agencies and institutions need a cultural change in the way they handle
+public procurement - if only to give start-ups in this field a reasonable chance to win their first deals.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/open-belgium-2016/&quot;&gt;Impressions from Open Belgium 2016&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 01, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+01:00</published>
-  <updated>2016-01-16T00:00:00+01:00</updated>
+  <published>2016-01-16T00:00:00-05:00</published>
+  <updated>2016-01-16T00:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -53,8 +117,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T16:00:00+01:00</published>
-  <updated>2015-12-13T16:00:00+01:00</updated>
+  <published>2015-12-13T10:00:00-05:00</published>
+  <updated>2015-12-13T10:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -90,8 +154,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T14:01:00+02:00</published>
-  <updated>2015-10-03T14:01:00+02:00</updated>
+  <published>2015-10-03T08:01:00-04:00</published>
+  <updated>2015-10-03T08:01:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -147,8 +211,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T14:01:00+02:00</published>
-  <updated>2015-07-29T14:01:00+02:00</updated>
+  <published>2015-07-29T08:01:00-04:00</published>
+  <updated>2015-07-29T08:01:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -204,8 +268,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-06T01:55:00+02:00</published>
-  <updated>2015-05-06T01:55:00+02:00</updated>
+  <published>2015-05-05T19:55:00-04:00</published>
+  <updated>2015-05-05T19:55:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -265,7 +329,7 @@ Kiva to decide on the right trade-off between individual fairness and
 global productivity of money.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/projects/kiva-talk-brussels-data-science-community/&quot;&gt;Presenting the Kiva project to the Brussels Data Science Community&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 06, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/projects/kiva-talk-brussels-data-science-community/&quot;&gt;Presenting the Kiva project to the Brussels Data Science Community&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 05, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -275,8 +339,8 @@ global productivity of money.&lt;/p&gt;
   <title type="html"><![CDATA[Age prediction's child diseases]]></title>
   <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
   <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T18:00:00+02:00</published>
-  <updated>2015-05-01T18:00:00+02:00</updated>
+  <published>2015-05-01T12:00:00-04:00</published>
+  <updated>2015-05-01T12:00:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -346,8 +410,8 @@ younger. Quite the contrary.&lt;/p&gt;
   <title type="html"><![CDATA[9 1/2 data science bootcamp survival tips]]></title>
   <link rel="alternate" type="text/html" href="/blog/survive-data-science-bootcamp/" />
   <id>/blog/survive-data-science-bootcamp</id>
-  <published>2015-04-22T17:00:00+02:00</published>
-  <updated>2015-04-22T17:00:00+02:00</updated>
+  <published>2015-04-22T11:00:00-04:00</published>
+  <updated>2015-04-22T11:00:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -535,8 +599,8 @@ any use to oneself.”&lt;/em&gt;&lt;/p&gt;
   <title type="html"><![CDATA[American picture haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/usa-picture-haikus/" />
   <id>/blog/usa-picture-haikus</id>
-  <published>2015-04-12T04:00:00+02:00</published>
-  <updated>2015-04-12T04:00:00+02:00</updated>
+  <published>2015-04-11T22:00:00-04:00</published>
+  <updated>2015-04-11T22:00:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -593,7 +657,7 @@ There&#39;s no mezzanine
 &lt;/blockquote&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/usa-picture-haikus/&quot;&gt;American picture haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 12, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/usa-picture-haikus/&quot;&gt;American picture haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 11, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -603,8 +667,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[An end-to-end loan funding predictor for kiva.org]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-loan-funding-predictor-project/" />
   <id>/projects/kiva-loan-funding-predictor-project</id>
-  <published>2015-04-07T13:00:00+02:00</published>
-  <updated>2015-04-07T13:00:00+02:00</updated>
+  <published>2015-04-07T07:00:00-04:00</published>
+  <updated>2015-04-07T07:00:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1460,8 +1524,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[A quick glance into 775 thousand Kiva borrower stories]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-topic-modelling-project/" />
   <id>/projects/kiva-topic-modelling-project</id>
-  <published>2015-03-13T13:00:00+01:00</published>
-  <updated>2015-03-13T13:00:00+01:00</updated>
+  <published>2015-03-13T08:00:00-04:00</published>
+  <updated>2015-03-13T08:00:00-04:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1583,8 +1647,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Selling a new banking product to the right customers (first)]]></title>
   <link rel="alternate" type="text/html" href="/projects/banking-project/" />
   <id>/projects/banking-project</id>
-  <published>2015-02-20T16:45:00+01:00</published>
-  <updated>2015-02-20T16:45:00+01:00</updated>
+  <published>2015-02-20T10:45:00-05:00</published>
+  <updated>2015-02-20T10:45:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1887,8 +1951,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Five data science haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/data-science-haikus/" />
   <id>/blog/data-science-haikus</id>
-  <published>2015-02-15T23:20:00+01:00</published>
-  <updated>2015-02-15T23:20:00+01:00</updated>
+  <published>2015-02-15T17:20:00-05:00</published>
+  <updated>2015-02-15T17:20:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1950,8 +2014,8 @@ But where is my soul?&lt;/p&gt;
   <title type="html"><![CDATA[That second I hugged a Googler]]></title>
   <link rel="alternate" type="text/html" href="/blog/hugging-a-googler/" />
   <id>/blog/hugging-a-googler</id>
-  <published>2015-02-08T13:10:00+01:00</published>
-  <updated>2015-02-08T13:10:00+01:00</updated>
+  <published>2015-02-08T07:10:00-05:00</published>
+  <updated>2015-02-08T07:10:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2019,8 +2083,8 @@ and universal harmony was restored.&lt;/p&gt;
   <title type="html"><![CDATA[A basic linear regression model for predicting movie revenue]]></title>
   <link rel="alternate" type="text/html" href="/projects/movie-project/" />
   <id>/projects/movie-project</id>
-  <published>2015-01-30T13:00:00+01:00</published>
-  <updated>2015-01-30T13:00:00+01:00</updated>
+  <published>2015-01-30T07:00:00-05:00</published>
+  <updated>2015-01-30T07:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2082,8 +2146,8 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
   <title type="html"><![CDATA[First week impressions]]></title>
   <link rel="alternate" type="text/html" href="/blog/week1/" />
   <id>/blog/week1</id>
-  <published>2015-01-16T13:00:00+01:00</published>
-  <updated>2015-01-16T13:00:00+01:00</updated>
+  <published>2015-01-16T07:00:00-05:00</published>
+  <updated>2015-01-16T07:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2134,8 +2198,8 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
   <title type="html"><![CDATA[The hipster classification game]]></title>
   <link rel="alternate" type="text/html" href="/blog/hipster-or-not/" />
   <id>/blog/hipster-or-not</id>
-  <published>2015-01-12T21:07:00+01:00</published>
-  <updated>2015-01-12T21:07:00+01:00</updated>
+  <published>2015-01-12T15:07:00-05:00</published>
+  <updated>2015-01-12T15:07:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2183,8 +2247,8 @@ Since, to our own surprise, there was no real hipster present in the room, this 
   <title type="html"><![CDATA[Discovery of the decade: IPython]]></title>
   <link rel="alternate" type="text/html" href="/blog/just-discovered-ipython/" />
   <id>/blog/just-discovered-ipython</id>
-  <published>2015-01-11T08:28:00+01:00</published>
-  <updated>2015-01-11T08:28:00+01:00</updated>
+  <published>2015-01-11T02:28:00-05:00</published>
+  <updated>2015-01-11T02:28:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2216,8 +2280,8 @@ some example IPython notebooks on the &lt;a href=&quot;http://nbviewer.ipython.o
   <title type="html"><![CDATA[Welcome]]></title>
   <link rel="alternate" type="text/html" href="/blog/welcome/" />
   <id>/blog/welcome</id>
-  <published>2014-12-26T15:18:00+01:00</published>
-  <updated>2014-12-26T15:18:00+01:00</updated>
+  <published>2014-12-26T09:18:00-05:00</published>
+  <updated>2014-12-26T09:18:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
