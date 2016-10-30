@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-03-06T07:37:24-08:00</updated>
+<updated>2016-10-30T13:05:50+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,61 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
+  <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
+  <id>/projects/firstname-network-belgium</id>
+  <published>2016-10-30T16:45:00+01:00</published>
+  <updated>2016-10-30T16:45:00+01:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;I’ve been working — well, playing — with network visualization tools like &lt;a href=&quot;https://gephi.org&quot;&gt;Gephi&lt;/a&gt; or &lt;a href=&quot;http://www.yworks.com/products/yed&quot;&gt;yEd&lt;/a&gt; for a couple of years now.
+But for confidence reasons, none of this work could be openly shared.&lt;/p&gt;
+
+&lt;p&gt;As it happens, yesterday afternoon, with a cosy cup of coffee and an even cosier piece of ricetart at my favorite &lt;a href=&quot;http://www.lepainquotidien.be/en/store/le-pain-quotidien-sablon/&quot;&gt;Pain Quotidien&lt;/a&gt;,
+I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications/statistiques/bevolking/bevolking_-_voornamen_van_de_pasgeborenen_1995-2014.jsp&quot;&gt;full list of first names given to babies&lt;/a&gt; born in Belgium over the last 20 years. And wondered how this could be turned into a network.&lt;/p&gt;
+
+&lt;p&gt;After a moderately short labor of &lt;a href=&quot;https://github.com/fdurant/belgian_firstname_network&quot;&gt;134 lines of program code&lt;/a&gt; — including quite a number of fruitful multiplications — two &lt;em&gt;orthographic word similarity networks&lt;/em&gt; were born. In layman’s language: similarly looking names are linked, and therefore visualized close(r) to one another.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf&quot;&gt;girls’ name network&lt;/a&gt; connects 1900 names. Here’s a sample: &lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/girl_name_network.jpg&quot; alt=&quot;A section of the 1900 node girls&#39; name network&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Marie(ke) is quite a popular name indeed:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wfGDpzL9H7Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1500_first_names_for_boys_network.pdf&quot;&gt;young boys’ network&lt;/a&gt; contains 1500 names in total, including:&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/boy_name_network.jpg&quot; alt=&quot;A section of the 1500 node boys&#39; name network&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;So no, Jef, you’re not alone! &lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T4Mx8AN0GF4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Together, the &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1500_first_names_for_boys_network.pdf&quot;&gt;boys’&lt;/a&gt; and &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf&quot;&gt;girls’&lt;/a&gt; graphs provide a holistic overview of the Belgian baby name space.&lt;/p&gt;
+
+&lt;p&gt;So, young or not-so-young friends &amp;amp; colleagues: if you’re into procreation mode or expecting, and want your newborn to wear that fancy name: &lt;em&gt;no more excuses&lt;/em&gt;.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/&quot;&gt;Mapping the Belgian baby name space&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on October 30, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-05T23:00:00-08:00</published>
-  <updated>2016-03-05T23:00:00-08:00</updated>
+  <published>2016-03-06T08:00:00+01:00</published>
+  <updated>2016-03-06T08:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -82,7 +132,7 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
 &lt;p&gt;&lt;strong&gt;&lt;small&gt;Note: article updated on Sun March 7th, 2016&lt;/small&gt;&lt;/strong&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/club-chair-bookstores/&quot;&gt;In praise of the club chair bookstore&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 05, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/club-chair-bookstores/&quot;&gt;In praise of the club chair bookstore&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 06, 2016.&lt;/p&gt;</content>
 </entry>
 
 
@@ -92,8 +142,8 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T14:40:00-08:00</published>
-  <updated>2016-03-01T14:40:00-08:00</updated>
+  <published>2016-03-01T23:40:00+01:00</published>
+  <updated>2016-03-01T23:40:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -156,8 +206,8 @@ public procurement - if only to give start-ups in this field a reasonable chance
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00-08:00</published>
-  <updated>2016-01-16T00:00:00-08:00</updated>
+  <published>2016-01-16T00:00:00+01:00</published>
+  <updated>2016-01-16T00:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -190,8 +240,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T07:00:00-08:00</published>
-  <updated>2015-12-13T07:00:00-08:00</updated>
+  <published>2015-12-13T16:00:00+01:00</published>
+  <updated>2015-12-13T16:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -227,8 +277,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T05:01:00-07:00</published>
-  <updated>2015-10-03T05:01:00-07:00</updated>
+  <published>2015-10-03T14:01:00+02:00</published>
+  <updated>2015-10-03T14:01:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -284,8 +334,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T05:01:00-07:00</published>
-  <updated>2015-07-29T05:01:00-07:00</updated>
+  <published>2015-07-29T14:01:00+02:00</published>
+  <updated>2015-07-29T14:01:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -341,8 +391,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-05T16:55:00-07:00</published>
-  <updated>2015-05-05T16:55:00-07:00</updated>
+  <published>2015-05-06T01:55:00+02:00</published>
+  <updated>2015-05-06T01:55:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -402,7 +452,7 @@ Kiva to decide on the right trade-off between individual fairness and
 global productivity of money.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/projects/kiva-talk-brussels-data-science-community/&quot;&gt;Presenting the Kiva project to the Brussels Data Science Community&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 05, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/projects/kiva-talk-brussels-data-science-community/&quot;&gt;Presenting the Kiva project to the Brussels Data Science Community&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 06, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -412,8 +462,8 @@ global productivity of money.&lt;/p&gt;
   <title type="html"><![CDATA[Age prediction's child diseases]]></title>
   <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
   <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T09:00:00-07:00</published>
-  <updated>2015-05-01T09:00:00-07:00</updated>
+  <published>2015-05-01T18:00:00+02:00</published>
+  <updated>2015-05-01T18:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -483,8 +533,8 @@ younger. Quite the contrary.&lt;/p&gt;
   <title type="html"><![CDATA[9 1/2 data science bootcamp survival tips]]></title>
   <link rel="alternate" type="text/html" href="/blog/survive-data-science-bootcamp/" />
   <id>/blog/survive-data-science-bootcamp</id>
-  <published>2015-04-22T08:00:00-07:00</published>
-  <updated>2015-04-22T08:00:00-07:00</updated>
+  <published>2015-04-22T17:00:00+02:00</published>
+  <updated>2015-04-22T17:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -672,8 +722,8 @@ any use to oneself.”&lt;/em&gt;&lt;/p&gt;
   <title type="html"><![CDATA[American picture haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/usa-picture-haikus/" />
   <id>/blog/usa-picture-haikus</id>
-  <published>2015-04-11T19:00:00-07:00</published>
-  <updated>2015-04-11T19:00:00-07:00</updated>
+  <published>2015-04-12T04:00:00+02:00</published>
+  <updated>2015-04-12T04:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -730,7 +780,7 @@ There&#39;s no mezzanine
 &lt;/blockquote&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/usa-picture-haikus/&quot;&gt;American picture haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 11, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/usa-picture-haikus/&quot;&gt;American picture haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 12, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -740,8 +790,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[An end-to-end loan funding predictor for kiva.org]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-loan-funding-predictor-project/" />
   <id>/projects/kiva-loan-funding-predictor-project</id>
-  <published>2015-04-07T04:00:00-07:00</published>
-  <updated>2015-04-07T04:00:00-07:00</updated>
+  <published>2015-04-07T13:00:00+02:00</published>
+  <updated>2015-04-07T13:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1597,8 +1647,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[A quick glance into 775 thousand Kiva borrower stories]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-topic-modelling-project/" />
   <id>/projects/kiva-topic-modelling-project</id>
-  <published>2015-03-13T05:00:00-07:00</published>
-  <updated>2015-03-13T05:00:00-07:00</updated>
+  <published>2015-03-13T13:00:00+01:00</published>
+  <updated>2015-03-13T13:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1720,8 +1770,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Selling a new banking product to the right customers (first)]]></title>
   <link rel="alternate" type="text/html" href="/projects/banking-project/" />
   <id>/projects/banking-project</id>
-  <published>2015-02-20T07:45:00-08:00</published>
-  <updated>2015-02-20T07:45:00-08:00</updated>
+  <published>2015-02-20T16:45:00+01:00</published>
+  <updated>2015-02-20T16:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2024,8 +2074,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Five data science haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/data-science-haikus/" />
   <id>/blog/data-science-haikus</id>
-  <published>2015-02-15T14:20:00-08:00</published>
-  <updated>2015-02-15T14:20:00-08:00</updated>
+  <published>2015-02-15T23:20:00+01:00</published>
+  <updated>2015-02-15T23:20:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2087,8 +2137,8 @@ But where is my soul?&lt;/p&gt;
   <title type="html"><![CDATA[That second I hugged a Googler]]></title>
   <link rel="alternate" type="text/html" href="/blog/hugging-a-googler/" />
   <id>/blog/hugging-a-googler</id>
-  <published>2015-02-08T04:10:00-08:00</published>
-  <updated>2015-02-08T04:10:00-08:00</updated>
+  <published>2015-02-08T13:10:00+01:00</published>
+  <updated>2015-02-08T13:10:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2156,8 +2206,8 @@ and universal harmony was restored.&lt;/p&gt;
   <title type="html"><![CDATA[A basic linear regression model for predicting movie revenue]]></title>
   <link rel="alternate" type="text/html" href="/projects/movie-project/" />
   <id>/projects/movie-project</id>
-  <published>2015-01-30T04:00:00-08:00</published>
-  <updated>2015-01-30T04:00:00-08:00</updated>
+  <published>2015-01-30T13:00:00+01:00</published>
+  <updated>2015-01-30T13:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2219,8 +2269,8 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
   <title type="html"><![CDATA[First week impressions]]></title>
   <link rel="alternate" type="text/html" href="/blog/week1/" />
   <id>/blog/week1</id>
-  <published>2015-01-16T04:00:00-08:00</published>
-  <updated>2015-01-16T04:00:00-08:00</updated>
+  <published>2015-01-16T13:00:00+01:00</published>
+  <updated>2015-01-16T13:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2271,8 +2321,8 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
   <title type="html"><![CDATA[The hipster classification game]]></title>
   <link rel="alternate" type="text/html" href="/blog/hipster-or-not/" />
   <id>/blog/hipster-or-not</id>
-  <published>2015-01-12T12:07:00-08:00</published>
-  <updated>2015-01-12T12:07:00-08:00</updated>
+  <published>2015-01-12T21:07:00+01:00</published>
+  <updated>2015-01-12T21:07:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2320,8 +2370,8 @@ Since, to our own surprise, there was no real hipster present in the room, this 
   <title type="html"><![CDATA[Discovery of the decade: IPython]]></title>
   <link rel="alternate" type="text/html" href="/blog/just-discovered-ipython/" />
   <id>/blog/just-discovered-ipython</id>
-  <published>2015-01-10T23:28:00-08:00</published>
-  <updated>2015-01-10T23:28:00-08:00</updated>
+  <published>2015-01-11T08:28:00+01:00</published>
+  <updated>2015-01-11T08:28:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2343,33 +2393,7 @@ some example IPython notebooks on the &lt;a href=&quot;http://nbviewer.ipython.o
 &lt;p&gt;By the way, I got &lt;a href=&quot;https://www.google.com/maps/place/71+Irving+Pl,+Brooklyn,+NY+11238/@40.6830384,-73.9596046,17z/data=!3m1!4b1!4m2!3m1!1s0x89c25bbd564b66a1:0x3dd32d62a569e278&quot;&gt;here&lt;/a&gt; alright.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/just-discovered-ipython/&quot;&gt;Discovery of the decade: IPython&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Welcome]]></title>
-  <link rel="alternate" type="text/html" href="/blog/welcome/" />
-  <id>/blog/welcome</id>
-  <published>2014-12-26T06:18:00-08:00</published>
-  <updated>2014-12-26T06:18:00-08:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;It’s been almost half a decade since I wrote my &lt;a href=&quot;http://blog.prompt-speechapps.com&quot;&gt;last (public) blog post&lt;/a&gt;, so I figured it was high time for a restart.&lt;/p&gt;
-
-&lt;p&gt;The occasion: two weeks from now, I’ll be travelling to New York for a 12-week &lt;a href=&quot;http://www.thisismetis.com/data-science&quot;&gt;Data Science Bootcamp&lt;/a&gt; organized by &lt;a href=&quot;http://www.thisismetis.com/&quot;&gt;Metis&lt;/a&gt;. During that period, I’ll be living at the &lt;a href=&quot;https://krash.io&quot;&gt;Brooklyn Krashpad&lt;/a&gt;, a co-housing facility for entrepreneurs, creative people and other types of lifelong learners and doers.&lt;/p&gt;
-
-&lt;p&gt;Since visualization, presentation and communication form an integral part of data science, I plan to share my learnings, insights and other adventures via these pages.&lt;/p&gt;
-
-&lt;p&gt;So thanks for visiting, and stay tuned!&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/welcome/&quot;&gt;Welcome&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/just-discovered-ipython/&quot;&gt;Discovery of the decade: IPython&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 11, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>

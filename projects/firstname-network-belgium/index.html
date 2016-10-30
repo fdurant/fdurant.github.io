@@ -5,14 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>That second I hugged a Googler &#8211; Frederik Durant's .data blog</title>
+<title>Mapping the Belgian baby name space &#8211; Frederik Durant's .data blog</title>
 
-<meta name="keywords" content="brain transfer, iq, eq, mba, science">
+<meta name="keywords" content="network, babies, gephi, procreation, visualization">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="That second I hugged a Googler">
+<meta name="twitter:title" content="Mapping the Belgian baby name space">
 
 
 
@@ -23,16 +23,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="That second I hugged a Googler">
+<meta property="og:title" content="Mapping the Belgian baby name space">
 
-<meta property="og:url" content="/blog/hugging-a-googler/">
+<meta property="og:url" content="/projects/firstname-network-belgium/">
 <meta property="og:site_name" content="Frederik Durant's .data blog">
 
 
 
 
 
-<link rel="canonical" href="/blog/hugging-a-googler/">
+<link rel="canonical" href="/projects/firstname-network-belgium/">
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frederik Durant's .data blog Feed">
 
 
@@ -131,9 +131,9 @@
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags"><a href="/tags/#brain transfer" title="Pages tagged brain transfer">brain transfer</a>&nbsp;&bull;&nbsp;<a href="/tags/#iq" title="Pages tagged iq">iq</a>&nbsp;&bull;&nbsp;<a href="/tags/#eq" title="Pages tagged eq">eq</a>&nbsp;&bull;&nbsp;<a href="/tags/#mba" title="Pages tagged mba">mba</a>&nbsp;&bull;&nbsp;<a href="/tags/#science" title="Pages tagged science">science</a></span>
+        <span class="entry-tags"><a href="/tags/#network" title="Pages tagged network">network</a>&nbsp;&bull;&nbsp;<a href="/tags/#babies" title="Pages tagged babies">babies</a>&nbsp;&bull;&nbsp;<a href="/tags/#gephi" title="Pages tagged gephi">gephi</a>&nbsp;&bull;&nbsp;<a href="/tags/#procreation" title="Pages tagged procreation">procreation</a>&nbsp;&bull;&nbsp;<a href="/tags/#visualization" title="Pages tagged visualization">visualization</a></span>
         
-          <h1 class="entry-title">That second I hugged a Googler</h1>
+          <h1 class="entry-title">Mapping the Belgian baby name space</h1>
         
       </header>
       <footer class="entry-meta">
@@ -143,72 +143,53 @@
           <img src="/images/frederik_durant_mugshot.jpg" class="bio-photo" alt="Frederik Durant bio photo"></a>
         
         <span class="author vcard">By <span class="fn">Frederik Durant</span></span>
-        <span class="entry-date date published"><time datetime="2015-02-08T13:10:00+01:00"><i class="fa fa-calendar-o"></i> February 08, 2015</time></span>
+        <span class="entry-date date published"><time datetime="2016-10-30T16:45:00+01:00"><i class="fa fa-calendar-o"></i> October 30, 2016</time></span>
         
         
         <span class="social-share-twitter">
-  <a href="https://twitter.com/intent/tweet?hashtags=braintransfer,iq,eq,mba,science&amp;text=That%20second%20I%20hugged%20a%20Googler&amp;url=/blog/hugging-a-googler/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+  <a href="https://twitter.com/intent/tweet?hashtags=network,babies,gephi,procreation,visualization&amp;text=Mapping%20the%20Belgian%20baby%20name%20space&amp;url=/projects/firstname-network-belgium/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
 </span>
 <span class="social-share-facebook">
-  <a href="https://www.facebook.com/sharer/sharer.php?u=/blog/hugging-a-googler/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/projects/firstname-network-belgium/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
 </span>
 <span class="social-share-googleplus">
-  <a href="https://plus.google.com/share?url=/blog/hugging-a-googler/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+  <a href="https://plus.google.com/share?url=/projects/firstname-network-belgium/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
 </span>
 <!-- /.social-share -->
         
       </footer>
       <div class="entry-content">
-        <p>This week I hugged a <a href="https://www.linkedin.com/profile/view?id=27312399">Googler</a>, yes I did. How, why, huh? Let me tell you.</p>
+        <p>I’ve been working — well, playing — with network visualization tools like <a href="https://gephi.org">Gephi</a> or <a href="http://www.yworks.com/products/yed">yEd</a> for a couple of years now.
+But for confidence reasons, none of this work could be openly shared.</p>
 
-<p>On top of providing the formal lectures, challenges and project work, our <a href="http://www.thisismetis.com/data-science">bootcamp</a> regularly invites speakers from industry.
-So last Thursday, we were enlightened on the art of working with data in a scientifically and ethically sound fashion by no less than
-a super-smart and super-enthusiastic <a href="https://www.linkedin.com/profile/view?id=27312399">Googler</a> - my apologies for the double tautology.</p>
+<p>As it happens, yesterday afternoon, with a cosy cup of coffee and an even cosier piece of ricetart at my favorite <a href="http://www.lepainquotidien.be/en/store/le-pain-quotidien-sablon/">Pain Quotidien</a>,
+I downloaded the <a href="http://statbel.fgov.be/nl/modules/publications/statistiques/bevolking/bevolking_-_voornamen_van_de_pasgeborenen_1995-2014.jsp">full list of first names given to babies</a> born in Belgium over the last 20 years. And wondered how this could be turned into a network.</p>
 
-<p>To get the interaction going, we, mere mortal students, were offered a multiple (6) choice question. The last one of which was,
-obviously, <em>none of the above</em>.</p>
+<p>After a moderately short labor of <a href="https://github.com/fdurant/belgian_firstname_network">134 lines of program code</a> — including quite a number of fruitful multiplications — two <em>orthographic word similarity networks</em> were born. In layman’s language: similarly looking names are linked, and therefore visualized close(r) to one another.</p>
 
-<p>For a number of reasons, this answer exerted an irresistible attraction on my whole brain, body and being:</p>
-
-<ul>
-  <li>even in case of total ignorance, it still looks like you gave the matter such deep thought, that none of the above answers
-could possibly be nuanced and/or precise enough for complete intellectual satisfaction</li>
-  <li>strategically, it’s a safe bet, because the speaker may want to demonstrate his/her proficiency on why all of the above answers are clearly wrong or incomplete, as an introduction to the rest of the talk</li>
-  <li>last but not least, my eldest daughter is a self-certified expert in guessing multiple-choice answers</li>
-</ul>
-
-<p>So when the time came, I shouted ‘F!’</p>
-
-<p>And then it happened.</p>
-
-<div class="highlight"><pre><code class="language-html" data-lang="html">[Googler]: Who said &#39;F&#39; over there?
-[Humble student]: I did! (hesitantly raising my hand)
-[Googler]: Why?
-[Humble student]: Because whatever mumble mumble bla bla bla
-[Googler]: That&#39;s correct! Let me give you a hug
-[Humble student]: Sure, why not</code></pre></div>
-
-<p>As my grey cells <a href="http://youtu.be/h8JX1Pl9F_Q?t=38s">wandered off</a>, I thankfully received my
-proverbial pat on the shoulder. It was over in a second, but no less real.</p>
-
-<p>I hugged a Googler. Or rather, was hugged by one.</p>
-
-<p>In a strike of celestial irony, the remainder of the talk focused on the importance for aspiring data
-scientists to <strike>dumb down</strike> reformulate their scientific messages to less scientifically
-inclined <strike>creatures</strike> professionals
-known as <a href="http://be.linkedin.com/in/fdurant">MBAs</a>.
-As I understood it, their main role at Google is to translate Truth into more digestible truths, depending
-on the VP they’re trying to please.</p>
-
-<p>So by the time the talk was over, the earth had come back into its normal orbit, everyone knew their place,
-and universal harmony was restored.</p>
-
-<p>But the hug was mine.</p>
+<p>The <a href="/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf">girls’ name network</a> connects 1900 names. Here’s a sample: </p>
 
 <figure>
-	<img src="/images/jekyll_hyde_mad_scientist.jpg" alt="Jekyll and Hyde: restaurant and social club for explorers and mad scientists" />
-	<figcaption>Explorers and mad (data) scientists feeling at home in New York City</figcaption>
+	<img src="/images/girl_name_network.jpg" alt="A section of the 1900 node girls' name network" />
 </figure>
+
+<p>Marie(ke) is quite a popular name indeed:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wfGDpzL9H7Y" frameborder="0" allowfullscreen=""></iframe>
+
+<p>The <a href="/projects/firstname-network-belgium/pdf/1500_first_names_for_boys_network.pdf">young boys’ network</a> contains 1500 names in total, including:</p>
+
+<figure>
+	<img src="/images/boy_name_network.jpg" alt="A section of the 1500 node boys' name network" />
+</figure>
+
+<p>So no, Jef, you’re not alone! </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T4Mx8AN0GF4" frameborder="0" allowfullscreen=""></iframe>
+
+<p>Together, the <a href="/projects/firstname-network-belgium/pdf/1500_first_names_for_boys_network.pdf">boys’</a> and <a href="/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf">girls’</a> graphs provide a holistic overview of the Belgian baby name space.</p>
+
+<p>So, young or not-so-young friends &amp; colleagues: if you’re into procreation mode or expecting, and want your newborn to wear that fancy name: <em>no more excuses</em>.</p>
 
 
         
@@ -216,10 +197,8 @@ and universal harmony was restored.</p>
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       
-        <a href="/projects/movie-project/" class="btn" title="A basic linear regression model for predicting movie revenue">Previous</a>
+        <a href="/blog/club-chair-bookstores/" class="btn" title="In praise of the club chair bookstore">Previous</a>
       
-      
-        <a href="/blog/data-science-haikus/" class="btn" title="Five data science haikus">Next</a>
       
     </nav><!-- /.pagination -->
   </article>
