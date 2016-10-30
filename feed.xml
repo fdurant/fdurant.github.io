@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-10-30T13:05:50+01:00</updated>
+<updated>2016-10-30T17:05:49+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -27,10 +27,10 @@
     
   </author>
   <content type="html">&lt;p&gt;I’ve been working — well, playing — with network visualization tools like &lt;a href=&quot;https://gephi.org&quot;&gt;Gephi&lt;/a&gt; or &lt;a href=&quot;http://www.yworks.com/products/yed&quot;&gt;yEd&lt;/a&gt; for a couple of years now.
-But for confidence reasons, none of this work could be openly shared.&lt;/p&gt;
+But for confidentiality reasons, none of this work could be openly shared.&lt;/p&gt;
 
 &lt;p&gt;As it happens, yesterday afternoon, with a cosy cup of coffee and an even cosier piece of ricetart at my favorite &lt;a href=&quot;http://www.lepainquotidien.be/en/store/le-pain-quotidien-sablon/&quot;&gt;Pain Quotidien&lt;/a&gt;,
-I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications/statistiques/bevolking/bevolking_-_voornamen_van_de_pasgeborenen_1995-2014.jsp&quot;&gt;full list of first names given to babies&lt;/a&gt; born in Belgium over the last 20 years. And wondered how this could be turned into a network.&lt;/p&gt;
+I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications/statistiques/bevolking/bevolking_-_voornamen_van_de_pasgeborenen_1995-2014.jsp&quot;&gt;full list of first names given to babies&lt;/a&gt; born in Belgium over the last 20 years. And wondered how this data set could be turned into a network.&lt;/p&gt;
 
 &lt;p&gt;After a moderately short labor of &lt;a href=&quot;https://github.com/fdurant/belgian_firstname_network&quot;&gt;134 lines of program code&lt;/a&gt; — including quite a number of fruitful multiplications — two &lt;em&gt;orthographic word similarity networks&lt;/em&gt; were born. In layman’s language: similarly looking names are linked, and therefore visualized close(r) to one another.&lt;/p&gt;
 
