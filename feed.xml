@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-10-30T17:18:28+01:00</updated>
+<updated>2016-11-01T17:06:16+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -36,9 +36,7 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
 
 &lt;p&gt;The &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf&quot;&gt;girls’ name network&lt;/a&gt; connects 1900 names. Here’s a sample: &lt;/p&gt;
 
-&lt;figure&gt;
-	&lt;img src=&quot;/images/girl_name_network.jpg&quot; alt=&quot;A section of the 1900 node girls&#39; name network&quot; /&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf&quot;&gt;&lt;img src=&quot;/images/girl_name_network.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Marie(ke) is quite a popular name indeed:&lt;/p&gt;
 
@@ -46,9 +44,7 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
 
 &lt;p&gt;The &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1500_first_names_for_boys_network.pdf&quot;&gt;young boys’ network&lt;/a&gt; contains 1500 names in total, including:&lt;/p&gt;
 
-&lt;figure&gt;
-	&lt;img src=&quot;/images/boy_name_network.jpg&quot; alt=&quot;A section of the 1500 node boys&#39; name network&quot; /&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/pdf/1500_first_names_for_boys_network.pdf&quot;&gt;&lt;img src=&quot;/images/boy_name_network.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;So no, Jef, you’re not alone! &lt;/p&gt;
 
