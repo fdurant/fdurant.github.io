@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Unexpected encounters",
+		  "category"   : "",
+      "tags"       : "chanson, mindstorm, beauty, and (de)composers",
+		  "url"        : "/blog/unexpected-encounters/",
+		  "date"       : "2017-11-18 01:00:01 +0100",
+		  "shortdate"  : "November 18, 2017"
+		} ,
+	
+		{
 		  "title"      : "Mapping the Belgian baby name space",
 		  "category"   : "",
       "tags"       : "network, babies, gephi, procreation, and visualization",
