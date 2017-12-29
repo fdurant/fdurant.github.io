@@ -4,13 +4,135 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2017-11-17T23:06:43+01:00</updated>
+<updated>2017-12-29T20:46:46+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[What to learn when, and why]]></title>
+  <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
+  <id>/blog/what-to-learn-when-and-why</id>
+  <published>2017-12-29T21:45:00+01:00</published>
+  <updated>2017-12-29T21:45:00+01:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 id=&quot;a-forward-looking-story-with-hindsight&quot;&gt;A forward-looking story, with hindsight&lt;/h1&gt;
+
+&lt;p&gt;In a previous century, towards the end of the eighties, I got interested in computers 
+thanks to &lt;a href=&quot;https://en.wikipedia.org/wiki/WordPerfect&quot;&gt;WordPerfect&lt;/a&gt;. This word processor helped 
+me write my first master’s thesis - which, by the way, had nothing to do with computing.
+Had I been born a few years sooner,  I would surely have used a &lt;a href=&quot;https://en.wikipedia.org/wiki/Typewriter&quot;&gt;typewriter&lt;/a&gt; instead.&lt;/p&gt;
+
+&lt;p&gt;In the early nineties, I learnt my first programming languages: &lt;a href=&quot;https://en.wikipedia.org/wiki/Pascal_(programming_language)&quot;&gt;Pascal&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Lisp_(programming_language)&quot;&gt;Lisp&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Prolog&quot;&gt;Prolog&lt;/a&gt;.
+If you’ve never heard of these, that’s fine. Today I hardly ever use them anymore.&lt;/p&gt;
+
+&lt;p&gt;Forward-looking “fact”, with hindsight: without WordPerfect, I would never have tried &lt;a href=&quot;https://www.latex-project.org&quot;&gt;LaTeX&lt;/a&gt;. Nor &lt;a href=&quot;https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language&quot;&gt;SGML&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/HTML&quot;&gt;HTML&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/XML&quot;&gt;XML&lt;/a&gt;, for that matter.
+And without Pascal, Lisp and Prolog, I would never have learnt and used &lt;a href=&quot;https://en.wikipedia.org/wiki/Perl&quot;&gt;Perl&lt;/a&gt; in the nineties,
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Java_(programming_language)&quot;&gt;Java&lt;/a&gt; in the noughties or &lt;a href=&quot;https://en.wikipedia.org/wiki/Python_(programming_language)&quot;&gt;Python&lt;/a&gt; in this decade as my respective main programming language.&lt;/p&gt;
+
+&lt;p&gt;On the business side, a similar &lt;strong&gt;knowledge investment path&lt;/strong&gt; is discernible in my career - it just started ten years later.
+In 2000, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Lernout_&amp;amp;_Hauspie&quot;&gt;Lernout &amp;amp; Hauspie&lt;/a&gt; works council presented its members with balance sheets and profit &amp;amp; loss statements, but I was unable to read them. [Not that they were accurate, but that is &lt;a href=&quot;http://www.standaard.be/cnt/dexx05012001_001&quot;&gt;another story&lt;/a&gt;.]
+So two years later, to bridge the knowledge gap, I found myself doing an MBA at &lt;a href=&quot;https://www.vlerick.com/en&quot;&gt;Vlerick&lt;/a&gt;. Which, two more years later,
+made me decide to start as a self-employed consultant in voice-driven dialog systems.&lt;/p&gt;
+
+&lt;p&gt;With the hindsight of time and experience, these and &lt;a href=&quot;http://frederikdurant.com/blog/survive-data-science-bootcamp/&quot;&gt;other&lt;/a&gt; seemingly random knowledge investments do display
+some internal logic.
+In these times where the &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Half-life_of_knowledge&quot;&gt;half-life of knowledge&lt;/a&gt;&lt;/strong&gt; is getting &lt;strong&gt;shorter and shorter&lt;/strong&gt;, it is more 
+important than ever to make &lt;strong&gt;conscious investment choices&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;So if you’re faced with the choice to spend your precious time, energy and money in an time-tested, mainstream
+and/or brand new technology, here’s some advice.&lt;/p&gt;
+
+&lt;h1 id=&quot;guideline-1-know-your-local-industry&quot;&gt;Guideline 1: Know your (local) industry&lt;/h1&gt;
+
+&lt;p&gt;Even though knowledge and skills are easier to transmit and learn than ever, &lt;strong&gt;different industries and regions do move
+at different speeds&lt;/strong&gt;. In a Silicon Valley blockchain startup, or in a top-notch academic lab,
+you’re more likely to &lt;em&gt;produce and share&lt;/em&gt; new knowledge and software code, than to “simply” consume it. Conversely,
+in a traditional retail company in Belgium, it’s definitely possible to be innovative while using
+not-so-new technologies.&lt;/p&gt;
+
+&lt;p&gt;Both options are valid, as long as you &lt;strong&gt;know the league you’re playing in&lt;/strong&gt;. The advantage of playing is a (s)lower league
+is that, all other things being equal, introducing a new technology comes with a lower (technological) risk.&lt;/p&gt;
+
+&lt;p&gt;Don’t drive a bicycle on a highway; likewise, don’t drive a Formula 1 car on a local road. &lt;strong&gt;Be in sync&lt;/strong&gt; with your local industry’s
+pace of innovation.&lt;/p&gt;
+
+&lt;p&gt;Then again, also be aware that &lt;a href=&quot;http://bigthink.com/think-tank/big-idea-technology-grows-exponentially&quot;&gt;&lt;strong&gt;innovation speed is sharply on the rise&lt;/strong&gt;&lt;/a&gt;, including in many traditional “slower” industries. &lt;/p&gt;
+
+&lt;h1 id=&quot;guideline-2-know-yourself&quot;&gt;Guideline 2: Know yourself&lt;/h1&gt;
+
+&lt;p&gt;Are you an &lt;strong&gt;early adopter&lt;/strong&gt;, or would you rather take a &lt;strong&gt;more conservative&lt;/strong&gt; approach? Both are fine, 
+as long as you know what gives you energy, and what pays your - and your employer’s - bills.&lt;/p&gt;
+
+&lt;p&gt;Easily bored innovators may adopt a &lt;strong&gt;serial&lt;/strong&gt; approach and happily jump from one novel technology to the next.
+However, if overstretched and out-of-sync, these fast-moving innovators may &lt;strong&gt;not stay around long enough&lt;/strong&gt; to see their
+innovations make it into production. Which somehow defeats the purpose.&lt;/p&gt;
+
+&lt;p&gt;The option at the other extreme is to learn, master and apply a winning technology &lt;strong&gt;from its cradle to its grave&lt;/strong&gt;.
+In large and  (supposedly?) stable industries and companies,
+many people make a living out of supporting tried and tested technologies.
+Only to discover one day that they’ve been &lt;strong&gt;feeding a dinosaur&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Both personal strategies are fine and come with their own risks. Just know what you’re doing and learning, and why.&lt;/p&gt;
+
+&lt;h1 id=&quot;guideline-3-diversify&quot;&gt;Guideline 3: Diversify&lt;/h1&gt;
+
+&lt;p&gt;A particularly &lt;strong&gt;effective and robust knowledge investment strategy&lt;/strong&gt; can be to ride the technology 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Hype_cycle&quot;&gt;hype cycle&lt;/a&gt; simultaneously at different points of the curve. Just as in a financial portfolio, it never hurts
+to &lt;strong&gt;spread knowledge investment risk&lt;/strong&gt;
+across multiple technologies: pick a stable one from the &lt;strong&gt;plateau of productivity&lt;/strong&gt; to pay for today’s bills, and a few smaller but
+more risky ones from the &lt;strong&gt;steeper and more slippery slopes&lt;/strong&gt; of the curve, to pay for tomorrow’s bills.&lt;/p&gt;
+
+&lt;p&gt;Secondly, on a wider scale, also balance your investments according to their
+&lt;strong&gt;expected payback time&lt;/strong&gt;. Knowledge decay may be accelerating on average,
+but an investment in an MBA is still more time-tested than the cost of learning the newest
+web development stack. &lt;strong&gt;Mix infrequent long-term investments&lt;/strong&gt; (personal examples: MA, MSc, MBA, &lt;a href=&quot;https://www.thisismetis.com&quot;&gt;data science bootcamp&lt;/a&gt;)
+&lt;strong&gt;with more frequent and short-lived investments&lt;/strong&gt;
+(recent examples: MOOCs on &lt;a href=&quot;https://www.coursera.org/specializations/gcp-data-machine-learning&quot;&gt;Google Cloud Platform&lt;/a&gt; and on &lt;a href=&quot;https://www.coursera.org/specializations/deep-learning&quot;&gt;Deep Learning&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Combining short and longer investment cycles significantly reduces the risk of falling through the professional cracks when an
+industry or company gets disrupted. In the best scenario, you may even get a chance to join the disruptor on its path
+to becoming the next incumbent.&lt;/p&gt;
+
+&lt;h1 id=&quot;guideline-4-show-dont-tell&quot;&gt;Guideline 4: Show, don’t tell&lt;/h1&gt;
+
+&lt;p&gt;Are you willing to blindly link your professional fate to that of a traditional, incumbent company? If not, you should
+at all times &lt;strong&gt;be willing and capable of leaving tomorrow&lt;/strong&gt;, so to speak. To reach that level of agility and freedom, never stop investing
+in your knowledge. But more is needed.&lt;/p&gt;
+
+&lt;p&gt;Money is a convention based on trust, and so is knowledge. &lt;strong&gt;Anyone can be an expert, on the condition that others are willing to
+recognize it&lt;/strong&gt; - most notably by paying for the expertise. To reach that level of trust, it never hurts to demonstrate
+newly acquired knowledge and skills through code, blogs, videos or any other &lt;strong&gt;tangible means visible to the outside world&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Each new technology offers its learners the opportunity to move through the ranks from apprentice over practitioner to
+master and trainer. Over the last years, &lt;a href=&quot;http://github.com/&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org&quot;&gt;Coursera&lt;/a&gt; and the like
+have often been more &lt;strong&gt;credible sources of trust&lt;/strong&gt; than (expensively paid for) professional certifications from established technology
+vendors. The latter have an obvious conflict of interest, at least to some extent.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;To invest wisely in your career, &lt;strong&gt;create and actively manage your personal knowledge portfolio&lt;/strong&gt;. Know your industry
+and yourself, so you can make your personal choices in a professional context that is willing to provide a return
+for your past, current and future investments &lt;strong&gt;in a time horizon that suits you&lt;/strong&gt;.
+In the mean time, keep on acquiring new knowledge so as to build up &lt;strong&gt;agility
+and resilience&lt;/strong&gt; against professional earthquakes that can happen at any time. &lt;strong&gt;Diversification&lt;/strong&gt; by payback
+time, hype cycle position and personal risk profile allows for a &lt;strong&gt;balanced and therefore robust portfolio&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy learning!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/what-to-learn-when-and-why/&quot;&gt;What to learn when, and why&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 29, 2017.&lt;/p&gt;</content>
+</entry>
 
 
   
@@ -2362,55 +2484,6 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
 
 
   &lt;p&gt;&lt;a href=&quot;/blog/week1/&quot;&gt;First week impressions&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 16, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[The hipster classification game]]></title>
-  <link rel="alternate" type="text/html" href="/blog/hipster-or-not/" />
-  <id>/blog/hipster-or-not</id>
-  <published>2015-01-12T21:07:00+01:00</published>
-  <updated>2015-01-12T21:07:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Hipster_(contemporary_subculture)&quot;&gt;Hipster&lt;/a&gt; or not? A simple enough question, until you’re being asked to come up with a precise rule set.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/hipster.jpg&quot; alt=&quot;Photo of a San Francisco hipster&quot; /&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;https://www.flickr.com/photos/cmichel67/11808909353/&quot; title=&quot;A San Francisco Hipster&quot;&gt;Photo Credit: Christopher Michel&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Starting from a training set of positive and negative specimina - &lt;em&gt;I just love that plural&lt;/em&gt;, six teams set out
-to define the essential hipster features, and how they relate algorithmically. Once set in stone,
-the algorithms were applied to an unseen test set, and classification accuracy was measured.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/hipster_classification_evaluation.jpg&quot; alt=&quot;White board with evaluation of hipster classification results&quot; /&gt;
-	&lt;figcaption&gt;Counting true vs. false positives vs. negatives&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Goal of the &lt;a href=&quot;http://www.thisismetis.com/blog/hipster-classifier-icebreaker&quot;&gt;icebreaker&lt;/a&gt;: demonstrate the core machine learning process, without using any machine other than our brain.&lt;/p&gt;
-
-&lt;p&gt;Provisional conclusion: rolled up sleeves, a seemingly ungroomed beard, plus a &lt;a href=&quot;http://en.wikipedia.org/wiki/Beanie_(seamed_cap)&quot;&gt;beanie&lt;/a&gt; are potential
-indicators of hipsterhood, if (and only if) properly combined.&lt;/p&gt;
-
-&lt;p&gt;Basic lessons learnt:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;don’t try to build a rule set (model) that matches the training set all too perfectly: it might lose its generalization power when applied to the test set&lt;/li&gt;
-  &lt;li&gt;the training set might not contain all necessary features: for example, we didn’t see any suspenders or colored trainers until the test set was revealed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Now, what’s worse? Being considered as a hipster while not being one, or vice versa?
-Since, to our own surprise, there was no real hipster present in the room, this important question remains as yet scientifically unanswered.&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/hipster-or-not/&quot;&gt;The hipster classification game&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 12, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
