@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2017-12-31T10:33:36+01:00</updated>
+<updated>2018-01-19T18:48:31+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -67,7 +67,7 @@ is that, all other things being equal, introducing a new technology comes with a
 &lt;p&gt;Don’t drive a bicycle on a highway; likewise, don’t drive a Formula 1 car on a local road. &lt;strong&gt;Be in sync&lt;/strong&gt; with your local industry’s
 pace of innovation.&lt;/p&gt;
 
-&lt;p&gt;Then again, also be aware that &lt;a href=&quot;http://bigthink.com/think-tank/big-idea-technology-grows-exponentially&quot;&gt;&lt;strong&gt;innovation speed is sharply on the rise&lt;/strong&gt;&lt;/a&gt;, including in many traditional “slower” industries. &lt;/p&gt;
+&lt;p&gt;Then again, also be aware that &lt;a href=&quot;http://bigthink.com/think-tank/big-idea-technology-grows-exponentially&quot;&gt;&lt;strong&gt;innovation speed is sharply on the rise&lt;/strong&gt;&lt;/a&gt;, including in many traditional “slower” industries.&lt;/p&gt;
 
 &lt;h1 id=&quot;guideline-2-know-yourself&quot;&gt;Guideline 2: Know yourself&lt;/h1&gt;
 
@@ -210,7 +210,7 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
 
 &lt;p&gt;After a moderately short labor of &lt;a href=&quot;https://github.com/fdurant/belgian_firstname_network&quot;&gt;134 lines of program code&lt;/a&gt; — including quite a number of fruitful multiplications — two &lt;em&gt;orthographic word similarity networks&lt;/em&gt; were born. In layman’s language: similarly looking names are linked, and therefore visualized close(r) to one another.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf&quot;&gt;girls’ name network&lt;/a&gt; connects 1900 names. Here’s a sample: &lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf&quot;&gt;girls’ name network&lt;/a&gt; connects 1900 names. Here’s a sample:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/pdf/1902_first_names_for_girls_network.pdf&quot;&gt;&lt;img src=&quot;/images/girl_name_network.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -222,7 +222,7 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
 
 &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/pdf/1500_first_names_for_boys_network.pdf&quot;&gt;&lt;img src=&quot;/images/boy_name_network.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;So no, Jef, you’re not alone! &lt;/p&gt;
+&lt;p&gt;So no, Jef, you’re not alone!&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5EpEW82p4i8?ecver=2&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -424,7 +424,7 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
 &lt;p&gt;Earlier this week, I resigned from speech &amp;amp; language company &lt;a href=&quot;http://www.nuance.com/index.htm&quot;&gt;Nuance Communications&lt;/a&gt;, and signed at &lt;a href=&quot;http://www.colruytgroup.be/en&quot;&gt;Colruyt Group&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For my foreign friends: &lt;a href=&quot;http://www.colruytgroup.be/en&quot;&gt;Colruyt Group&lt;/a&gt; is Belgium’s largest food
-retailer - among other things - with a 24.7% local market share (source: &lt;a href=&quot;http://www.gondola.be/nl/content/gondola-scant-de-belgische-food-retail-76829&quot;&gt;gondola.be&lt;/a&gt;). &lt;/p&gt;
+retailer - among other things - with a 24.7% local market share (source: &lt;a href=&quot;http://www.gondola.be/nl/content/gondola-scant-de-belgische-food-retail-76829&quot;&gt;gondola.be&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;From mid-March 2016 on, I’ll be mining Colruyt’s vast data resources,
 in search for actionable insights and innovative applications.&lt;/p&gt;
@@ -580,7 +580,7 @@ Brussels Data Science Community&lt;/a&gt;.&lt;/p&gt;
 presentation, available exclusively to members of the Brussels Data
 Science Community.
 To gain access, simply register first via your Facebook,
-LinkedIn, Twitter or Google Plus account. &lt;/p&gt;
+LinkedIn, Twitter or Google Plus account.&lt;/p&gt;
 
 &lt;p&gt;If you prefer not to register or are just short on time, here’s the slide deck:&lt;/p&gt;
 
@@ -1035,7 +1035,7 @@ There&#39;s no mezzanine
       &lt;/ul&gt;
       
       &lt;figure&gt;
-	&lt;img src=&quot;/images/kiva_loan_process.png&quot; /&gt;
+	&lt;img src=&quot;/images/kiva_loan_process.png&quot; /&gt;&amp;lt;/img&amp;gt;
 	&lt;figcaption&gt;Augmented overview of the Kiva loan process
 	(adapted from [&lt;a href=&quot;#Choo_Lee_Lee_Zha_Park&quot;&gt;2&lt;/a&gt;])&lt;/figcaption&gt;
       &lt;/figure&gt;
@@ -1193,7 +1193,7 @@ There&#39;s no mezzanine
       decisions accordingly.&lt;/li&gt;
     &lt;/ul&gt;
 
-    
+    &amp;lt;/p&amp;gt;
 
       &lt;p&gt;&lt;b&gt;Disclaimer&lt;/b&gt;:
     I am fully aware that each of these uses are &lt;b&gt;possibly
@@ -1970,7 +1970,7 @@ There&#39;s no mezzanine
       &lt;li&gt;Supervised learning with &lt;a href=&quot;http://scikit-learn.org/&quot; target=&quot;_blank&quot;&gt;scikit-learn&lt;/a&gt;
 	and &lt;a href=&quot;http://statsmodels.sourceforge.net/&quot; target=&quot;_blank&quot;&gt;statsmodels&lt;/a&gt; (1.5 week);&lt;/li&gt;
       &lt;li&gt;Interactive visualization with &lt;a href=&quot;http://matplotlib.org/&quot; target=&quot;_blank&quot;&gt;matplotlib&lt;/a&gt;, &lt;a href=&quot;http://nbviewer.ipython.org/github/esss/ipython/blob/master/examples/Interactive%20Widgets/Index.ipynb&quot; target=&quot;_blank&quot;&gt;interactive widgets in iPython&lt;/a&gt;, &lt;a href=&quot;http://mpld3.github.io/&quot; target=&quot;_blank&quot;&gt;mpld3&lt;/a&gt; and especially &lt;a href=&quot;http://d3js.org/&quot; target=&quot;_blank&quot;&gt;D3.js&lt;/a&gt; (1.5 week).&lt;/li&gt;
-      
+      &amp;lt;/li&amp;gt;
     &lt;/ul&gt;
 
     &lt;p&gt;The remainder of this article reports on the project and business context in which these technologies were applied.&lt;/p&gt;
