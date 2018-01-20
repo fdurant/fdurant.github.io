@@ -4,13 +4,71 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-01-20T15:36:13+01:00</updated>
+<updated>2018-01-20T18:36:14+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
+  <link rel="alternate" type="text/html" href="/blog/hypekus/" />
+  <id>/blog/hypekus</id>
+  <published>2018-01-20T19:00:00+01:00</published>
+  <updated>2018-01-20T19:00:00+01:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 id=&quot;artificial-intelligence&quot;&gt;Artificial intelligence&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Knowing humankind’s&lt;br /&gt;
+Usual intelligence&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=kZp-l22OD-c&quot;&gt;Can AI do worse&lt;/a&gt;?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;blockchain&quot;&gt;Blockchain&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When the snake is &lt;a href=&quot;https://en.wikipedia.org/wiki/Fork_(blockchain)&quot;&gt;forked&lt;/a&gt;&lt;br /&gt;
+And schismatizes in two&lt;br /&gt;
+What is fool’s truth worth?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;crypto-currency&quot;&gt;Crypto-currency&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Them &lt;a href=&quot;https://en.wikipedia.org/wiki/Cryptocurrency&quot;&gt;coins and tokens&lt;/a&gt;&lt;br /&gt;
+Soaped up in bubbly wallets&lt;br /&gt;
+Yearning for value&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;deep-learning&quot;&gt;Deep learning&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Gradient_descent&quot;&gt;Valley&lt;/a&gt; in sight, when&lt;br /&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Selection_bias&quot;&gt;Selection bias&lt;/a&gt; abyss&lt;br /&gt;
+Swallows the climber&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;internet-of-things&quot;&gt;Internet of things&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On the Internet&lt;br /&gt;
+Each &lt;a href=&quot;https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog&quot;&gt;dog&lt;/a&gt; knows a &lt;a href=&quot;https://internetofbusiness.com/internet-smells-olfaction-via-nanomechanical-sensors/&quot;&gt;smelly thing&lt;/a&gt;&lt;br /&gt;
+To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-critical/&quot;&gt;sniff&lt;/a&gt; that’s secret&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/hypekus/&quot;&gt;Five hypekus &mdash; because we can&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 20, 2018.&lt;/p&gt;</content>
+</entry>
 
 
   
@@ -2432,58 +2490,6 @@ In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&
 
 
   &lt;p&gt;&lt;a href=&quot;/projects/movie-project/&quot;&gt;A basic linear regression model for predicting movie revenue&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 30, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[First week impressions]]></title>
-  <link rel="alternate" type="text/html" href="/blog/week1/" />
-  <id>/blog/week1</id>
-  <published>2015-01-16T13:00:00+01:00</published>
-  <updated>2015-01-16T13:00:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;My first week in New York is coming to an end. Here’s what an average weekday has looked like, so far:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Out of bed way too early, between 1-4 AM, breakfast around 6-7 AM&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://web.mta.info/maps/submap.html&quot;&gt;Public transport&lt;/a&gt; from &lt;a href=&quot;https://www.google.com/maps/place/71+Irving+Pl,+Brooklyn,+NY+11238/@40.6830384,-73.9596046,17z&quot;&gt;Krash Brooklyn&lt;/a&gt; to &lt;a href=&quot;https://www.google.com/maps/place/79+Madison+Ave,+New+York,+NY+10016/@40.7442036,-73.9853586,17z&quot;&gt;Metis&lt;/a&gt; in Midtown Manhattan:
-    &lt;ul&gt;
-      &lt;li&gt;Walk to Clinton/Washington station (5 minutes)&lt;/li&gt;
-      &lt;li&gt;C line to West 4th Street / Washington Square station (9 stops, about 20 minutes)&lt;/li&gt;
-      &lt;li&gt;B/D/F/M line to 34th Street / Herald Square station (3 stops, about 5 minutes)&lt;/li&gt;
-      &lt;li&gt;Walk to Metis at 79 Madison Ave (10 minutes)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Class from 9AM until noon, first theory (project design, hypothesis testing, git &amp;amp; GitHub), then practical lab work (like the &lt;a href=&quot;/blog/hipster-or-not/&quot;&gt;hipster classification game&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Lunch from noon until 1:30 PM. There’s an &lt;em&gt;overwhelming&lt;/em&gt; choice out there. So far, I’ve tried &lt;a href=&quot;http://www.eataly.com/nyc/&quot;&gt;Eataly&lt;/a&gt;, &lt;a href=&quot;http://essenslowfastfood.com&quot;&gt;Essen&lt;/a&gt;, &lt;a href=&quot;http://www.breadbutternyc.com&quot;&gt;Bread &amp;amp; Butter&lt;/a&gt;, a Korean takeaway, plus a few more&lt;/li&gt;
-  &lt;li&gt;Afternoon class with more practical lab work, until 6 PM +/- 1 hour. Working with &lt;a href=&quot;http://web.mta.info/developers/turnstile.html&quot;&gt;MTA turnstile data&lt;/a&gt; this week. Also found publicly available &lt;a href=&quot;https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr&quot;&gt;School Point Location&lt;/a&gt; data, and installed &lt;a href=&quot;http://www.arcgis.com&quot;&gt;ArcGIS&lt;/a&gt; for mapping MTA stations and schools. All our code and artifacts are stored at &lt;a href=&quot;https://github.com/fdurant/NewYorkRedBulls&quot;&gt;GitHub&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Dinner in Manhattan with fellow Krashers, or straight home&lt;/li&gt;
-  &lt;li&gt;In Brooklyn: Shopping at local deli, doing the dishes, watching &lt;a href=&quot;http://www.cc.com/shows/broad-city&quot;&gt;wacky TV series&lt;/a&gt; on Netflix/Amazon&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other random activities and observations:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Walked from Brooklyn to Manhattan, over the Brooklyn Bridge&lt;/li&gt;
-  &lt;li&gt;Walked up Fifth Avenue from Madison Square Park to Central Park&lt;/li&gt;
-  &lt;li&gt;Bought some garments at Macy’s. Hmm, those trousers do look a bit too short, after all&lt;/li&gt;
-  &lt;li&gt;Had a swim try-out at the &lt;a href=&quot;http://www.mphc.com&quot;&gt;Manhattan Plaza Health Club&lt;/a&gt;. Water temperature OK, out-of-water temperature not OK.&lt;/li&gt;
-  &lt;li&gt;Despite our 90-minute lunch break, fellow students eat and walk to/from the eatery at great &lt;em&gt;speed&lt;/em&gt;, for no apparent reason&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/Krash_Brooklyn.jpg&quot; alt=&quot;Picture of Krash Brooklyn&quot; /&gt;
-	&lt;figcaption&gt;Krash Brooklyn at 71 Irving Place, around 7:30 AM&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/week1/&quot;&gt;First week impressions&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 16, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
