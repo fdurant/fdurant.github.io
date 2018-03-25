@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Most epic professional fails",
+		  "category"   : "",
+      "tags"       : "professional and confessional",
+		  "url"        : "/blog/most-epic-professional-fails/",
+		  "date"       : "2018-03-25 12:00:00 +0200",
+		  "shortdate"  : "March 25, 2018"
+		} ,
+	
+		{
 		  "title"      : "Five hypekus &amp;mdash; because we can",
 		  "category"   : "",
       "tags"       : "poetry, hype, haiku, sense, and nonsense",

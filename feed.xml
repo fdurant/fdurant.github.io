@@ -4,13 +4,219 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-01-20T18:36:14+01:00</updated>
+<updated>2018-03-25T10:18:30+02:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Most epic professional fails]]></title>
+  <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
+  <id>/blog/most-epic-professional-fails</id>
+  <published>2018-03-25T12:00:00+02:00</published>
+  <updated>2018-03-25T12:00:00+02:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;We all make mistakes in life, don’t we? Especially when we’re at work.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/errare-humanum-est.jpg&quot; alt=&quot;Photo of eraser gum with inscription &#39;errare humanum est&#39;&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here’s my &lt;strong&gt;personal top-10&lt;/strong&gt; of professional fails (so far), carefully collected over the years.
+They range from slightly reckless behaviour and laughably embarrassing
+situations, to outright unforgivable actions.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;h3 id=&quot;driving-180-kmh-with-a-harddisk-full-of-data&quot;&gt;#10. Driving 180 km/h with a harddisk full of data&lt;/h3&gt;
+
+&lt;p&gt;More than twenty years ago, when I was still in my twenties and
+therefore immortal,
+a customer of ours needed to urgently launch a
+massive website containing tens of thousands of pre-generated pages.&lt;/p&gt;
+
+&lt;p&gt;Too much data to send over the wire or by &lt;a href=&quot;https://en.wikipedia.org/wiki/IP_over_Avian_Carriers&quot;&gt;avian carrier&lt;/a&gt;,
+so we went for the highway. Never was I driven faster from Brussels to
+Luxemburg than on that particular day.&lt;/p&gt;
+
+&lt;p&gt;The website went online alright, but
+I swore to never do that again.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;Made the deadline&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;Almost made the deadline&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;stomach-problems-on-an-intercontinental-flight&quot;&gt;#9. Stomach problems on an intercontinental flight&lt;/h3&gt;
+
+&lt;p&gt;What do you get when you combine a week of jetlag and lack of sleep
+with a chicken curry inflight meal, and a glass of port?&lt;/p&gt;
+
+&lt;p&gt;A big
+mess, a lot of hassle and a plastic bag full of clothes. Plus complimentary pajamas
+carrying the British Airways logo — a real collector’s item!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;deep respect&lt;/strong&gt; for flight attendants and airport paramedics&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;embarrassing walk&lt;/strong&gt; in BA pajamas through Heathrow transit zone&lt;/p&gt;
+
+&lt;h3 id=&quot;not-checking-company-critical-backup-tapes&quot;&gt;#8. Not checking company-critical backup tapes&lt;/h3&gt;
+
+&lt;p&gt;This is a classic.&lt;/p&gt;
+
+&lt;p&gt;When I was working at one of Belgium’s first web
+development shops in the mid-nineties, the external SCSI disk
+containing half of all our managed websites suddenly decided to stop
+working. To make matters worse, the backup tape also seemed corrupt.&lt;/p&gt;
+
+&lt;p&gt;Just when I was about to take the blame and write my resignation
+letter, the disk came up again, and the company was saved. As was my job.&lt;/p&gt;
+
+&lt;p&gt;A few weeks 
+later, we got our state-of-the-art automated backup system, and a rack
+full of fault-tolerant RAID disks.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;never waste a good crisis&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;heart rate&lt;/strong&gt; and &lt;strong&gt;blood pressure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;firing-a-key-person-in-the-team-and-then-quitting&quot;&gt;#7. Firing a key person in the team, and then quitting&lt;/h3&gt;
+
+&lt;p&gt;At that same startup, I had to let go an important team member,
+knowing that I might resign myself a week later. Which I did, once I
+got the green light from my new employer.&lt;/p&gt;
+
+&lt;p&gt;Every so often, timing is everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;the company survived&lt;/strong&gt;, of course, at least for a while&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: there’s little fun in dealing with &lt;strong&gt;ethical dilemmas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;agreeing-to-get-paid-half-in-money-half-in-shares&quot;&gt;#6. Agreeing to get paid half in money, half in shares&lt;/h3&gt;
+
+&lt;p&gt;In the mid-noughties, when I was a freelancer building speech-driven
+phone applications, I was called in to program the one and only Beavis
+&amp;amp; Butthead Hotline. The New York startup I was working for didn’t have
+a lot of cash, so I agreed to be paid in equity for half of my
+work.&lt;/p&gt;
+
+&lt;p&gt;No need to say that this assignment was by far the funniest
+thing I’ve ever worked on. But also the least well paid.&lt;/p&gt;
+
+&lt;p&gt;Oh, never mind!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: It was damned &lt;strong&gt;COOL heh hehheh heheheheh heh heh&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: I &lt;strong&gt;never met Beavis &amp;amp; Butthead&lt;/strong&gt; in person&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ii2L_cagOR4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;So, what else did I suck at?&lt;/p&gt;
+
+&lt;h3 id=&quot;telling-political-jokes-to-foreign-co-workers&quot;&gt;#5. Telling political jokes to foreign co-workers&lt;/h3&gt;
+
+&lt;p&gt;Over lunch at work, I once jokingly made a comment to a French project
+partner about “Hirochirac” — the
+nickname given to the then French president Jacques Chirac. There was
+no laughter: &lt;em&gt;apparemment, ce n’était pas très marrant.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Years later, when I should have known better, I wanted to display my knowledge
+about the Po Valley to Italian colleagues we were visiting.
+To do so, I innocently used the word &lt;a href=&quot;https://en.wikipedia.org/wiki/Padania&quot;&gt;Padania&lt;/a&gt;, which
+turned out to have acquired a
+strong political connotation. A few colleagues choked on their
+espressos and cappuccinos.&lt;/p&gt;
+
+&lt;p&gt;Don’t. Just don’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;Follow the international news&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;Discuss it with locals&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;not-putting-all-contractual-clauses-on-paper&quot;&gt;#4. Not putting all contractual clauses on paper&lt;/h3&gt;
+
+&lt;p&gt;When joining a Belgian company that had just been acquired by a very
+well funded Silicon Valley startup, I was promised a sizeable amount of
+stock options. Alas, I was gullible and naïve enough to settle for a
+gentleman’s agreement with the local boss.&lt;/p&gt;
+
+&lt;p&gt;One year later, the daughter company went bankrupt. Stock
+options were nowhere to be seen, of course.&lt;/p&gt;
+
+&lt;p&gt;Six years later, the mother company was sold to Microsoft for a bit
+less than a billion dollars. A small part of which could have been mine.&lt;/p&gt;
+
+&lt;p&gt;Since then, everything is on paper. Always.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;I could have made some decent money&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;I didn’t&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;agreeing-to-split-an-rd-team-in-r-and-d-subteams&quot;&gt;#3. Agreeing to split an R&amp;amp;D team in R and D subteams&lt;/h3&gt;
+
+&lt;p&gt;A couple of years ago, my boss wanted to make sure that the R&amp;amp;D team I
+was leading would spend enough time on innovative research, next to
+the more operational work of developing models. He wanted to
+achieve this by splitting the team in two virtual subteams, along
+these lines.&lt;/p&gt;
+
+&lt;p&gt;Intuitively, I knew this was a very bad idea: most R&amp;amp;D people — especially the ones
+with a PhD — prefer to see themselves as
+… researchers. Nevertheless, against
+my own will and intuition, I gave in and complied with my boss’ wish.&lt;/p&gt;
+
+&lt;p&gt;It didn’t take a day for the team to lose its internal coherence, and
+fall apart in two camps: the “winners” (researchers) and the “losers” (developers).&lt;/p&gt;
+
+&lt;p&gt;Next time: just say no.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: I had been &lt;strong&gt;loyal to the chief&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: I was &lt;strong&gt;squeezed as a middle manager&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;telling-truth-to-ceo-bypassing-local-boss&quot;&gt;#2. Telling truth to CEO, bypassing local boss&lt;/h3&gt;
+
+&lt;p&gt;The daughter company from item #4 was in dire straits, so the
+mother company CEO decided to cut his losses and pull the
+plug. Because I had —rightly so — lost all confidence in
+our boss to represent, let alone defend
+his local staff, I sent a 
+mail directly to the CEO with my version of the truth, pleading for a reversal of his decision. To
+no avail, of course.&lt;/p&gt;
+
+&lt;p&gt;A few hours later, I got one of the most unpleasant phone calls in my life. A
+few weeks later, I was fired, together with a couple of other people. A few months later, everyone was fired.&lt;/p&gt;
+
+&lt;p&gt;That is, except for the local boss, who parked the exit funds meant for the turnaround of the daughter company in his
+personal Luxemburg holding. He lived happily ever after, I
+think. I never checked.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: Keep your &lt;strong&gt;self-respect&lt;/strong&gt; by staying &lt;strong&gt;loyal to your own beliefs&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;: Be prepared to &lt;strong&gt;take the bullet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;send-blame-mail-to-team-member-for-assumed-lack-of-motivation-with-whole-team-in-cc&quot;&gt;#1. Send blame mail to team member for assumed lack of motivation, with whole team in Cc:&lt;/h3&gt;
+
+&lt;p&gt;A project team member wrote to the team that she was unable to perform a certain task
+by a certain deadline, giving a reason that I deemed bogus. In a
+moment of weakness, anger and frustration, I sent a not-so-friendly
+reply mail, clearly singling her out. Three seconds after pushing the 
+Send button, I fully realized how stupid I had been.&lt;/p&gt;
+
+&lt;p&gt;Written and oral apologies followed to the team member, her boss and the team. It took a couple
+of days to be on speaking terms again.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: I &lt;strong&gt;assumed responsibility&lt;/strong&gt; and &lt;strong&gt;apologized&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bad&lt;/em&gt;:  &lt;strong&gt;Everything else&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;morale-of-the-story&quot;&gt;Morale of the story&lt;/h3&gt;
+
+&lt;p&gt;Next time you’re acting stupidly, know that you’re not alone. There’s
+quite some competition out there.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/most-epic-professional-fails/&quot;&gt;Most epic professional fails&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 25, 2018.&lt;/p&gt;</content>
+</entry>
 
 
   
@@ -2427,69 +2633,6 @@ and universal harmony was restored.&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/blog/hugging-a-googler/&quot;&gt;That second I hugged a Googler&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 08, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[A basic linear regression model for predicting movie revenue]]></title>
-  <link rel="alternate" type="text/html" href="/projects/movie-project/" />
-  <id>/projects/movie-project</id>
-  <published>2015-01-30T13:00:00+01:00</published>
-  <updated>2015-01-30T13:00:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;Our instructors from &lt;a href=&quot;http://datascopeanalytics.com&quot;&gt;Datascope Analytics&lt;/a&gt; designed the bootcamp around a number of projects.&lt;/p&gt;
-
-&lt;p&gt;In week 2 &amp;amp; 3, we were all let loose on movie revenue data scraped from &lt;a href=&quot;http://www.boxofficemojo.com&quot;&gt;Box Office Mojo&lt;/a&gt;.
-The major goal was to predict a movie-related value of choice by using a &lt;a href=&quot;http://en.wikipedia.org/wiki/Linear_regression&quot;&gt;linear regression&lt;/a&gt; model,
-optionally involving &lt;a href=&quot;http://en.wikipedia.org/wiki/Logarithm&quot;&gt;logarithmic&lt;/a&gt; and/or &lt;a href=&quot;http://en.wikipedia.org/wiki/Polynomial_regression&quot;&gt;polynomial terms&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The first days were spent on writing and running the web scraper. I used &lt;a href=&quot;http://www.crummy.com/software/BeautifulSoup/&quot;&gt;Beautiful Soup&lt;/a&gt; and good old
-&lt;a href=&quot;https://docs.python.org/2/library/re.html&quot;&gt;regular expressions&lt;/a&gt; to parse and convert the messy Box Office Mojo data into a nice and clean &lt;a href=&quot;http://en.wikipedia.org/wiki/Comma-separated_values&quot;&gt;comma-separated&lt;/a&gt; &lt;a href=&quot;/projects/movie/BoxOfficeMojoMovies.csv&quot;&gt;file&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The scope of my personal project shrunk as the data came in and the days went by.
-In the end, after many iterations in &lt;a href=&quot;http://ipython.org/&quot;&gt;IPython&lt;/a&gt;, I got to fit a number of multilinear regression models with &lt;a href=&quot;http://statsmodels.sourceforge.net/0.5.0/regression.html&quot;&gt;statsmodels&lt;/a&gt;, using
-&lt;a href=&quot;http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html&quot;&gt;sklearn&lt;/a&gt; for model evaluation (&lt;a href=&quot;http://en.wikipedia.org/wiki/Root-mean-square_deviation&quot;&gt;root-mean-squared error&lt;/a&gt;), and the inevitable &lt;a href=&quot;http://matplotlib.org/api/pyplot_api.html&quot;&gt;pyplot&lt;/a&gt; for visualization.&lt;/p&gt;
-
-&lt;p&gt;On Friday, the whole class delivered their presentations. My first-ever &lt;a href=&quot;/projects/movie/Metis_Data_Science_Project_Luther_20150130.pdf&quot;&gt;Keynote presentation&lt;/a&gt; was for a ficticious investor known by the name of Dino Brangelino. My conclusion: knowing the box office revenue of the opening weekend -on top of the production budget- reduces total revenue prediction error by 15%.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/movieproject_presentation_1.jpg&quot; /&gt;
-	&lt;figcaption&gt;Presenting performance improvements in linear regression models to the Metis Data Science class&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A not-so-random sample of subjects from my fellow students’ talks:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;how to convince laggards among the actors and actresses to go on Twitter, by predicting how many followers they would have if they did&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;can monthly consumer optimism predict the mutual prevalence of movie genres?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;does the choice of a distributor help to secure an Oscar nomination?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;which actor, actress, director or producer is overpaid or underpaid, given the gross revenue of the movies they have contributed to?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;does the co-featuring network of actors/actresses determine movie revenue?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/movieproject_presentation_2.jpg&quot; /&gt;
-	&lt;figcaption&gt;Presenting observed vs. predicted movie gross revenue on the best-performing linear regression model&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/projects/movie-project/&quot;&gt;A basic linear regression model for predicting movie revenue&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 30, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
