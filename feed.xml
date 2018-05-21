@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-03-25T10:18:30+02:00</updated>
+<updated>2018-05-21T06:43:04+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,103 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
+  <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
+  <id>/blog/the-more-things-change</id>
+  <published>2018-05-21T11:00:00+01:00</published>
+  <updated>2018-05-21T11:00:00+01:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;One of the delights of being a millennial is that every new technology fad looks
+completely novel, even if it isn’t. That thought crossed my mind when 
+attending a &lt;a href=&quot;https://dialogflow.com/&quot;&gt;DialogFlow&lt;/a&gt; workshop at Google Brussels a
+couple of weeks ago.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/echo-dot-google-home-mini.jpg&quot; alt=&quot;Photo of Amazon Echo Dot and Google Home Mini&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In our times of ever accelerating change,
+technological generations last shorter and shorter. The World Wide Web
+— better known as the Internet — went
+mainstream 25 years ago, mobile (voice) telephony followed 7 years later.
+The smartphone as we know it is barely 10 years old.
+Data science reached the age of consent — &lt;a href=&quot;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century&quot;&gt;sexiest
+job&lt;/a&gt;, remember — just 5 years ago. And if you
+believe the newspapers, the age of artificial intelligence has now
+finally arrived. With — would you believe it — the &lt;a href=&quot;https://venturebeat.com/2016/09/01/are-chatbots-an-evolution-or-a-revolution/&quot;&gt;chatbot&lt;/a&gt;
+aka conversational interface as one of their poster children.&lt;/p&gt;
+
+&lt;p&gt;Back to Google. Looking around in their classroom, I seemed to be the only
+attendee older than 35. By a wide margin, I must admit. Logically, most of the
+digital natives in the room started their professional life around or
+after the arrival of the &lt;a href=&quot;https://youtu.be/9hUIxyE2Ns8&quot;&gt;iPhone&lt;/a&gt;. Which means they were not
+yet around during the early years of speech-driven phone applications
+and call center automation, say the beginning of this century and
+millennium.&lt;/p&gt;
+
+&lt;p&gt;Nostalgia alert: who remembers nowadays the fully automated speech services offered
+in the (phone) cloud by companies such as &lt;a href=&quot;https://en.wikipedia.org/wiki/Tellme_Networks&quot;&gt;Tellme
+Networks&lt;/a&gt; (a former employer of mine), &lt;a href=&quot;https://www.crunchbase.com/organization/bevocal&quot;&gt;BeVocal&lt;/a&gt;, and
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Voxeo&quot;&gt;Voxeo&lt;/a&gt;? Let alone 20-year old technologies like
+&lt;a href=&quot;https://en.wikipedia.org/wiki/VoiceXML&quot;&gt;VoiceXML&lt;/a&gt; or the &lt;a href=&quot;https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language&quot;&gt;Speech Synthesis Markup Language&lt;/a&gt; aka SSML?&lt;/p&gt;
+
+&lt;p&gt;I’m afraid I do. For the simple reason that for the better part of a decade, I
+made a living out of building voice applications with said platforms
+and technologies. Pleasant surprise: &lt;a href=&quot;https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language&quot;&gt;SSML&lt;/a&gt; has survived the generational 
+gap. It is actively &lt;a href=&quot;https://developers.google.com/actions/reference/ssml&quot;&gt;supported in the Google Actions
+Simulator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So when I asked our instructor if &lt;a href=&quot;https://assistant.google.com/&quot;&gt;Google Assistant&lt;/a&gt; offered shared
+revenue models &lt;em&gt;like the toll numbers in the years
+before the smartphone GUI replaced the voice channel for
+mobile information access&lt;/em&gt;, he was speechless at first. Then he asked
+politely if I could repeat the question. By the way: the answer was no,
+even though technically speaking, there is certainly room for such
+business models on the fulfillment side, using some form of
+account linking and automated payment provider.&lt;/p&gt;
+
+&lt;p&gt;Since the workshop, I have dabbled with &lt;a href=&quot;https://github.com/fdurant/dialogflow-rock-paper-scissors&quot;&gt;a toy
+chatbot&lt;/a&gt; for Google &lt;a href=&quot;https://dialogflow.com/&quot;&gt;DialogFlow&lt;/a&gt; and &lt;a href=&quot;https://developers.google.com/actions/&quot;&gt;Actions&lt;/a&gt;. My
+first impression is that the democratization of chatbot
+development is both a curse and a blessing. The innate volatility of
+spoken conversation makes that the quality of the interaction 
+depends &lt;em&gt;at least&lt;/em&gt; as much on conversational interface
+design as on the technical platform it is implemented on. Nothing
+new there, i’m afraid: user friendly, intuitive web interfaces like
+&lt;a href=&quot;https://dialogflow.com/&quot;&gt;DialogFlow&lt;/a&gt; won’t change that. In fact, despite Google’s own &lt;a href=&quot;https://dialogflow.com/docs/best-practices/agent-design&quot;&gt;agent
+design guidelines&lt;/a&gt;, the ease of the point &amp;amp; click development
+interface might and will trick some developers into thinking that
+chatbots are easy to build. &lt;em&gt;Quod non.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A few years into the VoiceXML era, the advent of integrated, multi-platform tools for application
+development like &lt;a href=&quot;https://en.wikipedia.org/wiki/VoiceObjects&quot;&gt;VoiceObjects&lt;/a&gt; made it easier for the industry to shift from bare
+bones VoiceXML programming (a coding job) to the art of conversational
+interface design (a voice user interface specialist’s job). In the &lt;a href=&quot;https://developer.amazon.com/alexa&quot;&gt;Amazon Alexa&lt;/a&gt; and
+&lt;a href=&quot;https://store.google.com/product/google_home&quot;&gt;Google Home&lt;/a&gt; era, voice application framework providers like
+&lt;a href=&quot;https://www.jovo.tech&quot;&gt;jovo&lt;/a&gt; may benefit from studying these ancient precedessors, 
+lest they reinvent the wheel.&lt;/p&gt;
+
+&lt;p&gt;In that respect, a timeless book still worth reading is &lt;a href=&quot;https://www.amazon.com/Voice-Interface-Design-James-Giangola/dp/0321185765/&quot;&gt;Voice User
+Interface Design&lt;/a&gt; by James P. Giangola and Jennifer
+Balogh. I bought it in … 2004.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/the-more-things-change/&quot;&gt;Chatbots: the more things change, the more they are the same&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 21, 2018.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T12:00:00+02:00</published>
-  <updated>2018-03-25T12:00:00+02:00</updated>
+  <published>2018-03-25T11:00:00+01:00</published>
+  <updated>2018-03-25T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -225,8 +317,8 @@ quite some competition out there.&lt;/p&gt;
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T19:00:00+01:00</published>
-  <updated>2018-01-20T19:00:00+01:00</updated>
+  <published>2018-01-20T18:00:00+00:00</published>
+  <updated>2018-01-20T18:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -283,8 +375,8 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T21:45:00+01:00</published>
-  <updated>2017-12-29T21:45:00+01:00</updated>
+  <published>2017-12-29T20:45:00+00:00</published>
+  <updated>2017-12-29T20:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -405,8 +497,8 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T01:00:01+01:00</published>
-  <updated>2017-11-18T01:00:01+01:00</updated>
+  <published>2017-11-18T00:00:01+00:00</published>
+  <updated>2017-11-18T00:00:01+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -459,8 +551,8 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T16:45:00+01:00</published>
-  <updated>2016-10-30T16:45:00+01:00</updated>
+  <published>2016-10-30T15:45:00+00:00</published>
+  <updated>2016-10-30T15:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -505,8 +597,8 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T08:00:00+01:00</published>
-  <updated>2016-03-06T08:00:00+01:00</updated>
+  <published>2016-03-06T07:00:00+00:00</published>
+  <updated>2016-03-06T07:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -578,8 +670,8 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T23:40:00+01:00</published>
-  <updated>2016-03-01T23:40:00+01:00</updated>
+  <published>2016-03-01T22:40:00+00:00</published>
+  <updated>2016-03-01T22:40:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -642,8 +734,8 @@ public procurement - if only to give start-ups in this field a reasonable chance
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+01:00</published>
-  <updated>2016-01-16T00:00:00+01:00</updated>
+  <published>2016-01-16T00:00:00+00:00</published>
+  <updated>2016-01-16T00:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -676,8 +768,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T16:00:00+01:00</published>
-  <updated>2015-12-13T16:00:00+01:00</updated>
+  <published>2015-12-13T15:00:00+00:00</published>
+  <updated>2015-12-13T15:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -713,8 +805,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T14:01:00+02:00</published>
-  <updated>2015-10-03T14:01:00+02:00</updated>
+  <published>2015-10-03T13:01:00+01:00</published>
+  <updated>2015-10-03T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -770,8 +862,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T14:01:00+02:00</published>
-  <updated>2015-07-29T14:01:00+02:00</updated>
+  <published>2015-07-29T13:01:00+01:00</published>
+  <updated>2015-07-29T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -827,8 +919,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-06T01:55:00+02:00</published>
-  <updated>2015-05-06T01:55:00+02:00</updated>
+  <published>2015-05-06T00:55:00+01:00</published>
+  <updated>2015-05-06T00:55:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -898,8 +990,8 @@ global productivity of money.&lt;/p&gt;
   <title type="html"><![CDATA[Age prediction's child diseases]]></title>
   <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
   <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T18:00:00+02:00</published>
-  <updated>2015-05-01T18:00:00+02:00</updated>
+  <published>2015-05-01T17:00:00+01:00</published>
+  <updated>2015-05-01T17:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -969,8 +1061,8 @@ younger. Quite the contrary.&lt;/p&gt;
   <title type="html"><![CDATA[9 1/2 data science bootcamp survival tips]]></title>
   <link rel="alternate" type="text/html" href="/blog/survive-data-science-bootcamp/" />
   <id>/blog/survive-data-science-bootcamp</id>
-  <published>2015-04-22T17:00:00+02:00</published>
-  <updated>2015-04-22T17:00:00+02:00</updated>
+  <published>2015-04-22T16:00:00+01:00</published>
+  <updated>2015-04-22T16:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1158,8 +1250,8 @@ any use to oneself.”&lt;/em&gt;&lt;/p&gt;
   <title type="html"><![CDATA[American picture haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/usa-picture-haikus/" />
   <id>/blog/usa-picture-haikus</id>
-  <published>2015-04-12T04:00:00+02:00</published>
-  <updated>2015-04-12T04:00:00+02:00</updated>
+  <published>2015-04-12T03:00:00+01:00</published>
+  <updated>2015-04-12T03:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1226,8 +1318,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[An end-to-end loan funding predictor for kiva.org]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-loan-funding-predictor-project/" />
   <id>/projects/kiva-loan-funding-predictor-project</id>
-  <published>2015-04-07T13:00:00+02:00</published>
-  <updated>2015-04-07T13:00:00+02:00</updated>
+  <published>2015-04-07T12:00:00+01:00</published>
+  <updated>2015-04-07T12:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2083,8 +2175,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[A quick glance into 775 thousand Kiva borrower stories]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-topic-modelling-project/" />
   <id>/projects/kiva-topic-modelling-project</id>
-  <published>2015-03-13T13:00:00+01:00</published>
-  <updated>2015-03-13T13:00:00+01:00</updated>
+  <published>2015-03-13T12:00:00+00:00</published>
+  <updated>2015-03-13T12:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2206,8 +2298,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Selling a new banking product to the right customers (first)]]></title>
   <link rel="alternate" type="text/html" href="/projects/banking-project/" />
   <id>/projects/banking-project</id>
-  <published>2015-02-20T16:45:00+01:00</published>
-  <updated>2015-02-20T16:45:00+01:00</updated>
+  <published>2015-02-20T15:45:00+00:00</published>
+  <updated>2015-02-20T15:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2510,8 +2602,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Five data science haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/data-science-haikus/" />
   <id>/blog/data-science-haikus</id>
-  <published>2015-02-15T23:20:00+01:00</published>
-  <updated>2015-02-15T23:20:00+01:00</updated>
+  <published>2015-02-15T22:20:00+00:00</published>
+  <updated>2015-02-15T22:20:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2564,75 +2656,6 @@ But where is my soul?&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/blog/data-science-haikus/&quot;&gt;Five data science haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 15, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[That second I hugged a Googler]]></title>
-  <link rel="alternate" type="text/html" href="/blog/hugging-a-googler/" />
-  <id>/blog/hugging-a-googler</id>
-  <published>2015-02-08T13:10:00+01:00</published>
-  <updated>2015-02-08T13:10:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;This week I hugged a &lt;a href=&quot;https://www.linkedin.com/profile/view?id=27312399&quot;&gt;Googler&lt;/a&gt;, yes I did. How, why, huh? Let me tell you.&lt;/p&gt;
-
-&lt;p&gt;On top of providing the formal lectures, challenges and project work, our &lt;a href=&quot;http://www.thisismetis.com/data-science&quot;&gt;bootcamp&lt;/a&gt; regularly invites speakers from industry.
-So last Thursday, we were enlightened on the art of working with data in a scientifically and ethically sound fashion by no less than
-a super-smart and super-enthusiastic &lt;a href=&quot;https://www.linkedin.com/profile/view?id=27312399&quot;&gt;Googler&lt;/a&gt; - my apologies for the double tautology.&lt;/p&gt;
-
-&lt;p&gt;To get the interaction going, we, mere mortal students, were offered a multiple (6) choice question. The last one of which was,
-obviously, &lt;em&gt;none of the above&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;For a number of reasons, this answer exerted an irresistible attraction on my whole brain, body and being:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;even in case of total ignorance, it still looks like you gave the matter such deep thought, that none of the above answers
-could possibly be nuanced and/or precise enough for complete intellectual satisfaction&lt;/li&gt;
-  &lt;li&gt;strategically, it’s a safe bet, because the speaker may want to demonstrate his/her proficiency on why all of the above answers are clearly wrong or incomplete, as an introduction to the rest of the talk&lt;/li&gt;
-  &lt;li&gt;last but not least, my eldest daughter is a self-certified expert in guessing multiple-choice answers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So when the time came, I shouted ‘F!’&lt;/p&gt;
-
-&lt;p&gt;And then it happened.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;[Googler]: Who said &amp;#39;F&amp;#39; over there?
-[Humble student]: I did! (hesitantly raising my hand)
-[Googler]: Why?
-[Humble student]: Because whatever mumble mumble bla bla bla
-[Googler]: That&amp;#39;s correct! Let me give you a hug
-[Humble student]: Sure, why not&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;As my grey cells &lt;a href=&quot;http://youtu.be/h8JX1Pl9F_Q?t=38s&quot;&gt;wandered off&lt;/a&gt;, I thankfully received my
-proverbial pat on the shoulder. It was over in a second, but no less real.&lt;/p&gt;
-
-&lt;p&gt;I hugged a Googler. Or rather, was hugged by one.&lt;/p&gt;
-
-&lt;p&gt;In a strike of celestial irony, the remainder of the talk focused on the importance for aspiring data
-scientists to &lt;strike&gt;dumb down&lt;/strike&gt; reformulate their scientific messages to less scientifically
-inclined &lt;strike&gt;creatures&lt;/strike&gt; professionals
-known as &lt;a href=&quot;http://be.linkedin.com/in/fdurant&quot;&gt;MBAs&lt;/a&gt;.
-As I understood it, their main role at Google is to translate Truth into more digestible truths, depending
-on the VP they’re trying to please.&lt;/p&gt;
-
-&lt;p&gt;So by the time the talk was over, the earth had come back into its normal orbit, everyone knew their place,
-and universal harmony was restored.&lt;/p&gt;
-
-&lt;p&gt;But the hug was mine.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/jekyll_hyde_mad_scientist.jpg&quot; alt=&quot;Jekyll and Hyde: restaurant and social club for explorers and mad scientists&quot; /&gt;
-	&lt;figcaption&gt;Explorers and mad (data) scientists feeling at home in New York City&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/hugging-a-googler/&quot;&gt;That second I hugged a Googler&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 08, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
