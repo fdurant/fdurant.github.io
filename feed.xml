@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-05-21T08:55:04+01:00</updated>
+<updated>2018-06-03T15:48:45+02:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -19,8 +19,8 @@
   <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
   <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
   <id>/blog/the-more-things-change</id>
-  <published>2018-05-21T11:00:00+01:00</published>
-  <updated>2018-05-21T11:00:00+01:00</updated>
+  <published>2018-05-21T12:00:00+02:00</published>
+  <updated>2018-05-21T12:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -60,8 +60,8 @@ Networks&lt;/a&gt; (a former employer of mine), &lt;a href=&quot;https://www.cru
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Voxeo&quot;&gt;Voxeo&lt;/a&gt;? Let alone 20-year old technologies like
 &lt;a href=&quot;https://en.wikipedia.org/wiki/VoiceXML&quot;&gt;VoiceXML&lt;/a&gt; or the &lt;a href=&quot;https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language&quot;&gt;Speech Synthesis Markup Language&lt;/a&gt; aka SSML?&lt;/p&gt;
 
-&lt;p&gt;I’m afraid I do. For the simple reason that for the better part of a decade, I
-made a living out of building voice applications with said platforms
+&lt;p&gt;I’m afraid I do. For the simple reason that for the better part of a decade, &lt;a href=&quot;http://blog.prompt-speechapps.com&quot;&gt;I
+made a living out of building voice applications&lt;/a&gt; with said platforms
 and technologies. Pleasant surprise: &lt;a href=&quot;https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language&quot;&gt;SSML&lt;/a&gt; has survived the generational 
 gap. It is actively &lt;a href=&quot;https://developers.google.com/actions/reference/ssml&quot;&gt;supported in the Google Actions
 Simulator&lt;/a&gt;.&lt;/p&gt;
@@ -111,8 +111,8 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T11:00:00+01:00</published>
-  <updated>2018-03-25T11:00:00+01:00</updated>
+  <published>2018-03-25T12:00:00+02:00</published>
+  <updated>2018-03-25T12:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -317,8 +317,8 @@ quite some competition out there.&lt;/p&gt;
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T18:00:00+00:00</published>
-  <updated>2018-01-20T18:00:00+00:00</updated>
+  <published>2018-01-20T19:00:00+01:00</published>
+  <updated>2018-01-20T19:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -375,8 +375,8 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T20:45:00+00:00</published>
-  <updated>2017-12-29T20:45:00+00:00</updated>
+  <published>2017-12-29T21:45:00+01:00</published>
+  <updated>2017-12-29T21:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -497,8 +497,8 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T00:00:01+00:00</published>
-  <updated>2017-11-18T00:00:01+00:00</updated>
+  <published>2017-11-18T01:00:01+01:00</published>
+  <updated>2017-11-18T01:00:01+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -551,8 +551,8 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T15:45:00+00:00</published>
-  <updated>2016-10-30T15:45:00+00:00</updated>
+  <published>2016-10-30T16:45:00+01:00</published>
+  <updated>2016-10-30T16:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -597,8 +597,8 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T07:00:00+00:00</published>
-  <updated>2016-03-06T07:00:00+00:00</updated>
+  <published>2016-03-06T08:00:00+01:00</published>
+  <updated>2016-03-06T08:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -670,8 +670,8 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T22:40:00+00:00</published>
-  <updated>2016-03-01T22:40:00+00:00</updated>
+  <published>2016-03-01T23:40:00+01:00</published>
+  <updated>2016-03-01T23:40:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -734,8 +734,8 @@ public procurement - if only to give start-ups in this field a reasonable chance
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+00:00</published>
-  <updated>2016-01-16T00:00:00+00:00</updated>
+  <published>2016-01-16T00:00:00+01:00</published>
+  <updated>2016-01-16T00:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -768,8 +768,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T15:00:00+00:00</published>
-  <updated>2015-12-13T15:00:00+00:00</updated>
+  <published>2015-12-13T16:00:00+01:00</published>
+  <updated>2015-12-13T16:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -805,8 +805,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T13:01:00+01:00</published>
-  <updated>2015-10-03T13:01:00+01:00</updated>
+  <published>2015-10-03T14:01:00+02:00</published>
+  <updated>2015-10-03T14:01:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -862,8 +862,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T13:01:00+01:00</published>
-  <updated>2015-07-29T13:01:00+01:00</updated>
+  <published>2015-07-29T14:01:00+02:00</published>
+  <updated>2015-07-29T14:01:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -919,8 +919,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-06T00:55:00+01:00</published>
-  <updated>2015-05-06T00:55:00+01:00</updated>
+  <published>2015-05-06T01:55:00+02:00</published>
+  <updated>2015-05-06T01:55:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -990,8 +990,8 @@ global productivity of money.&lt;/p&gt;
   <title type="html"><![CDATA[Age prediction's child diseases]]></title>
   <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
   <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T17:00:00+01:00</published>
-  <updated>2015-05-01T17:00:00+01:00</updated>
+  <published>2015-05-01T18:00:00+02:00</published>
+  <updated>2015-05-01T18:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1061,8 +1061,8 @@ younger. Quite the contrary.&lt;/p&gt;
   <title type="html"><![CDATA[9 1/2 data science bootcamp survival tips]]></title>
   <link rel="alternate" type="text/html" href="/blog/survive-data-science-bootcamp/" />
   <id>/blog/survive-data-science-bootcamp</id>
-  <published>2015-04-22T16:00:00+01:00</published>
-  <updated>2015-04-22T16:00:00+01:00</updated>
+  <published>2015-04-22T17:00:00+02:00</published>
+  <updated>2015-04-22T17:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1250,8 +1250,8 @@ any use to oneself.”&lt;/em&gt;&lt;/p&gt;
   <title type="html"><![CDATA[American picture haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/usa-picture-haikus/" />
   <id>/blog/usa-picture-haikus</id>
-  <published>2015-04-12T03:00:00+01:00</published>
-  <updated>2015-04-12T03:00:00+01:00</updated>
+  <published>2015-04-12T04:00:00+02:00</published>
+  <updated>2015-04-12T04:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1318,8 +1318,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[An end-to-end loan funding predictor for kiva.org]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-loan-funding-predictor-project/" />
   <id>/projects/kiva-loan-funding-predictor-project</id>
-  <published>2015-04-07T12:00:00+01:00</published>
-  <updated>2015-04-07T12:00:00+01:00</updated>
+  <published>2015-04-07T13:00:00+02:00</published>
+  <updated>2015-04-07T13:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2175,8 +2175,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[A quick glance into 775 thousand Kiva borrower stories]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-topic-modelling-project/" />
   <id>/projects/kiva-topic-modelling-project</id>
-  <published>2015-03-13T12:00:00+00:00</published>
-  <updated>2015-03-13T12:00:00+00:00</updated>
+  <published>2015-03-13T13:00:00+01:00</published>
+  <updated>2015-03-13T13:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2298,8 +2298,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Selling a new banking product to the right customers (first)]]></title>
   <link rel="alternate" type="text/html" href="/projects/banking-project/" />
   <id>/projects/banking-project</id>
-  <published>2015-02-20T15:45:00+00:00</published>
-  <updated>2015-02-20T15:45:00+00:00</updated>
+  <published>2015-02-20T16:45:00+01:00</published>
+  <updated>2015-02-20T16:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2602,8 +2602,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[Five data science haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/data-science-haikus/" />
   <id>/blog/data-science-haikus</id>
-  <published>2015-02-15T22:20:00+00:00</published>
-  <updated>2015-02-15T22:20:00+00:00</updated>
+  <published>2015-02-15T23:20:00+01:00</published>
+  <updated>2015-02-15T23:20:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
