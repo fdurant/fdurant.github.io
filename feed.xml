@@ -4,13 +4,312 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-07-08T11:16:34+02:00</updated>
+<updated>2018-07-26T16:12:21+02:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Truisms to counter company culture traps]]></title>
+  <link rel="alternate" type="text/html" href="/blog/truisms-to-counter-company-culture-traps/" />
+  <id>/blog/truisms-to-counter-company-culture-traps</id>
+  <published>2018-07-26T18:00:00+02:00</published>
+  <updated>2018-07-26T18:00:00+02:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 id=&quot;problem-to-solve-systemic-inertia&quot;&gt;Problem to solve: systemic inertia&lt;/h1&gt;
+
+&lt;p&gt;Anyone who has spent enough time in large organizations must have witnessed
+the tragic power of &lt;strong&gt;systemic inertia&lt;/strong&gt;. Even more so when it is
+a by-product of its &lt;strong&gt;company culture&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/facepalm.jpg&quot; alt=&quot;Facepalm&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Cultural traditionalists —especially those born in or raised by
+the powers that be— expect, sustain, and even thrive on
+status quo for a living. The &lt;strong&gt;inertia&lt;/strong&gt; that results from their
+long-standing but backward-looking methods and views are euphemistically
+repackaged as &lt;strong&gt;strategic sustainability&lt;/strong&gt;. This way, they try to rationalize
+and justify the status quo. Tragically, they even see themselves as
+defenders of the long term.&lt;/p&gt;
+
+&lt;p&gt;Assisted by an army of conceptual architects, designers and
+other consultants, they spend person centuries and tons of money on
+&lt;strong&gt;all-encompassing yet &lt;em&gt;paper&lt;/em&gt; visions&lt;/strong&gt; of a corporate
+future that one day will solve all of today’s and tomorrow’s problems.&lt;/p&gt;
+
+&lt;p&gt;Their motto: &lt;em&gt;&lt;strong&gt;Just wait and see,
+we’re almost there!&lt;/strong&gt;&lt;/em&gt; Of course, they never are, and never
+will be. For the simple reason that &lt;strong&gt;the as-is world out there keeps moving at a higher speed
+than the desired to-be world can be designed&lt;/strong&gt; — let alone realized.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/are_we_there_yet.jpg&quot; alt=&quot;Are we there yet? Almost&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the meantime, among the lower ranks of the organization, people are exposed
+to the &lt;strong&gt;daily realities&lt;/strong&gt; of business life: a fast changing competitive
+landscape, &lt;a href=&quot;/blog/what-to-learn-when-and-why/&quot;&gt;technological generations that last no more than a couple of years&lt;/a&gt;,
+and customers demanding reactive solutions, &lt;em&gt;&lt;strong&gt;now&lt;/strong&gt;&lt;/em&gt;. ICT professionals &lt;a href=&quot;/blog/what-to-learn-when-and-why/&quot;&gt;who take
+care of themselves and their career&lt;/a&gt; experiment with &lt;a href=&quot;https://hbr.org/2018/05/agile-at-scale&quot;&gt;agile
+at scale&lt;/a&gt;, &lt;a href=&quot;https://www.holacracy.org&quot;&gt;holacracy&lt;/a&gt;, &lt;a href=&quot;https://www.atlassian.com/devops&quot;&gt;DevOps&lt;/a&gt;, &lt;a href=&quot;https://aws.amazon.com/what-is-cloud-computing/&quot;&gt;cloud
+computing&lt;/a&gt; and other aspects of the &lt;a href=&quot;http://www.peterhinssen.com/books/the-new-normal&quot;&gt;new
+normal&lt;/a&gt;. 
+To fulfill their customers’ — and therefore their own 
+— &lt;strong&gt;need for speed&lt;/strong&gt;, they rightfully expect their organization
+to act as an adaptive, loosely coupled, self-organized and
+self-(re)organizing network of small, autonomous cells.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;bravest&lt;/strong&gt; departments, teams and individuals &lt;strong&gt;don’t wait&lt;/strong&gt; for corporate
+manna to fall out of the sky: they make the &lt;strong&gt;perilous desert journey
+from reality to vision&lt;/strong&gt; by themselves. While they may
+have &lt;strong&gt;no final game plan&lt;/strong&gt;, they are driven by strong &lt;strong&gt;intuition, belief and
+leadership&lt;/strong&gt; — not necessarily personified by a current member of their formal
+management.&lt;/p&gt;
+
+&lt;h1 id=&quot;solution-partial-culture-change&quot;&gt;Solution: (partial) culture change&lt;/h1&gt;
+
+&lt;p&gt;Corporate reality always has many moving parts, so fixing
+organizational sclerosis is never a walk in the park. The
+undertaking is not for the faint at heart. Especially since
+the corporate patient is not supposed to end up on the undertaker’s
+table.&lt;/p&gt;
+
+&lt;p&gt;For what it’s worth, here are a
+couple of &lt;strong&gt;truisms&lt;/strong&gt;, i.e. commonly accepted truths or advice from the
+&lt;em&gt;world out there&lt;/em&gt;. Take them at heart to prevent pernicious
+aspects of corporate culture from doing any further harm. &lt;em&gt;Or not.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So, to whom it may concern:&lt;/p&gt;
+
+&lt;h3 id=&quot;adapt-or-die&quot;&gt;#1. Adapt or die&lt;/h3&gt;
+
+&lt;p&gt;Whether it’s your job, your life or your company: nothing lasts for
+ever. As evolution has shown, species can survive over thousands of
+generations. They do so by “selecting” slight variations in their individuals
+lucky enough to have adapted better than others to their changing
+environments.
+Seen holistically over time and from a distance, it looks as if the species
+has survived. Likewise, &lt;strong&gt;in order for company (culture) to keep on
+thriving&lt;/strong&gt; across generations, &lt;strong&gt;it needs to adapt&lt;/strong&gt; every now and
+then. The driver for change, obviously, is the fast-moving political,
+socio-economical, business and technological environment. In
+organizations that rely on the status quo, aspects of
+corporate culture that once were a great asset “suddenly” become a liability.&lt;/p&gt;
+
+&lt;p&gt;In today’s turbulent times, hanging onto existing company culture can
+be reassuring: it gives a — possibly false! — sense of security and
+control. As said, &lt;strong&gt;the obvious danger is that the environment changes
+faster than you culture can afford.&lt;/strong&gt; From the ancient civilizations to the
+Kodaks and Nokias of this world, the hard learning is this: adapt in time,
+or you will die.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/dinosaurs-noahs-ark-oh-crap-today.jpg&quot; alt=&quot;Dinosaurs: Oh crap, was that today?&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Change brings (more) uncertainty, and uncertainty means risk. Nevertheless,
+&lt;strong&gt;the biggest risk is not to take enough risk, or not fast
+enough&lt;/strong&gt;. Reinvent yourself, or someone else will.&lt;/p&gt;
+
+&lt;h3 id=&quot;high-priests-are-just-women-in-funny-dresses&quot;&gt;#2. High-priests are just (wo)men in funny dresses&lt;/h3&gt;
+
+&lt;p&gt;In any long-standing organization, culture is just as much a
+matter of emotional experience as of rational learning. That’s why it
+takes quite a while to fully integrate or assimilate into a new
+environment. Unfortunate consequence: &lt;strong&gt;strong cultures takes more time to
+adapt, i.e. to &lt;em&gt;unlearn&lt;/em&gt;,&lt;/strong&gt; when such becomes a necessity.&lt;/p&gt;
+
+&lt;p&gt;Apart from norms, habits and regulations, company culture manifests itself
+in the cumulative &lt;a href=&quot;https://en.wikipedia.org/wiki/Newspeak&quot;&gt;&lt;strong&gt;language and vocabulary&lt;/strong&gt;&lt;/a&gt; that corporate high-priests
+create, speak and disseminate among their followers. Cultural
+assimilation is complete when the words and their sometimes special
+meanings have been internalised to the extent that their usage
+&lt;em&gt;feels&lt;/em&gt; natural and normal.&lt;/p&gt;
+
+&lt;p&gt;Eye-opener: &lt;strong&gt;however important high-priests may look, they are fundamentally just
+men or women in funny dresses.&lt;/strong&gt; What I mean is: however valuable the high-priests’
+statements have been historically, and however much their actions may seem logical to their
+followers today, &lt;strong&gt;their methods and techniques are &lt;em&gt;not necessarily&lt;/em&gt;
+adapted to tomorrow’s problems.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/highpriests.jpg&quot; alt=&quot;High-priests&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To give cultural change a chance, &lt;strong&gt;it is vital
+to &lt;em&gt;unmask&lt;/em&gt; the high-priests, and replace a sufficient number of
+them&lt;/strong&gt; with people who can credibly represent the next cultural
+wave.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont-just-allow-agile-and-devops-embrace-them&quot;&gt;#3. Don’t just &lt;em&gt;allow&lt;/em&gt; Agile and DevOps: &lt;em&gt;embrace&lt;/em&gt; them&lt;/h3&gt;
+
+&lt;p&gt;Any software professional who hasn’t been asleep for the last ten to fifteen
+years, knows that the &lt;a href=&quot;http://agilemanifesto.org&quot;&gt;&lt;strong&gt;Agile Movement&lt;/strong&gt;&lt;/a&gt;, the &lt;a href=&quot;https://www.atlassian.com/devops&quot;&gt;&lt;strong&gt;DevOps approach&lt;/strong&gt;&lt;/a&gt; and related
+initiatives have profoundly changed the nature of the ICT profession,
+across all industries. In these times of digital transformation,
+jumping onto these trains is an absolute &lt;strong&gt;no-brainer&lt;/strong&gt; — which
+doesn’t mean it’s an easy task.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/devops.png&quot; alt=&quot;The DevOps cycle&quot; /&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;https://medium.com/@neonrocket/devops-is-a-culture-not-a-role-be1bed149b0&quot; title=&quot;DevOps is a culture, not a role!&quot;&gt;Source: Irma
+	Kornilova. DevOps is a culture, not a role!&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;High-priests&lt;/strong&gt; who proclaim that their followers are &lt;strong&gt;not ready (yet)&lt;/strong&gt; for
+Agile, DevOps and the like, therefore totally miss the mark. They probably mean
+that &lt;em&gt;they themselves&lt;/em&gt; are &lt;strong&gt;not able and/or willing to 
+adapt&lt;/strong&gt; — proving on the spot that they never will be.&lt;/p&gt;
+
+&lt;p&gt;Simple advice: Don’t listen to them, and &lt;strong&gt;do the right thing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;meet-less-decide-more&quot;&gt;#4. Meet less, decide more&lt;/h3&gt;
+
+&lt;p&gt;The number and quality of decisions is inversely proportional to the
+number of meeting platforms and participants involved in making
+them. In that spirit, I would strongly advise to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;abolish any meeting platform that fails to gather at least half
+of its participants three times in a row&lt;/li&gt;
+  &lt;li&gt;never attend an agenda-less meeting: it is probably useless anyway&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some people justify the large number of meetings and meeting attendants by
+the need to create &lt;strong&gt;broad support&lt;/strong&gt; throughout the
+organization. Which in turn  is supposed to facilitate
+speedy execution after the decision is made.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/dilbert_4_hour_meeting.jpg&quot; alt=&quot;Dilbert: 4 hour meeting&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In my experience, however, the “let’s get everyone on board up-front” approach
+boils down to to a &lt;strong&gt;self-inflicted veto power mechanism&lt;/strong&gt;, as seen for
+example in the &lt;a href=&quot;https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/United_Nations_Security_Council_veto_power.html&quot;&gt;United Nations Security Council&lt;/a&gt; or the
+&lt;a href=&quot;http://www.consilium.europa.eu/en/council-eu/voting-system/unanimity/&quot;&gt;Council of the European Union&lt;/a&gt;. When world matters are at
+stake, thoughtful stability may make sense; when companies need to make
+and execute decisions fast, &lt;strong&gt;veto power kills progress&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;think-networks-not-hyperdimensional-spaces&quot;&gt;#5. Think networks, not hyperdimensional spaces&lt;/h3&gt;
+
+&lt;p&gt;There is a good reason why MBA students all over the world are
+commonly exposed to &lt;a href=&quot;http://2x2matrix.com/downloads/bcg.pdf&quot;&gt;Boston Consulting Groups’ 2x2
+matrices&lt;/a&gt;: that seems to be the maximum number of dimensions
+that ordinary mortals —including the same students, of
+course— are able to visually digest.&lt;/p&gt;
+
+&lt;p&gt;An “intelligent” yet static design of an organization that requires its
+members to think in &lt;strong&gt;three dimensions or more&lt;/strong&gt;, stretches their mental
+capabilities: it makes it &lt;strong&gt;too hard for
+collaborators to understand their own place&lt;/strong&gt; in the
+organization. Indeed, as more and more conceptual dimensions are
+added, the number of possible paths and connections through the
+organizational and terminological search space grows
+exponentially. Result: people can’t see the woods for the trees anymore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Complex_adaptive_system&quot;&gt;Complex, adaptable organisms and organizations&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;are&lt;/em&gt; able to
+prosper and function, though: examples from nature and biology abound.
+The condition is that the individual cells that make them up only
+need to know three things: &lt;strong&gt;their own purpose, that of their immediate
+dependents, and (possibly) which services their dependees use.&lt;/strong&gt; How
+the cells want to operate &lt;strong&gt;internally, is for them —and them
+only— to decide.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/connected_company.jpg&quot; alt=&quot;The connected company&quot; /&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.xplaner.com/connectedco/&quot; title=&quot;The Connected Company&quot;&gt;Source: Dave Gray, The Connected
+	Company&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/slingr-for-slack/what-year-did-bezos-issue-the-api-mandate-at-amazon-57f546994ca2&quot;&gt;Jeff Bezos’ famous
+2002 API mandate&lt;/a&gt; is brilliant because it applies
+the principle of &lt;strong&gt;information abstraction&lt;/strong&gt; to &lt;strong&gt;teams &lt;em&gt;and&lt;/em&gt; information
+systems&lt;/strong&gt; in one symbiotic go. To the outside world, the only thing
+that matters are 
+the &lt;strong&gt;services&lt;/strong&gt; offered, with a description of &lt;strong&gt;inputs and outputs&lt;/strong&gt;, based on a
+&lt;strong&gt;common information exchange protocol&lt;/strong&gt; (e.g. &lt;a href=&quot;https://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;REST&lt;/a&gt;). From the inside, each team gets a
+mandate to pick whatever technology suits them best to implement their
+mission. There is no further need to get permissions from central
+boards or other kinds of people with veto power.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/slingr-for-slack/what-year-did-bezos-issue-the-api-mandate-at-amazon-57f546994ca2&quot;&gt;Amazon&lt;/a&gt; and any massively deployed microservice-based
+software application demonstrate, paradoxically so, the structural
+principles of our era: &lt;strong&gt;more complex yet less complicated&lt;/strong&gt;
+organizations that organize themselves around simple principles, allow
+for &lt;strong&gt;more adaptability, flexibility and growth.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;use-generally-available-state-of-the-art-it&quot;&gt;#6. Use generally available, state-of-the-art IT&lt;/h3&gt;
+
+&lt;p&gt;The more complicated an organization is (re)designed and (re)built, the harder
+it is for its collaborators to find who is responsible for
+what. &lt;strong&gt;&lt;a href=&quot;https://www.aiim.org/What-is-Enterprise-Search&quot;&gt;State of the art enterprise search&lt;/a&gt; technology&lt;/strong&gt; becomes even more
+important then. The time when a company could develop a competitive
+advantage by building its own core information sharing systems lies
+at least two decades behind us: Google was founded in 1998.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LVV_93mBfSU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today’s knowledge workers are used to finding &lt;strong&gt;relevant information in
+fractions of a second&lt;/strong&gt;. That’s not only true for millennials, by the way.&lt;/p&gt;
+
+&lt;p&gt;On the information storage and processing side, &lt;a href=&quot;https://blog.pa.com.au/cloud-2/cloud-vs-premise-debate/&quot;&gt;the cloud debate is
+over&lt;/a&gt; too. &lt;strong&gt;There is no need to build and push your own cart, when you
+can rent and drive someone else’s ten-ton truck.&lt;/strong&gt; If you &lt;em&gt;really must&lt;/em&gt; have
+your own, then buy one. That is, if you have the time.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uYGQcmZUTaw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;But first and foremost, hire and train your proverbial truck drivers!
+&lt;em&gt;They&lt;/em&gt; are the new bottleneck.&lt;/p&gt;
+
+&lt;h3 id=&quot;want-to-innovate-build-the-path-to-production&quot;&gt;#7. Want to innovate? Build the path to production&lt;/h3&gt;
+
+&lt;p&gt;To play the &lt;strong&gt;innovation game&lt;/strong&gt;, many companies feel the need to
+externalize their efforts in so-called &lt;strong&gt;skunkworks or
+garages&lt;/strong&gt;. There is certainly value in the argument
+that internal processes focusing on operational excellence would
+easily and immediately kill off any innovative approach. Backed by rules 
+and regulations, corporate process watchers are very
+skilled indeed at fighting off non-compliant behaviour.&lt;/p&gt;
+
+&lt;p&gt;So from a short-term point of view, this makes some sense. In the longer run,
+however, there is &lt;strong&gt;more value&lt;/strong&gt; in a fundamental revision of the rules
+and regulations that govern the &lt;strong&gt;core company information processes&lt;/strong&gt;
+themselves.&lt;/p&gt;
+
+&lt;p&gt;Simply stated, companies need to make the following &lt;strong&gt;structural changes&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;less centralized control, more trust in distributed knowledge and skills (see fewer meetings)&lt;/li&gt;
+  &lt;li&gt;fewer committees, more self-organization and devolution of decision power (see Agile)&lt;/li&gt;
+  &lt;li&gt;fewer hand-offs from silo to silo, more customer-focused end-to-end thinking and automation (see DevOps)&lt;/li&gt;
+  &lt;li&gt;organize the company in terms of customer-focused value paths, that stream through networks of autonomous cells. Somewhat like physical goods that pass swiftly through a supply chain (see complex systems)&lt;/li&gt;
+  &lt;li&gt;less top-down and idealistic descriptions of hyperdimensional organizations with roles and functions, more focus on locally decided purpose, self-development and self-determination (see my other post on &lt;a href=&quot;/blog/what-to-learn-when-and-why/&quot;&gt;what to learn when and why&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;think less in terms of projects and portfolios. &lt;strong&gt;Bring work to (networks of) (teams of) people, rather than people to work&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In short: rent, buy and/or build the &lt;strong&gt;innovation highway to
+production&lt;/strong&gt; &lt;em&gt;first&lt;/em&gt;: your ten-ton truck drivers will come forward,
+and use it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wanna bet?&lt;/strong&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/truisms-to-counter-company-culture-traps/&quot;&gt;Truisms to counter company culture traps&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on July 26, 2018.&lt;/p&gt;</content>
+</entry>
 
 
   
@@ -2593,69 +2892,6 @@ There&#39;s no mezzanine
 
 
   &lt;p&gt;&lt;a href=&quot;/projects/banking-project/&quot;&gt;Selling a new banking product to the right customers (first)&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 20, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Five data science haikus]]></title>
-  <link rel="alternate" type="text/html" href="/blog/data-science-haikus/" />
-  <id>/blog/data-science-haikus</id>
-  <published>2015-02-15T23:20:00+01:00</published>
-  <updated>2015-02-15T23:20:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;h1 id=&quot;one&quot;&gt;One&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As data &lt;a href=&quot;http://www.quickanddirtytips.com/education/grammar/is-data-singular-or-plural&quot; target=&quot;_blank&quot;&gt;unfold&lt;/a&gt;&lt;br /&gt;
-Alas! The model won’t &lt;a href=&quot;http://en.wikipedia.org/wiki/Curve_fitting&quot; target=&quot;_blank&quot;&gt;fit&lt;/a&gt;&lt;br /&gt;
-Still the curve bends right&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;two&quot;&gt;Two&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;While &lt;a href=&quot;http://en.wikipedia.org/wiki/Frequentist_inference&quot; target=&quot;_blank&quot;&gt;frequentists&lt;/a&gt; count,&lt;br /&gt;
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Bayesian_inference&quot; target=&quot;_blank&quot;&gt;Bayesians&lt;/a&gt; believe - or not&lt;br /&gt;
-Now what is my fate?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;three&quot;&gt;Three&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Support_vector_machine&quot; target=&quot;_blank&quot;&gt;Support my vectors&lt;/a&gt;&lt;br /&gt;
-Will you - the &lt;a href=&quot;http://en.wikipedia.org/wiki/Margin_classifier&quot; target=&quot;_blank&quot;&gt;margin&lt;/a&gt; must grow&lt;br /&gt;
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Binary_classification&quot; target=&quot;_blank&quot;&gt;Wheat from chaff&lt;/a&gt; apart&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;four&quot;&gt;Four&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The &lt;a href=&quot;http://en.wikipedia.org/wiki/Deep_learning&quot; target=&quot;_blank&quot;&gt;deeper we learn&lt;/a&gt;&lt;br /&gt;
-The lonelier the &lt;a href=&quot;http://en.wikipedia.org/wiki/Artificial_neuron&quot; target=&quot;_blank&quot;&gt;neurons&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Black_magic&quot; target=&quot;_blank&quot;&gt;Black magic&lt;/a&gt; at work&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;five&quot;&gt;Five&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;My &lt;a href=&quot;http://en.wikipedia.org/wiki/Forensic_profiling&quot; target=&quot;_blank&quot;&gt;profile&lt;/a&gt; is me&lt;br /&gt;
-A bunch of &lt;a href=&quot;http://en.wikipedia.org/wiki/Feature_(machine_learning)&quot; target=&quot;_blank&quot;&gt;features&lt;/a&gt; - that’s all&lt;br /&gt;
-But where is my soul?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/frederik_chelsea_market.jpg&quot; alt=&quot;Visiting Chelsea Market&quot; /&gt;
-	&lt;figcaption&gt;“Light is more important than the lantern, the poem more important than the notebook” ― &lt;a href=&quot;http://en.wikipedia.org/wiki/Nizar_Qabbani&quot; target=&quot;_blank&quot;&gt;Nizar Qabbani&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/data-science-haikus/&quot;&gt;Five data science haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 15, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
