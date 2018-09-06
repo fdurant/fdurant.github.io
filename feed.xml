@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-07-29T12:39:53+02:00</updated>
+<updated>2018-09-06T13:42:00+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,74 @@
   
 
 <entry>
+  <title type="html"><![CDATA[London calling. Or is it Europe?]]></title>
+  <link rel="alternate" type="text/html" href="/blog/london-calling-or-is-it-europe/" />
+  <id>/blog/london-calling-or-is-it-europe</id>
+  <published>2018-09-06T14:45:00+01:00</published>
+  <updated>2018-09-06T14:45:00+01:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;In the winter of 1990-1991, while studying computer science and &lt;a href=&quot;https://en.wikipedia.org/wiki/Natural_language_processing&quot;&gt;natural
+language processing&lt;/a&gt; at the &lt;a href=&quot;https://www.essex.ac.uk&quot;&gt;University of Essex&lt;/a&gt;, I spent my first
+weekend ever in London. &lt;a href=&quot;https://en.wikipedia.org/wiki/Margaret_Thatcher&quot;&gt;Margaret Thatcher&lt;/a&gt;’s 15-year service as Prime Minister
+in Her Majesty’s Government had just come to a dramatic end.&lt;/p&gt;
+
+&lt;p&gt;The Iron Lady left Downing Street just a year after &lt;a href=&quot;https://www.youtube.com/watch?v=b8GzptqhT68&quot;&gt;the Iron Curtain
+fell&lt;/a&gt;. Back in the idyllic &lt;a href=&quot;https://goo.gl/maps/4h9sCVxy73m&quot;&gt;Ardleigh Park Lodge&lt;/a&gt; in Essex, I saw my
+German housemate &lt;a href=&quot;https://www.linkedin.com/in/matthias-jäschke-7394352a/&quot;&gt;Matthias&lt;/a&gt; cast his vote in the first
+all-German multi-party elections since &lt;a href=&quot;https://en.wikipedia.org/wiki/1933_in_Germany&quot;&gt;1933&lt;/a&gt;. The other student in the
+house was &lt;a href=&quot;https://www.linkedin.com/in/annemariemineur/&quot;&gt;Anne-Marie&lt;/a&gt;, nowadays Member of the
+European Parliament for the &lt;a href=&quot;https://www.sp.nl&quot;&gt;Dutch Socialistische Partij&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We were young, we were Europeans in England, and the times were historic.&lt;/p&gt;
+
+&lt;p&gt;And then, a quarter century later, there was Brexit.&lt;/p&gt;
+
+&lt;p&gt;True, I may be skipping a few life events here, like: getting
+married and daughters; buying a house; starting and ending a dozen of
+jobs. The fact is: like Marcel Proust’s mind wandered off to his
+madeleines, Brexit threw me back to that snowy winter.&lt;/p&gt;
+
+&lt;p&gt;And now, half a year before the United Kingdom is set to leave the
+European Union, I’m going back. Back to England. Back to London!&lt;/p&gt;
+
+&lt;p&gt;What’s more: not just on a visit.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-Gp6lYQrqSE&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Next Monday, I start as Sr. Data Scientist
+at &lt;a href=&quot;https://aire.io&quot;&gt;Aire Labs&lt;/a&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/East_London_Tech_City&quot;&gt;Shoreditch&lt;/a&gt;, just north of &lt;a href=&quot;https://en.wikipedia.org/wiki/City_of_London&quot;&gt;the City of
+London&lt;/a&gt;. Aire is, in its own words, “a new
+credit assessment service” that helps “lenders make more informed
+decisions, and borrowers get fairer access to credit”.&lt;/p&gt;
+
+&lt;p&gt;I will be commuting from Brussels to London on a weekly basis
+(Monday-Friday). Weekends will be spent at home, with wife and daughters, as
+usual.&lt;/p&gt;
+
+&lt;p&gt;I sometimes dream of meeting the Brexit negotiators —my fellow
+travellers— on the Eurostar. In the lounge or the restaurant
+coach, I would tell them this story. And invite them for a beer. Or,
+in my case, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Pint_glass&quot;&gt;pint&lt;/a&gt; of semi-skimmed milk.&lt;/p&gt;
+
+&lt;p&gt;For old times’ sake.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/london-calling-or-is-it-europe/&quot;&gt;London calling. Or is it Europe?&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on September 06, 2018.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Truisms to counter company culture traps]]></title>
   <link rel="alternate" type="text/html" href="/blog/truisms-to-counter-company-culture-traps/" />
   <id>/blog/truisms-to-counter-company-culture-traps</id>
-  <published>2018-07-26T18:00:00+02:00</published>
-  <updated>2018-07-26T18:00:00+02:00</updated>
+  <published>2018-07-26T17:00:00+01:00</published>
+  <updated>2018-07-26T17:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -318,8 +381,8 @@ and use it.&lt;/p&gt;
   <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
   <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
   <id>/blog/the-more-things-change</id>
-  <published>2018-05-21T12:00:00+02:00</published>
-  <updated>2018-05-21T12:00:00+02:00</updated>
+  <published>2018-05-21T11:00:00+01:00</published>
+  <updated>2018-05-21T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -410,8 +473,8 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T12:00:00+02:00</published>
-  <updated>2018-03-25T12:00:00+02:00</updated>
+  <published>2018-03-25T11:00:00+01:00</published>
+  <updated>2018-03-25T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -616,8 +679,8 @@ quite some competition out there.&lt;/p&gt;
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T19:00:00+01:00</published>
-  <updated>2018-01-20T19:00:00+01:00</updated>
+  <published>2018-01-20T18:00:00+00:00</published>
+  <updated>2018-01-20T18:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -674,8 +737,8 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T21:45:00+01:00</published>
-  <updated>2017-12-29T21:45:00+01:00</updated>
+  <published>2017-12-29T20:45:00+00:00</published>
+  <updated>2017-12-29T20:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -796,8 +859,8 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T01:00:01+01:00</published>
-  <updated>2017-11-18T01:00:01+01:00</updated>
+  <published>2017-11-18T00:00:01+00:00</published>
+  <updated>2017-11-18T00:00:01+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -850,8 +913,8 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T16:45:00+01:00</published>
-  <updated>2016-10-30T16:45:00+01:00</updated>
+  <published>2016-10-30T15:45:00+00:00</published>
+  <updated>2016-10-30T15:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -896,8 +959,8 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T08:00:00+01:00</published>
-  <updated>2016-03-06T08:00:00+01:00</updated>
+  <published>2016-03-06T07:00:00+00:00</published>
+  <updated>2016-03-06T07:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -969,8 +1032,8 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T23:40:00+01:00</published>
-  <updated>2016-03-01T23:40:00+01:00</updated>
+  <published>2016-03-01T22:40:00+00:00</published>
+  <updated>2016-03-01T22:40:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1033,8 +1096,8 @@ public procurement - if only to give start-ups in this field a reasonable chance
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+01:00</published>
-  <updated>2016-01-16T00:00:00+01:00</updated>
+  <published>2016-01-16T00:00:00+00:00</published>
+  <updated>2016-01-16T00:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1067,8 +1130,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T16:00:00+01:00</published>
-  <updated>2015-12-13T16:00:00+01:00</updated>
+  <published>2015-12-13T15:00:00+00:00</published>
+  <updated>2015-12-13T15:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1104,8 +1167,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T14:01:00+02:00</published>
-  <updated>2015-10-03T14:01:00+02:00</updated>
+  <published>2015-10-03T13:01:00+01:00</published>
+  <updated>2015-10-03T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1161,8 +1224,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T14:01:00+02:00</published>
-  <updated>2015-07-29T14:01:00+02:00</updated>
+  <published>2015-07-29T13:01:00+01:00</published>
+  <updated>2015-07-29T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1218,8 +1281,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-06T01:55:00+02:00</published>
-  <updated>2015-05-06T01:55:00+02:00</updated>
+  <published>2015-05-06T00:55:00+01:00</published>
+  <updated>2015-05-06T00:55:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1289,8 +1352,8 @@ global productivity of money.&lt;/p&gt;
   <title type="html"><![CDATA[Age prediction's child diseases]]></title>
   <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
   <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T18:00:00+02:00</published>
-  <updated>2015-05-01T18:00:00+02:00</updated>
+  <published>2015-05-01T17:00:00+01:00</published>
+  <updated>2015-05-01T17:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1360,8 +1423,8 @@ younger. Quite the contrary.&lt;/p&gt;
   <title type="html"><![CDATA[9 1/2 data science bootcamp survival tips]]></title>
   <link rel="alternate" type="text/html" href="/blog/survive-data-science-bootcamp/" />
   <id>/blog/survive-data-science-bootcamp</id>
-  <published>2015-04-22T17:00:00+02:00</published>
-  <updated>2015-04-22T17:00:00+02:00</updated>
+  <published>2015-04-22T16:00:00+01:00</published>
+  <updated>2015-04-22T16:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1549,8 +1612,8 @@ any use to oneself.”&lt;/em&gt;&lt;/p&gt;
   <title type="html"><![CDATA[American picture haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/usa-picture-haikus/" />
   <id>/blog/usa-picture-haikus</id>
-  <published>2015-04-12T04:00:00+02:00</published>
-  <updated>2015-04-12T04:00:00+02:00</updated>
+  <published>2015-04-12T03:00:00+01:00</published>
+  <updated>2015-04-12T03:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1617,8 +1680,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[An end-to-end loan funding predictor for kiva.org]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-loan-funding-predictor-project/" />
   <id>/projects/kiva-loan-funding-predictor-project</id>
-  <published>2015-04-07T13:00:00+02:00</published>
-  <updated>2015-04-07T13:00:00+02:00</updated>
+  <published>2015-04-07T12:00:00+01:00</published>
+  <updated>2015-04-07T12:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2474,8 +2537,8 @@ There&#39;s no mezzanine
   <title type="html"><![CDATA[A quick glance into 775 thousand Kiva borrower stories]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-topic-modelling-project/" />
   <id>/projects/kiva-topic-modelling-project</id>
-  <published>2015-03-13T13:00:00+01:00</published>
-  <updated>2015-03-13T13:00:00+01:00</updated>
+  <published>2015-03-13T12:00:00+00:00</published>
+  <updated>2015-03-13T12:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -2588,310 +2651,6 @@ There&#39;s no mezzanine
 
 
   &lt;p&gt;&lt;a href=&quot;/projects/kiva-topic-modelling-project/&quot;&gt;A quick glance into 775 thousand Kiva borrower stories&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 13, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Selling a new banking product to the right customers (first)]]></title>
-  <link rel="alternate" type="text/html" href="/projects/banking-project/" />
-  <id>/projects/banking-project</id>
-  <published>2015-02-20T16:45:00+01:00</published>
-  <updated>2015-02-20T16:45:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;html&gt;
-  &lt;head&gt;
-  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;nv.d3.css&quot; /&gt;
-  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;my.css&quot; /&gt;
-  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;d3.slider.css&quot; /&gt;
-  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;ProfitHeatMap.css&quot; /&gt;
-  &lt;title&gt;Project: Target Marketing for a Bank&lt;/title&gt;
-  &lt;!--script src=&quot;http://d3js.org/d3.v3.min.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script--&gt;
-  &lt;script src=&quot;http://d3js.org/d3.v3.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-  &lt;!--script src=&quot;nv.d3.min.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script)--&gt;
-  &lt;script src=&quot;nv.d3.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-  &lt;script src=&quot;d3.slider.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-  &lt;/head&gt;
-
-  &lt;body&gt;
-    &lt;p&gt;During week 4, 5 and 6, the Metis Data Science Bootcamp zoomed in on the following technologies:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;SQL and mySQL in the &lt;a href=&quot;https://www.digitalocean.com&quot; target=&quot;_blank&quot;&gt;cloud&lt;/a&gt; (0.5 day);&lt;/li&gt;
-      &lt;li&gt;Supervised learning with &lt;a href=&quot;http://scikit-learn.org/&quot; target=&quot;_blank&quot;&gt;scikit-learn&lt;/a&gt;
-	and &lt;a href=&quot;http://statsmodels.sourceforge.net/&quot; target=&quot;_blank&quot;&gt;statsmodels&lt;/a&gt; (1.5 week);&lt;/li&gt;
-      &lt;li&gt;Interactive visualization with &lt;a href=&quot;http://matplotlib.org/&quot; target=&quot;_blank&quot;&gt;matplotlib&lt;/a&gt;, &lt;a href=&quot;http://nbviewer.ipython.org/github/esss/ipython/blob/master/examples/Interactive%20Widgets/Index.ipynb&quot; target=&quot;_blank&quot;&gt;interactive widgets in iPython&lt;/a&gt;, &lt;a href=&quot;http://mpld3.github.io/&quot; target=&quot;_blank&quot;&gt;mpld3&lt;/a&gt; and especially &lt;a href=&quot;http://d3js.org/&quot; target=&quot;_blank&quot;&gt;D3.js&lt;/a&gt; (1.5 week).&lt;/li&gt;
-      &amp;lt;/li&amp;gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;The remainder of this article reports on the project and business context in which these technologies were applied.&lt;/p&gt;
-
-    &lt;h2&gt;Business questions&lt;/h2&gt;
-
-    &lt;p&gt;A bank wants to run a targeted marketing campaign in order to &lt;strong&gt;sell a term deposit product&lt;/strong&gt;.&lt;/p&gt;
-
-    &lt;p&gt;Given a certain (but unspecified) &lt;strong&gt;campaign budget&lt;/strong&gt;:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Which customers&lt;/strong&gt; should it target?&lt;/li&gt;
-      &lt;li&gt;In &lt;strong&gt;what order&lt;/strong&gt;?&lt;/li&gt;
-      &lt;li&gt;Is it wise to spend the &lt;strong&gt;complete&lt;/strong&gt; campaign budget?&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;The bank has a &lt;a href=&quot;https://archive.ics.uci.edu/ml/datasets/Bank+Marketing&quot; target=&quot;_blank&quot;&gt;database of 41K past customer 
-	contact records&lt;/a&gt;, with an indication of successful and failed sales of this product.&lt;/p&gt;
-
-    &lt;h2&gt;Technical assignment&lt;/h2&gt;
-
-    &lt;p&gt;Using the historic customer database, build a model to:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;predict&lt;/strong&gt; which customers are (more) likely to buy the term deposit product&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;rank&lt;/strong&gt; customers by their propensity to buy the product&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;To evaluate model performance, produce for each machine learning algorithm:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;an &lt;a href=&quot;http://en.wikipedia.org/wiki/Receiver_operating_characteristic&quot; target=&quot;_blank&quot;&gt;ROC&lt;/a&gt; curve&lt;/li&gt;
-      &lt;li&gt;a &lt;a href=&quot;http://en.wikipedia.org/wiki/Lift_(data_mining)&quot;&gt;lift&lt;/a&gt; curve&lt;/li&gt;
-      &lt;li&gt;a profit visualization&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;h2&gt;Data preparation, feature selection and model building&lt;/h2&gt;
-
-    &lt;p&gt;For these steps, please check the &lt;a href=&quot;http://nbviewer.ipython.org/github/fdurant/mcnulty_banking/blob/master/project_mcnulty_banking.ipynb&quot; target=&quot;_blank&quot;&gt;iPython notebook&lt;/a&gt;, also available in our &lt;a href=&quot;https://github.com/fdurant/mcnulty_banking&quot; target=&quot;_&quot;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;h2&gt;Model evaluation&lt;/h2&gt;
-
-    &lt;p&gt;How well do our models perform? And much more importantly: how do they contribute to answering the business questions?&lt;/p&gt;
-    &lt;p&gt;Let&#39;s start by looking at the &lt;a href=&quot;http://en.wikipedia.org/wiki/Receiver_operating_characteristic&quot; target=&quot;_blank&quot;&gt;ROC curve&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;h3&gt;ROC curve: between a rock and a hard place&lt;/h3&gt;
-
-    &lt;p&gt;Hint: move the mouse over the graph, to highlight individual line points&lt;/p&gt;
-
-    &lt;svg id=&quot;roccurve&quot; style=&quot;height:400px; width:100%; border-style:solid; border-width:1px; border-color:black;&quot;&gt;&lt;/svg&gt;
-    &lt;script src=&quot;ROCCurve.js&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-    &lt;p align=&quot;right&quot;&gt;&lt;small&gt;[&lt;a href=&quot;ROCCurve.html&quot; target=&quot;_roc&quot;&gt;view in separate window&lt;/a&gt;]&lt;/small&gt;&lt;/p&gt;
-
-    &lt;p&gt;Inside the &lt;a href=&quot;http://en.wikipedia.org/wiki/False_positives_and_false_negatives&quot; target=&quot;_blank&quot;&gt;False Positive Rate&lt;/a&gt; intervals [0-0.07] and [0.54-1.00] (horizontal axis), the 
-      &lt;a href=&quot;http://en.wikipedia.org/wiki/Logistic_regression&quot; target=&quot;_blank&quot;&gt;logistic regression&lt;/a&gt; model 
-      scores best in terms of &lt;a href=&quot;http://en.wikipedia.org/wiki/False_positives_and_false_negatives#true_positive&quot; target=&quot;_blank&quot;&gt;True Positive Rate&lt;/a&gt; (vertical axis).
-      In between these two intervals, &lt;a href=&quot;http://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm&quot; target=&quot;_blank&quot;&gt;KNN&lt;/a&gt; (with k = 30) is the winning model.
-      But all in all, the three algorithms play in the same league.&lt;/p&gt;
-
-    &lt;p&gt;The selection of a specific FPR/TPR combination (and of a corresponding best algorithm) is for our customer to make.
-      In business terms, this means making a trade-off between:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Reaching sufficiently interested customers, which will bring in revenue&lt;/li&gt;
-      &lt;li&gt;In the process, annoying too many uninterested ones, and incurring the cost of making these contacts&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;On its own, the ROC curve does not tell us how to set the optimal threshold. Therefore, let&#39;s try to formulate the trade-off
-      more &lt;strong&gt;in operational terms&lt;/strong&gt;,
-      by means of a &lt;a href=&quot;http://en.wikipedia.org/wiki/Lift_(data_mining)&quot; target=&quot;_blank&quot;&gt;lift curve&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;h2 align=&quot;center&quot;&gt;Lift curve: trained model vs. baseline performance&lt;/h2&gt;
-
-    &lt;p&gt;From our &lt;a href=&quot;https://archive.ics.uci.edu/ml/datasets/Bank+Marketing&quot; target=&quot;_blank&quot;&gt;reference dataset&lt;/a&gt;, we know that only a fraction (&amp;lt;10 &amp;#37;) of our potential customers will accept an
-  offer to buy the term deposit product. The question, of course, is &lt;strong&gt;who&lt;/strong&gt; these customers are. For each customer
-      in the test set, our trained models return a &lt;strong&gt;probability estimate&lt;/strong&gt; of their purchase of the product.
-      This probability allows us to &lt;strong&gt;rank our customers&lt;/strong&gt; accordingly, which is key to making smart(er) decisions.&lt;/p&gt;
-
-    &lt;p&gt;But first, for the sake of the argument, let&#39;s assume we only know the distribution of yes/no answers in the training data set,
-      and nothing more. The (near-perfect) diagonal line from (0,0) to (100, 100) in the graph below
-      represents such a baseline case. The model behind it was built by &lt;a href=&quot;http://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html&quot; target=&quot;_&quot;&gt;randomly guessing&lt;/a&gt;
-      who might accept or reject the offer, according to this yes/no distribution.&lt;/p&gt;
-
-    &lt;p&gt; So, in the baseline case, if we were to contact 20&amp;#37; of the customers (x axis), we can expect to
-      hit approximately 20&amp;#37; of all customers &lt;em&gt;who would actually buy the product&lt;/em&gt; (y axis). This is approximately
-      true for any other percentage point along this (near-perfect) diagonal.&lt;/p&gt;
-
-    &lt;svg id=&quot;liftcurve&quot; style=&quot;height:400px; width:100%; border-style:solid; border-width:1px;&quot;&gt;&lt;/svg&gt;
-    &lt;p align=&quot;right&quot;&gt;&lt;small&gt;[&lt;a href=&quot;LiftCurve.html&quot; target=&quot;_lift&quot;&gt;view in separate window&lt;/a&gt;]&lt;/small&gt;&lt;/p&gt;
-    &lt;script src=&quot;LiftCurve.js&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;    
-
-    &lt;p&gt;Luckily, we &lt;strong&gt;do&lt;/strong&gt; have more information, so we &lt;strong&gt;can&lt;/strong&gt; do better! For example, hover
-      over data point (20.0, 63.2) on the upper KNN line. This data point means that by merely selecting the top-ranked
-      &lt;strong&gt;one fifth&lt;/strong&gt; of our customers, we can expect to hit no less than &lt;strong&gt;two thirds&lt;/strong&gt; of all customers
-      who would actually buy the product!&lt;/p&gt;
-    &lt;p&gt;Each table that appears when hovering over the data points also mentions &lt;strong&gt;cumulative lift&lt;/strong&gt;.
-      This measure is simply defined as the ratio of the y over the x value in that point.
-      For the example data point at (20.0, 63.2), lift is equal to the trained model yield (63.2 percent)
-      divided by the (theoretical) baseline yield at the same x value, so lift is 63.2 / 20.0 = 3.16. In the steep left parts
-      of the trained model curves, cumulative lift rises sharply. On the KNN curve, it reaches its maximum value (4.13) at x=13.0.
-    &lt;/p&gt;
-
-    &lt;p&gt;So based on the lift graph alone, the bank could decide to &lt;strong&gt;contact its 13% top-ranked customers, and then stop&lt;/strong&gt;.&lt;/p&gt;
-
-    &lt;p&gt;Alternatively, it could also decide to only stop contacting customers when the &lt;strong&gt;local lift&lt;/strong&gt; (i.e. the lift in
-      the percentile immediately preceding the point) starts dropping below 1, i.e. performing worse than the (theoretical) baseline.
-      On the KNN curve, local lift fluctuates around 1 in the x interval [19.0-32.0], so this is not such a clear-cut decision.&lt;/p&gt;
-    
-    &lt;p&gt;Now, despite all these niceties, there&#39;s still one ingredient missing: &lt;strong&gt;money&lt;/strong&gt;!&lt;/p&gt;
-
-    &lt;h2&gt;Profit curve: knowing when to stop the campaign&lt;/h2&gt;
-
-    &lt;p&gt;Each customer contact costs money, but also carries a potential reward in the form of future revenue.
-      Let&#39;s bring in two new variables:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;the &lt;strong&gt;average cost per contact&lt;/strong&gt;. This cost is incurred irrespective of whether the 
-	contact leads to a sale or not.&lt;/li&gt;
-      &lt;li&gt;the &lt;strong&gt;average revenue per &lt;em&gt;successful&lt;/em&gt; contact&lt;/strong&gt;. An unsuccesful contact brings
-	in zero revenue, by definition.&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;Even though we have to limit ourselves to averages, these variables do allow us to improve on our rather abstract lift curve.
-      The default &lt;strong&gt;profit curve&lt;/strong&gt; below assumes that each contact (successful or not) costs $10 on average,
-      while the average &lt;em&gt;successful&lt;/em&gt; one carries $50 in revenue.
-      &lt;/p&gt;
-
-    &lt;p&gt;In this default configuration, the KNN profit curve maxes out at x=14, bringing in $6840 of cumulative profit.
-      Compare this to the cumulative loss of $2410 in case we would just contact customers in random order.
-      As a matter of fact, the current cost/revenue configuration would constantly write in the red in the baseline case.&lt;/p&gt;
-
-    &lt;div id=&quot;containerForSlidersAndProfitCurve&quot; style=&quot;border-style:solid; border-width:1px; border-color:black; padding:25px 5px 5px 0px&quot;&gt;
-
-    &lt;div id=&quot;containerFor2Sliders&quot; style=&quot;height:100; padding-left:10px;&quot;&gt;
-    
-      &lt;div style=&quot;clear:both;&quot;&gt;
-      &lt;div style=&quot;float:left;&quot;&gt;&amp;nbsp;&amp;nbsp;avg. cost per customer contact (USD):&lt;/div&gt;
-      &lt;span style=&quot;margin-left: 10px; margin-top: -20px; width:30%; float:left; margin-bottom:0px;&quot; id=&quot;avgCostPerContactSlider&quot;&gt;&lt;/span&gt;
-      &lt;div style=&quot;margin-left: 10px; margin-top: 0px; float:left;&quot;&gt;&lt;strong id=&quot;avgCostPerContactSliderText&quot;&gt;10&lt;/strong&gt;&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div style=&quot;clear:both;&quot;&gt;
-      &lt;div style=&quot;float:left;&quot;&gt;avg. revenue per successful sale (USD):&lt;/div&gt;
-      &lt;span style=&quot;margin-left: 2px; margin-top:-20px; width:60%; float:left;&quot; id=&quot;avgRevenuePerContactSlider&quot;&gt;&lt;/span&gt;
-      &lt;div style=&quot;margin-left: 10px; margin-top:0px; float:left&quot;&gt;&lt;strong id=&quot;avgRevenuePerContactSliderText&quot;&gt;50&lt;/strong&gt;&lt;/div&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt;&lt;!-- containerFor2Sliders --&gt;
-
-    &lt;svg id=&quot;profitcurve&quot; style=&quot;clear:both; height:400px; width:100%;&quot;&gt;&lt;/svg&gt;
-    &lt;script src=&quot;calcProfit.js&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;ProfitCurve.js&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-    &lt;/div&gt;&lt;!-- containerForSlidersAndProfitCurve --&gt;
-    &lt;p align=&quot;right&quot;&gt;&lt;small&gt;[&lt;a href=&quot;ProfitCurve.html&quot; target=&quot;_profit&quot;&gt;view in separate window&lt;/a&gt;]&lt;/small&gt;&lt;/p&gt;
-
-    &lt;p&gt;Now increase the average revenue per successful contact to $90, using the second slider
-      on top of the graph above, and watch attentively. By increasing the profit per successful contact to 
-      &lt;span style=&quot;white-space:nowrap&quot;&gt;$90-$10=$80&lt;/span&gt;, the shape of the profit curve
-      has taken a different form. Cumulative profit now tops at $17.530, but to get there we have to contact 20&amp;#37; 
-      of all customers. Also, if we were to contact &lt;em&gt;all&lt;/em&gt; (100&amp;#37;) customers, we would more or less break even, with
-      a cumulative loss of only $330.&lt;/p&gt;
-
-    &lt;p&gt;Finally, increase both sliders with $10, so their respective values become $20 and $100. While this has no effect
-      on the profit per successful contact &lt;span style=&quot;white-space:nowrap&quot;&gt;($100-$20 = $80 = $90-$10)&lt;/span&gt;, the loss per
-      &lt;em&gt;failed&lt;/em&gt; contact has &lt;em&gt;doubled&lt;/em&gt; from $10 to $20. As a result, the trained model profit curves now cross
-      the breakeven line again (around x=40&amp;#37;), while the baseline curve goes permanently in the red again.&lt;/p&gt;
-
-    &lt;p&gt;The bottom line is that any specific configuration of cost and revenue greatly influences the shape of the curves,
-      the profitability intervals, and therefore the decision boundaries.&lt;/p&gt;
-
-    &lt;h2&gt;Profit heat map: impressionistic view on individual and cumulative profit contributions&lt;/h2&gt;
-
-    &lt;p&gt;How much does each &lt;em&gt;individual&lt;/em&gt; customer contribute to cumulative profit? In the heatmap below, each cell
-      represents one customer from the test set. Customers are displayed in the ranking order defined by the model, with
-      the most probable buyer first. Reading order is  left-to-right, top-down - the same as for written English.&lt;/p&gt;
-
-    &lt;p&gt;In the baseline case, with default cost and revenue values, the heatmap progressively takes on deeper shades of red.
-      Since the baseline lists customers in random order, there are more negative than positive contributions,
-      no matter which region of the heatmap we look at. This is aptly demonstrated if you select
-      profit: &amp;quot;contribution per individual customer&amp;quot;.&lt;/p&gt;
-
-    &lt;div id=&quot;containerForControlsAndProfitHeatMap&quot; style=&quot;width:840px; border-style:solid; border-width:1px; border-color:black; padding:5px 5px 5px 10px&quot;&gt;
-
-      &lt;div id=&quot;DropDownBoxes&quot; style=&quot;height:20px;&quot;&gt;
-	&lt;span style=&quot;float:left; padding-left:10px; valign:middle padding-top:5px&quot;&gt;Model&lt;/span&gt;
-	&lt;select id=&quot;model&quot; style=&quot;float:left; margin-left:20px;&quot;&gt;
-	  &lt;option value=&quot;baseline&quot; selected=&quot;selected&quot;&gt;Baseline&lt;/option&gt;
-	  &lt;option value=&quot;knn&quot;&gt;KNN&lt;/option&gt;
-	  &lt;option value=&quot;logres&quot;&gt;Logistic Regression&lt;/option&gt;
-	  &lt;option value=&quot;gaussianNB&quot;&gt;Gaussian Naive Bayes&lt;/option&gt;
-	&lt;/select&gt;
-	&lt;span style=&quot;float:left; margin-left:20px; padding-left:10px; valign:middle padding-top:5px&quot;&gt;Profit&lt;/span&gt;
-	&lt;select id=&quot;profittype&quot; style=&quot;float:left; margin-left:10px;&quot;&gt;
-	  &lt;option value=&quot;cumulative&quot; selected=&quot;selected&quot;&gt;Cumulative: includes contributions by higher-ranked customers&lt;/option&gt;
-	  &lt;option value=&quot;single&quot;&gt;Contribution per individual customer&lt;/option&gt;
-	&lt;/select&gt;
-      &lt;/div&gt;
-      
-      &lt;div id=&quot;containerFor2Sliders4Heatmap&quot; style=&quot;clear:both; height:110; padding-left:10px; padding-top:30px;&quot;&gt;
-    
-	&lt;div style=&quot;clear:both;&quot;&gt;
-	  &lt;div style=&quot;float:left;&quot;&gt;&amp;nbsp;&amp;nbsp;avg. cost per customer contact (USD):&lt;/div&gt;
-	  &lt;span style=&quot;margin-left: 10px; margin-top: -20px; width:30%; float:left; margin-bottom:0px;&quot; id=&quot;avgCostPerContactSliderForHeatmap&quot;&gt;&lt;/span&gt;
-	  &lt;div style=&quot;margin-left: 10px; float:left;&quot;&gt;&lt;strong id=&quot;avgCostPerContactSliderForHeatmapText&quot;&gt;10&lt;/strong&gt;&lt;/div&gt;
-	&lt;/div&gt;
-	
-	&lt;div style=&quot;clear:both; margin-top:30px;&quot;&gt;
-	  &lt;div style=&quot;float:left;&quot;&gt;avg. revenue per successful sale (USD):&lt;/div&gt;
-	  &lt;span style=&quot;margin-left: 2px; margin-top:-20px; width:60%; float:left;&quot; id=&quot;avgRevenuePerContactSliderForHeatmap&quot;&gt;&lt;/span&gt;
-	  &lt;div style=&quot;margin-left: 10px; float:left&quot;&gt;&lt;strong id=&quot;avgRevenuePerContactSliderForHeatmapText&quot;&gt;50&lt;/strong&gt;&lt;/div&gt;
-	&lt;/div&gt;
-	
-      &lt;/div&gt;&lt;!-- containerFor2Sliders4Heatmap --&gt;
-
-      &lt;div id=&quot;profitheatmap&quot; style=&quot;clear:both; width:830px;&quot;&gt;&lt;/div&gt;
-      &lt;script src=&quot;ProfitHeatMap.js&quot;&gt;&lt;/script&gt;
-      
-      &lt;div id=&quot;heatmaptooltip&quot; class=&quot;hidden&quot;&gt;
-        &lt;p&gt;&lt;span id=&quot;value&quot; /&gt;&lt;/p&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt;&lt;!-- containerForControlsAndProfitHeatMap --&gt;
-
-    &lt;p align=&quot;right&quot; style=&quot;width:840px;&quot;&gt;&lt;small&gt;[&lt;a href=&quot;ProfitHeatMap.html&quot; target=&quot;_profitheatmap&quot;&gt;view in separate window&lt;/a&gt;]&lt;/small&gt;&lt;/p&gt;
-
-    &lt;p&gt;Now select a non-baseline model, and see how the random distribution of individual positive profit contributions
-    transforms into a more ordered view: the positive profit contributions are indeed pushed towards the beginning
-      (top-left corner) of the heatmap. This is the power of the learned models at work.&lt;/p&gt;
-
-    &lt;p&gt;Finally, also select different configurations of the cost and revenue parameters, and see how this influences the heatmap.
-    For example, try the baseline model with cost 10 and revenue 90, as we did in the profit curve before. This configuration
-      confirms that the cumulative profit remains near the break-even line.&lt;/p&gt;
-
-    &lt;h2&gt;Recommendations&lt;/h2&gt;
-
-    &lt;p&gt;Customers must be targeted in descending order of their probability to buy the product. Running the trained models on
-      unseen customer data will provide such a ranking.&lt;/p&gt;
-
-    &lt;p&gt;To enable an informed decision about when to halt the campaign, the bank must first provide information on cost and revenue
-      per (successful) contact.
-      &lt;ul&gt;
-	&lt;li&gt;Without such information, we advise to stop when maximum cumulative lift is achieved,
-	  or when we have run out of budget, whichever comes first.&lt;/li&gt;
-	&lt;li&gt;If we do have such information, we advise to stop when maximum profit is achieved,
-	  or when we have run out of budget, whichever comes first.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/p&gt;
-
-    &lt;p&gt;Having set the cost and revenue variables, define the optimization criterion (e.g. maximum cumulative profit).
-      Then consult the profit curve and heatmap to identify which and how many customers to contact, most probable
-      buyers first.&lt;/p&gt;
-
-    &lt;h2&gt;Additional resources&lt;/h2&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Foster Provost &amp;amp; Tom Fawcett: &lt;a href=&quot;http://shop.oreilly.com/product/0636920028918.do&quot; target=&quot;_blank&quot;&gt;Data Science for Business. What you need to know about data mining and data-analytic thinking&lt;/a&gt;. O&#39;Reilly, 2013.&lt;br /&gt;Chapter 8: &amp;quot;Visualizing Model Performance&amp;quot; introduces the ROC, Lift and Profit curves.&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://nvd3.org&quot; target=&quot;_blank&quot;&gt;NVD3. Re-usable charts for D3.js&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/sujeetsr/d3.slider&quot; target=&quot;_blank&quot;&gt;D3.slider&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/ianyfchang/8119685&quot; target=&quot;_blank&quot;&gt;Heatmap example&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-
-  &lt;/body&gt;
-&lt;/html&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/projects/banking-project/&quot;&gt;Selling a new banking product to the right customers (first)&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 20, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
