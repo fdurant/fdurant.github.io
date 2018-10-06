@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>/blog/karma-points-on-the-commute/</loc>
-    <lastmod>2018-10-05T22:45:00+02:00</lastmod>
+    <lastmod>2018-10-06T13:45:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -147,49 +147,49 @@
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/articles/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/theme-setup/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/contact/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/projects/</loc>
-    <lastmod>2018-10-06T11:34:23+02:00</lastmod>
+    <lastmod>2018-10-06T11:46:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
