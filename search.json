@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Five London Haikus",
+		  "category"   : "",
+      "tags"       : "poetry, haiku, and london",
+		  "url"        : "/blog/five-london-haikus/",
+		  "date"       : "2018-12-02 01:15:00 +0100",
+		  "shortdate"  : "December 02, 2018"
+		} ,
+	
+		{
 		  "title"      : "Karma points on the commute",
 		  "category"   : "",
       "tags"       : "detox, london, new age, tube, wellness, and spiritualism",
