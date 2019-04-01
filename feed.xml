@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-12-02T00:20:08+01:00</updated>
+<updated>2019-04-01T23:04:54+01:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,156 @@
   
 
 <entry>
+  <title type="html"><![CDATA['Brexit' least popular baby name in UK, ERG study finds]]></title>
+  <link rel="alternate" type="text/html" href="/projects/firstname-network-uk/" />
+  <id>/projects/firstname-network-uk</id>
+  <published>2019-04-01T11:00:00+01:00</published>
+  <updated>2019-04-01T11:00:00+01:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;After a herculean &lt;a href=&quot;https://github.com/leeper/ukbabynames&quot;&gt;data collection&lt;/a&gt; effort spanning no
+less than two decades (1996-2015), the world-renowned &lt;a href=&quot;https://en.wikipedia.org/wiki/European_Research_Group&quot;&gt;European
+Research Group&lt;/a&gt; have today published their ground-breaking
+longitudinal study on British baby names. Despite lavish
+funds provided by a &lt;a href=&quot;https://ec.europa.eu/info/research-and-innovation_en&quot;&gt;European Union research grant&lt;/a&gt;,
+publication of the results took somewhat longer to deliver
+than foreseen.&lt;/p&gt;
+
+&lt;p&gt;One research finding immediately stands out: the immense, consistent yet wholly
+unexpected impopularity of &lt;em&gt;Brexit&lt;/em&gt; as a baby name.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/baby.jpg&quot; alt=&quot;A baby not called Brexit&quot; /&gt;
+	&lt;figcaption&gt;One of hundreds of thousands of British babies born between 1996-2015 whose name is not Brexit&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Indeed, to the utter astonishment of the &lt;a href=&quot;https://globalbritain.co.uk&quot;&gt;global (yes, &lt;em&gt;global&lt;/em&gt;)&lt;/a&gt;
+research community, British parents have overwhelmingly preferred more
+euphonic names:
+&lt;em&gt;Euron&lt;/em&gt;, &lt;em&gt;Euros&lt;/em&gt;, &lt;em&gt;Eugene&lt;/em&gt; and &lt;em&gt;Euan&lt;/em&gt;, not to mention
+&lt;em&gt;Britney&lt;/em&gt;. However, &lt;em&gt;not a single&lt;/em&gt; &lt;a href=&quot;/projects/firstname-network-uk/pdf/uk_boys_1503_names_2309_edges_simthres_063_minfreq_10_rankthres_200.pdf&quot;&gt;baby boy&lt;/a&gt; or &lt;a href=&quot;/projects/firstname-network-uk/pdf/uk_girls_1655_names_3250_edges_simthres_063_minfreq_15_rankthres_200.pdf&quot;&gt;baby
+girl&lt;/a&gt; was christened &lt;em&gt;Brexit&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The following table says it all:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;First name&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Frequency (Boys)&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Frequency (Girls)&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;TOTAL&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Euan&lt;/td&gt;
+      &lt;td&gt;4860&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4860&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Britney&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;999&lt;/td&gt;
+      &lt;td&gt;999&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eugene&lt;/td&gt;
+      &lt;td&gt;384&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;384&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eunice&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;277&lt;/td&gt;
+      &lt;td&gt;277&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eugenia&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;72&lt;/td&gt;
+      &lt;td&gt;72&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eugenio&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Euron&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Euros&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Brexit&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;bored-already-time-for-a-somewhat-related-video&quot;&gt;Bored already? Time for a somewhat related video&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jwxXlrcZRnk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;ok-back-to-science-now&quot;&gt;OK, back to science now&lt;/h2&gt;
+
+&lt;p&gt;Asked for a scientific explanation,
+&lt;a href=&quot;https://en.wikipedia.org/wiki/European_Research_Group&quot;&gt;ERG&lt;/a&gt; lead scientist dr. Made-Up Cheese-Smog was quick to pinpoint
+the limited scope of the study. The truth is: as soon as the
+&lt;a href=&quot;https://www.mirror.co.uk/news/politics/&quot;&gt;well-informed UK people&lt;/a&gt; had decided in 2016 to leave
+the EU, European funds had dried up, almost overnight. Also, desperate
+pleas for bridge funding to the &lt;a href=&quot;http://www.gov.ky&quot;&gt;Cayman Islands 
+government&lt;/a&gt; had been unsuccessful. As a result,
+post-2015 baby names had not been included in the study, causing
+a completely understandable divergence between hallucinatory
+delusions and common-sense reality.&lt;/p&gt;
+
+&lt;p&gt;In short: &lt;em&gt;Brexit could have meant Brexit&lt;/em&gt;. Only it didn’t.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/cheese_smog.jpg&quot; alt=&quot;Dr. Made-Up Cheese-Smog&quot; /&gt;
+	&lt;figcaption&gt;ERG&#39;s lead scientist dr. Made-Up Cheese-Smog
+	still baffled over the surprising research results, after all
+	those years&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Despite all these setbacks, the &lt;a href=&quot;https://en.wikipedia.org/wiki/European_Research_Group&quot;&gt;European Research Group&lt;/a&gt; have no
+plans to give up. On the contrary, a follow-up study is
+already in preparation. As dr. Cheese-Smog explained, both the striking
+uniformity of &lt;em&gt;Brexit’s&lt;/em&gt; longitudinal distribution and its intriguing
+gender neutrality (zero occurrences for &lt;a href=&quot;/projects/firstname-network-uk/pdf/uk_boys_1503_names_2309_edges_simthres_063_minfreq_10_rankthres_200.pdf&quot;&gt;boys&lt;/a&gt; &lt;em&gt;as well as&lt;/em&gt;
+for &lt;a href=&quot;/projects/firstname-network-uk/pdf/uk_girls_1655_names_3250_edges_simthres_063_minfreq_15_rankthres_200.pdf&quot;&gt;girls&lt;/a&gt;) do require further research.&lt;/p&gt;
+
+&lt;p&gt;Anyway, since the recent &lt;a href=&quot;https://www.gov.uk/government/collections/uk-switzerland-liechtenstein-trade-agreement&quot;&gt;trade deal with Switzerland and
+Liechtenstein&lt;/a&gt;, money’s not an issue anymore. That’s
+sorted then.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-uk/&quot;&gt;'Brexit' least popular baby name in UK, ERG study finds&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 01, 2019.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Five London Haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/five-london-haikus/" />
   <id>/blog/five-london-haikus</id>
-  <published>2018-12-02T01:15:00+01:00</published>
-  <updated>2018-12-02T01:15:00+01:00</updated>
+  <published>2018-12-02T00:15:00+00:00</published>
+  <updated>2018-12-02T00:15:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -77,8 +222,8 @@ Be A Banana&lt;/p&gt;
   <title type="html"><![CDATA[Karma points on the commute]]></title>
   <link rel="alternate" type="text/html" href="/blog/karma-points-on-the-commute/" />
   <id>/blog/karma-points-on-the-commute</id>
-  <published>2018-10-06T13:45:00+02:00</published>
-  <updated>2018-10-06T13:45:00+02:00</updated>
+  <published>2018-10-06T12:45:00+01:00</published>
+  <updated>2018-10-06T12:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -166,8 +311,8 @@ the new entrants’ eyes. Such hope, such happiness, such health!&lt;/p&gt;
   <title type="html"><![CDATA[London calling. Or is it Europe?]]></title>
   <link rel="alternate" type="text/html" href="/blog/london-calling-or-is-it-europe/" />
   <id>/blog/london-calling-or-is-it-europe</id>
-  <published>2018-09-06T15:45:00+02:00</published>
-  <updated>2018-09-06T15:45:00+02:00</updated>
+  <published>2018-09-06T14:45:00+01:00</published>
+  <updated>2018-09-06T14:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -229,8 +374,8 @@ in my case, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Pint_glass&quot;&gt
   <title type="html"><![CDATA[Truisms to counter company culture traps]]></title>
   <link rel="alternate" type="text/html" href="/blog/truisms-to-counter-company-culture-traps/" />
   <id>/blog/truisms-to-counter-company-culture-traps</id>
-  <published>2018-07-26T18:00:00+02:00</published>
-  <updated>2018-07-26T18:00:00+02:00</updated>
+  <published>2018-07-26T17:00:00+01:00</published>
+  <updated>2018-07-26T17:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -528,8 +673,8 @@ and use it.&lt;/p&gt;
   <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
   <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
   <id>/blog/the-more-things-change</id>
-  <published>2018-05-21T12:00:00+02:00</published>
-  <updated>2018-05-21T12:00:00+02:00</updated>
+  <published>2018-05-21T11:00:00+01:00</published>
+  <updated>2018-05-21T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -620,8 +765,8 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T12:00:00+02:00</published>
-  <updated>2018-03-25T12:00:00+02:00</updated>
+  <published>2018-03-25T11:00:00+01:00</published>
+  <updated>2018-03-25T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -826,8 +971,8 @@ quite some competition out there.&lt;/p&gt;
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T19:00:00+01:00</published>
-  <updated>2018-01-20T19:00:00+01:00</updated>
+  <published>2018-01-20T18:00:00+00:00</published>
+  <updated>2018-01-20T18:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -884,8 +1029,8 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T21:45:00+01:00</published>
-  <updated>2017-12-29T21:45:00+01:00</updated>
+  <published>2017-12-29T20:45:00+00:00</published>
+  <updated>2017-12-29T20:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1006,8 +1151,8 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T01:00:01+01:00</published>
-  <updated>2017-11-18T01:00:01+01:00</updated>
+  <published>2017-11-18T00:00:01+00:00</published>
+  <updated>2017-11-18T00:00:01+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1060,8 +1205,8 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T16:45:00+01:00</published>
-  <updated>2016-10-30T16:45:00+01:00</updated>
+  <published>2016-10-30T15:45:00+00:00</published>
+  <updated>2016-10-30T15:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1106,8 +1251,8 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T08:00:00+01:00</published>
-  <updated>2016-03-06T08:00:00+01:00</updated>
+  <published>2016-03-06T07:00:00+00:00</published>
+  <updated>2016-03-06T07:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1179,8 +1324,8 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T23:40:00+01:00</published>
-  <updated>2016-03-01T23:40:00+01:00</updated>
+  <published>2016-03-01T22:40:00+00:00</published>
+  <updated>2016-03-01T22:40:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1243,8 +1388,8 @@ public procurement - if only to give start-ups in this field a reasonable chance
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+01:00</published>
-  <updated>2016-01-16T00:00:00+01:00</updated>
+  <published>2016-01-16T00:00:00+00:00</published>
+  <updated>2016-01-16T00:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1277,8 +1422,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T16:00:00+01:00</published>
-  <updated>2015-12-13T16:00:00+01:00</updated>
+  <published>2015-12-13T15:00:00+00:00</published>
+  <updated>2015-12-13T15:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1314,8 +1459,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T14:01:00+02:00</published>
-  <updated>2015-10-03T14:01:00+02:00</updated>
+  <published>2015-10-03T13:01:00+01:00</published>
+  <updated>2015-10-03T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1371,8 +1516,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T14:01:00+02:00</published>
-  <updated>2015-07-29T14:01:00+02:00</updated>
+  <published>2015-07-29T13:01:00+01:00</published>
+  <updated>2015-07-29T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1428,8 +1573,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-06T01:55:00+02:00</published>
-  <updated>2015-05-06T01:55:00+02:00</updated>
+  <published>2015-05-06T00:55:00+01:00</published>
+  <updated>2015-05-06T00:55:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1499,8 +1644,8 @@ global productivity of money.&lt;/p&gt;
   <title type="html"><![CDATA[Age prediction's child diseases]]></title>
   <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
   <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T18:00:00+02:00</published>
-  <updated>2015-05-01T18:00:00+02:00</updated>
+  <published>2015-05-01T17:00:00+01:00</published>
+  <updated>2015-05-01T17:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1570,8 +1715,8 @@ younger. Quite the contrary.&lt;/p&gt;
   <title type="html"><![CDATA[9 1/2 data science bootcamp survival tips]]></title>
   <link rel="alternate" type="text/html" href="/blog/survive-data-science-bootcamp/" />
   <id>/blog/survive-data-science-bootcamp</id>
-  <published>2015-04-22T17:00:00+02:00</published>
-  <updated>2015-04-22T17:00:00+02:00</updated>
+  <published>2015-04-22T16:00:00+01:00</published>
+  <updated>2015-04-22T16:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1750,74 +1895,6 @@ any use to oneself.”&lt;/em&gt;&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/blog/survive-data-science-bootcamp/&quot;&gt;9 1/2 data science bootcamp survival tips&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 22, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[American picture haikus]]></title>
-  <link rel="alternate" type="text/html" href="/blog/usa-picture-haikus/" />
-  <id>/blog/usa-picture-haikus</id>
-  <published>2015-04-12T04:00:00+02:00</published>
-  <updated>2015-04-12T04:00:00+02:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Arlington Cemetary&lt;/h1&gt;
-
-&lt;p&gt;&lt;img style=&quot;float:right; margin-top:20px;&quot; src=&quot;/images/jfk_and_so_my_fellow_americans.jpg&quot; alt=&quot;JFK&#39;s inaugural address at Arlington Cemetary&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote style=&quot;clear:left&quot;&gt;
-What&#39;s America?&lt;br /&gt;
-No greater duty on earth&lt;br /&gt;
-Than live by free will
-&lt;/blockquote&gt;
-
-&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Art&lt;/h1&gt;
-
-&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/nam_june_paik_electronic_superhighway.jpg&quot; alt=&quot;Nam June Paik: Electronic Superhighway&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote style=&quot;clear:left&quot;&gt;
-The canvass of truth&lt;br /&gt;
-Is more than often painted&lt;br /&gt;
-In hellish colors
-&lt;/blockquote&gt;
-
-&lt;h1 style=&quot;float:left&quot; id=&quot;Six&quot;&gt;New York Subway&lt;/h1&gt;
-
-&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/faith_vs_fate.jpg&quot; alt=&quot;Faith versus fate&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote style=&quot;clear:left&quot;&gt;
-Motion and movement&lt;br /&gt;
-Driven by skies or by man&lt;br /&gt;
-A squeaking balance
-&lt;/blockquote&gt;
-
-&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Brooklyn&lt;/h1&gt;
-
-&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/brooklyn_graffiti.jpg&quot; alt=&quot;Faith versus fate&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote style=&quot;clear:left&quot;&gt;
-Looneys keeping guard&lt;br /&gt;
-On the street, women yelling&lt;br /&gt;
-Spring is in the air
-&lt;/blockquote&gt;
-
-&lt;h1 style=&quot;clear:both; float:left&quot; id=&quot;Six&quot;&gt;Broadway&lt;/h1&gt;
-
-&lt;p&gt;&lt;img style=&quot;float:right; margin-top:30px;&quot; src=&quot;/images/helen_mirren_the_audience.jpg&quot; alt=&quot;Helen Mirren in The Audience&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote style=&quot;clear:left&quot;&gt;
-A ticket to life&lt;br /&gt;
-Please &amp;mdash; between fame and forgotten&lt;br /&gt;
-There&#39;s no mezzanine
-&lt;/blockquote&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/usa-picture-haikus/&quot;&gt;American picture haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 12, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
