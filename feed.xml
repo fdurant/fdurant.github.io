@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2019-04-01T23:04:54+01:00</updated>
+<updated>2019-04-21T08:48:07+02:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,84 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Seven startup haikus]]></title>
+  <link rel="alternate" type="text/html" href="/blog/seven-startup-haikus/" />
+  <id>/blog/seven-startup-haikus</id>
+  <published>2019-04-21T02:08:45+02:00</published>
+  <updated>2019-04-21T02:08:45+02:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 id=&quot;zero-dot-one&quot;&gt;Zero Dot One&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How far is it yet?&lt;br /&gt;
+Abundance of decimals&lt;br /&gt;
+From zero to one&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;intelligent-design&quot;&gt;Intelligent design&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stub out the modules&lt;br /&gt;
+Lest their numb interfaces&lt;br /&gt;
+Develop bit rot&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;black-hole-attraction&quot;&gt;Black hole attraction&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Shiny bright feedback&lt;br /&gt;
+Around the moon it travels&lt;br /&gt;
+Into outer space&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;code-improv&quot;&gt;Code improv&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Go pick up the lines&lt;br /&gt;
+Pull, change, commit, push and merge&lt;br /&gt;
+To his master’s branch&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;pair-programming&quot;&gt;Pair programming&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ll do the typing&lt;br /&gt;
+Insists the Siamese twin&lt;br /&gt;
+While you think for two&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;shift-left-right&quot;&gt;Shift left right&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Pickled Arabic&lt;br /&gt;
+Curly braced Python objects&lt;br /&gt;
+Eating their own tail&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;curtain-road-works&quot;&gt;Curtain Road Works&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jackhammers drilling&lt;br /&gt;
+As noisy signals erupt&lt;br /&gt;
+Compressed Aire explodes&lt;/p&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/seven-startup-haikus/&quot;&gt;Seven startup haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 21, 2019.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA['Brexit' least popular baby name in UK, ERG study finds]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-uk/" />
   <id>/projects/firstname-network-uk</id>
-  <published>2019-04-01T11:00:00+01:00</published>
-  <updated>2019-04-01T11:00:00+01:00</updated>
+  <published>2019-04-01T12:00:00+02:00</published>
+  <updated>2019-04-01T12:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -164,8 +237,8 @@ sorted then.&lt;/p&gt;
   <title type="html"><![CDATA[Five London Haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/five-london-haikus/" />
   <id>/blog/five-london-haikus</id>
-  <published>2018-12-02T00:15:00+00:00</published>
-  <updated>2018-12-02T00:15:00+00:00</updated>
+  <published>2018-12-02T01:15:00+01:00</published>
+  <updated>2018-12-02T01:15:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -222,8 +295,8 @@ Be A Banana&lt;/p&gt;
   <title type="html"><![CDATA[Karma points on the commute]]></title>
   <link rel="alternate" type="text/html" href="/blog/karma-points-on-the-commute/" />
   <id>/blog/karma-points-on-the-commute</id>
-  <published>2018-10-06T12:45:00+01:00</published>
-  <updated>2018-10-06T12:45:00+01:00</updated>
+  <published>2018-10-06T13:45:00+02:00</published>
+  <updated>2018-10-06T13:45:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -311,8 +384,8 @@ the new entrants’ eyes. Such hope, such happiness, such health!&lt;/p&gt;
   <title type="html"><![CDATA[London calling. Or is it Europe?]]></title>
   <link rel="alternate" type="text/html" href="/blog/london-calling-or-is-it-europe/" />
   <id>/blog/london-calling-or-is-it-europe</id>
-  <published>2018-09-06T14:45:00+01:00</published>
-  <updated>2018-09-06T14:45:00+01:00</updated>
+  <published>2018-09-06T15:45:00+02:00</published>
+  <updated>2018-09-06T15:45:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -374,8 +447,8 @@ in my case, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Pint_glass&quot;&gt
   <title type="html"><![CDATA[Truisms to counter company culture traps]]></title>
   <link rel="alternate" type="text/html" href="/blog/truisms-to-counter-company-culture-traps/" />
   <id>/blog/truisms-to-counter-company-culture-traps</id>
-  <published>2018-07-26T17:00:00+01:00</published>
-  <updated>2018-07-26T17:00:00+01:00</updated>
+  <published>2018-07-26T18:00:00+02:00</published>
+  <updated>2018-07-26T18:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -673,8 +746,8 @@ and use it.&lt;/p&gt;
   <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
   <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
   <id>/blog/the-more-things-change</id>
-  <published>2018-05-21T11:00:00+01:00</published>
-  <updated>2018-05-21T11:00:00+01:00</updated>
+  <published>2018-05-21T12:00:00+02:00</published>
+  <updated>2018-05-21T12:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -765,8 +838,8 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T11:00:00+01:00</published>
-  <updated>2018-03-25T11:00:00+01:00</updated>
+  <published>2018-03-25T12:00:00+02:00</published>
+  <updated>2018-03-25T12:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -971,8 +1044,8 @@ quite some competition out there.&lt;/p&gt;
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T18:00:00+00:00</published>
-  <updated>2018-01-20T18:00:00+00:00</updated>
+  <published>2018-01-20T19:00:00+01:00</published>
+  <updated>2018-01-20T19:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1029,8 +1102,8 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T20:45:00+00:00</published>
-  <updated>2017-12-29T20:45:00+00:00</updated>
+  <published>2017-12-29T21:45:00+01:00</published>
+  <updated>2017-12-29T21:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1151,8 +1224,8 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T00:00:01+00:00</published>
-  <updated>2017-11-18T00:00:01+00:00</updated>
+  <published>2017-11-18T01:00:01+01:00</published>
+  <updated>2017-11-18T01:00:01+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1205,8 +1278,8 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T15:45:00+00:00</published>
-  <updated>2016-10-30T15:45:00+00:00</updated>
+  <published>2016-10-30T16:45:00+01:00</published>
+  <updated>2016-10-30T16:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1251,8 +1324,8 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T07:00:00+00:00</published>
-  <updated>2016-03-06T07:00:00+00:00</updated>
+  <published>2016-03-06T08:00:00+01:00</published>
+  <updated>2016-03-06T08:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1324,8 +1397,8 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T22:40:00+00:00</published>
-  <updated>2016-03-01T22:40:00+00:00</updated>
+  <published>2016-03-01T23:40:00+01:00</published>
+  <updated>2016-03-01T23:40:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1388,8 +1461,8 @@ public procurement - if only to give start-ups in this field a reasonable chance
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+00:00</published>
-  <updated>2016-01-16T00:00:00+00:00</updated>
+  <published>2016-01-16T00:00:00+01:00</published>
+  <updated>2016-01-16T00:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1422,8 +1495,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T15:00:00+00:00</published>
-  <updated>2015-12-13T15:00:00+00:00</updated>
+  <published>2015-12-13T16:00:00+01:00</published>
+  <updated>2015-12-13T16:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1459,8 +1532,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T13:01:00+01:00</published>
-  <updated>2015-10-03T13:01:00+01:00</updated>
+  <published>2015-10-03T14:01:00+02:00</published>
+  <updated>2015-10-03T14:01:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1516,8 +1589,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T13:01:00+01:00</published>
-  <updated>2015-07-29T13:01:00+01:00</updated>
+  <published>2015-07-29T14:01:00+02:00</published>
+  <updated>2015-07-29T14:01:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1573,8 +1646,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-06T00:55:00+01:00</published>
-  <updated>2015-05-06T00:55:00+01:00</updated>
+  <published>2015-05-06T01:55:00+02:00</published>
+  <updated>2015-05-06T01:55:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1644,8 +1717,8 @@ global productivity of money.&lt;/p&gt;
   <title type="html"><![CDATA[Age prediction's child diseases]]></title>
   <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
   <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T17:00:00+01:00</published>
-  <updated>2015-05-01T17:00:00+01:00</updated>
+  <published>2015-05-01T18:00:00+02:00</published>
+  <updated>2015-05-01T18:00:00+02:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1706,195 +1779,6 @@ younger. Quite the contrary.&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/blog/age-prediction-child-diseases/&quot;&gt;Age prediction's child diseases&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 01, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[9 1/2 data science bootcamp survival tips]]></title>
-  <link rel="alternate" type="text/html" href="/blog/survive-data-science-bootcamp/" />
-  <id>/blog/survive-data-science-bootcamp</id>
-  <published>2015-04-22T16:00:00+01:00</published>
-  <updated>2015-04-22T16:00:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;It’s been two weeks now since the &lt;a href=&quot;http://www.thisismetis.com/ds-alumni&quot;&gt;Winter Class of 2015&lt;/a&gt; presented their final projects to
-a few dozen hiring companies. For us presenters, summarizing our
-&lt;a href=&quot;/projects/kiva-loan-funding-predictor-project/&quot;&gt;project work of 4-6 weeks&lt;/a&gt; into a three-minute
-presentation was a challenge. Then again, it forced us to &lt;strong&gt;focus
-on the absolute essence&lt;/strong&gt;. Which, at higher granularity, was a necessity throughout the
-bootcamp.&lt;/p&gt;
-
-&lt;p&gt;In this post, I want to share a number of tips that helped me survive 12 very intense
-weeks of information overload, never-ending programming assignments
-(euphemistically called &lt;em&gt;challenges&lt;/em&gt;) and long days.&lt;/p&gt;
-
-&lt;p&gt;So, without further ado:&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-1-define-your-learning-goals-upfront-and-adapt-as-you-go&quot;&gt;Tip #1: Define your learning goals upfront, and adapt as you go&lt;/h1&gt;
-
-&lt;p&gt;Each student starts class with his/her own background, strengths and
-weaknesses. Given the wide array of addressed topics, you may find
-yourself positioned on the knowledge/skills curve at the fifth percentile today, and at the
-ninety-fifth tomorrow. That’s fine, really — it’s just a
-statistical fact.&lt;/p&gt;
-
-&lt;p&gt;Apply a &lt;a href=&quot;http://en.wikipedia.org/wiki/Triage&quot;&gt;&lt;strong&gt;knowledge and
-relevance triage&lt;/strong&gt;&lt;/a&gt; to each topic, so you don’t waste time on either “lost” causes
-(personal example: &lt;a href=&quot;http://en.wikipedia.org/wiki/Generalized_linear_model&quot;&gt;generalized linear models&lt;/a&gt;) or already gained causes
-(personal examples: &lt;a href=&quot;http://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;RESTful API&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/SQL&quot;&gt;SQL&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/MySQL&quot;&gt;mySQL&lt;/a&gt;,
-and a few others). &lt;strong&gt;Focus your time and effort
-exclusively on what you can, want and need to learn.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It goes without saying that this is different for each student.&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-2-know-what-you-dont-know-and-want&quot;&gt;Tip #2: Know what you (don’t) know and want&lt;/h1&gt;
-
-&lt;p&gt;A precondition to tip #1 is that you &lt;a href=&quot;http://en.wikipedia.org/wiki/There_are_known_knowns&quot;&gt;&lt;strong&gt;know you knowns and unknowns&lt;/strong&gt;&lt;/a&gt;. You
-should also know what you (don’t) want to reach as your end
-goal. It’s OK to define this self-knowledge as the bootcamp
-progresses, but about half-way into the bootcamp, this picture should
-become clear.&lt;/p&gt;
-
-&lt;p&gt;If you don’t know where you’re going, you won’t get there. If you’re
-lost, ask for help. You already paid for it, after all :-)&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-3-skip-a-lecture-challenge-or-speaker-its-ok&quot;&gt;Tip #3: Skip a lecture, challenge or speaker, it’s OK&lt;/h1&gt;
-
-&lt;p&gt;If your mind is a muscle, and it’s been strained, give it a
-rest. &lt;strong&gt;Don’t feel bad about skipping class every now and then, if
-that’s what you need.&lt;/strong&gt; Chances are the
-information offered that day won’t sink in anyway, so this is probably the
-best you can do.&lt;/p&gt;
-
-&lt;p&gt;For clarity’s sake: this does &lt;em&gt;not&lt;/em&gt; mean that you should give up on the &lt;em&gt;bootcamp&lt;/em&gt;,
-quite the contrary! The goal is to get your grey cells functioning
-again as soon as possible.&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-4-write-your-first-blog-post-today-yes-today&quot;&gt;Tip #4: Write your first blog post today. Yes, today!&lt;/h1&gt;
-
-&lt;p&gt;The knowledge and skills that you acquire are one thing — their &lt;strong&gt;public
-visibility&lt;/strong&gt; quite another. Don’t wait too long to set up your
-blog and tell the world about that cool problem you’re working on.
-If you do wait too long, you may already suffer a mid-bootcamp-crisis. Instead,
-&lt;strong&gt;lay your blogging foundations early enough in the game&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-5-always-always-store-your-work-on-github&quot;&gt;Tip #5: Always, &lt;em&gt;always&lt;/em&gt; store your work on GitHub&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Push your code and key results at least once a day.&lt;/strong&gt; Believe me, you
-&lt;em&gt;don’t&lt;/em&gt; want to be that one student who lost 
-everything because of a disk crash, a stolen laptop or that
-“funny” classmate aka Unix guru who told you that typing “sudo rm -rf /”
-would solve all your problems.&lt;/p&gt;
-
-&lt;p&gt;Two out of these three purely
-hypothetical examples actually happened during our class.&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-6-be-ambitious-overstretch-it-but-only-so-far&quot;&gt;Tip #6: Be ambitious, overstretch it, but only so far&lt;/h1&gt;
-
-&lt;p&gt;There is &lt;strong&gt;no learning within the comfort zone&lt;/strong&gt;, so if the bootcamp doesn’t hurt
-every now and then, you’re not paying attention and/or not making much progress. Then again,
-beware of setting unrealistic project goals: the deadline at the end of the
-bootcamp is real, and cannot be postponed.&lt;/p&gt;
-
-&lt;p&gt;Therefore, design your final project in such a way that the
-solution will be &lt;strong&gt;based on low-risk technologies&lt;/strong&gt;
-you know you master. Complement this foundation with &lt;strong&gt;newly acquired
-skills and techniques that you feel comfortable applying&lt;/strong&gt; during the
-bootcamp. Finally, top it off with &lt;strong&gt;a fancy technique or crazy idea&lt;/strong&gt;.
-Just make sure that this cherry on the cake is dispensable — you
-never know the odds/gods are against you.&lt;/p&gt;
-
-&lt;p&gt;Applied to &lt;a href=&quot;/projects/kiva-loan-funding-predictor-project/&quot;&gt;my own final project&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Foundation: RESTful API, end-to-end solution, GitHub, Python, JSON,
-object-oriented programming, agile process.&lt;/li&gt;
-  &lt;li&gt;Novelties: pandas/numpy, serialization and deployment of trained logistic regression model;
-D3 visualization of money flows; Supervised Latent Dirichlet
-Allocation (SLDA)&lt;/li&gt;
-  &lt;li&gt;Cherry on the cake: browser integration via Google Chrome extension
-(written in JavaScript).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;tip-7-be-agile&quot;&gt;Tip #7: Be agile&lt;/h1&gt;
-
-&lt;p&gt;To further reduce risk while making steady progress, apply a number of
-well-known principles from Agile development:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tackle the &lt;strong&gt;highest-risk problems first&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Work in &lt;strong&gt;short iterations&lt;/strong&gt; of 3-5 days each; make sure you have a
-&lt;strong&gt;working Minimum Viable Product to show&lt;/strong&gt; at the end of each one.&lt;/li&gt;
-  &lt;li&gt;Use so-called &lt;a href=&quot;http://en.wikipedia.org/wiki/Method_stub&quot;&gt;stubs&lt;/a&gt; to replace complex functionality in
-your first iteration, so that the &lt;strong&gt;end-to-end solution chain&lt;/strong&gt; is never
-broken.&lt;/li&gt;
-  &lt;li&gt;Apply &lt;a href=&quot;http://en.wikipedia.org/wiki/Test-driven_development&quot;&gt;&lt;strong&gt;test-driven development&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Applied to my project:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I started with an explorative iteration in which I tested if a
-&lt;a href=&quot;https://github.com/chbrown/slda&quot;&gt;crucial but
-external C++ software package for SLDA&lt;/a&gt; would work at all — it did.&lt;/li&gt;
-  &lt;li&gt;In the second iteration, the RESTful API hid a &lt;a href=&quot;https://github.com/fdurant/kiva_project/commit/594a08af1123af3853f5af47bea75e5b4af139c6&quot;&gt;stub function&lt;/a&gt; that
-returned a score that was randomly generated, but in the right JSON
-format. This way, all interfaces between the solution components
-were successfully tested end-to-end right from the start. After
-that, I “only” needed to fill in the blanks.&lt;/li&gt;
-  &lt;li&gt;My initial idea was to visualize the loan prediction score in a
-&lt;a href=&quot;http://jqwidgets.com/jquery-widgets-demo/demos/jqxgauge/index.htm&quot;&gt;Javascript gauge
-widget&lt;/a&gt;. Since I couldn’t get it to work, and the functionality was
-non-essential, I ditched this idea quite quickly.&lt;/li&gt;
-  &lt;li&gt;80% of all code developed in the the explorative iteration was
-reorganized into separate Python classes, with a quite comprehensive number of
-test cases.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;tip-8-whenever-possible-take-shortcuts&quot;&gt;Tip #8: Whenever possible, take shortcuts&lt;/h1&gt;
-
-&lt;p&gt;By definition, &lt;strong&gt;the most efficiently performed piece of work is the one you choose
-not to do&lt;/strong&gt;. When picking my final project, the availability of a
-comprehensive snapshot of historical Kiva data was a major decision
-factor. It meant that I didn’t need to spend (read: waste) my own development and
-the machine’s downloading time on web scraping. Having done web
-scraping many times before, there was no learning argument either.&lt;/p&gt;
-
-&lt;p&gt;Therefore: &lt;strong&gt;be pragmatic. Cut the waste.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-9-avoid-dependencies&quot;&gt;Tip #9: Avoid dependencies&lt;/h1&gt;
-
-&lt;p&gt;Dependencies on external parties, customers, data deliveries,
-knowledge gaps, unreliable cloud services, etc. are all risks:
-whenever possible, try to avoid them. Focus on what works for you, and
-&lt;strong&gt;don’t rely (too much) on external factors that you cannot control.&lt;/strong&gt; If
-you &lt;em&gt;must&lt;/em&gt; rely on an external piece of code or data, make sure to take
-away that risk &lt;em&gt;first&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In my project, I decided not to contact Kiva.org before the work was
-completed (I &lt;em&gt;am&lt;/em&gt; talking to them &lt;em&gt;now&lt;/em&gt;). By doing so, I may have missed
-an opportunity to work on the most important problem they have, but I
-also gained a lot of time, and had total freedom.&lt;/p&gt;
-
-&lt;h1 id=&quot;tip-10-remember-oscar-wilde&quot;&gt;Tip #10: Remember Oscar Wilde&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;“The only thing to do with good advice is to pass it on. It is never of
-any use to oneself.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;(source: &lt;a href=&quot;http://www.brainyquote.com/quotes/quotes/o/oscarwilde103888.html&quot;&gt;BrainyQuote&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;To all current and future students: enjoy the pain - and don’t
-  forget to have &lt;em&gt;some&lt;/em&gt; fun in between!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/imhrDrE4-mI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/survive-data-science-bootcamp/&quot;&gt;9 1/2 data science bootcamp survival tips&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>

@@ -1,11 +1,20 @@
 [
 	
 		{
+		  "title"      : "Seven startup haikus",
+		  "category"   : "",
+      "tags"       : "poetry, haiku, and startup",
+		  "url"        : "/blog/seven-startup-haikus/",
+		  "date"       : "2019-04-21 02:08:45 +0200",
+		  "shortdate"  : "April 21, 2019"
+		} ,
+	
+		{
 		  "title"      : "&#39;Brexit&#39; least popular baby name in UK, ERG study finds",
 		  "category"   : "",
       "tags"       : "babies, brexit, britain, and nonsense",
 		  "url"        : "/projects/firstname-network-uk/",
-		  "date"       : "2019-04-01 11:00:00 +0100",
+		  "date"       : "2019-04-01 12:00:00 +0200",
 		  "shortdate"  : "April 01, 2019"
 		} ,
 	
@@ -14,7 +23,7 @@
 		  "category"   : "",
       "tags"       : "poetry, haiku, and london",
 		  "url"        : "/blog/five-london-haikus/",
-		  "date"       : "2018-12-02 00:15:00 +0000",
+		  "date"       : "2018-12-02 01:15:00 +0100",
 		  "shortdate"  : "December 02, 2018"
 		} ,
 	
@@ -23,7 +32,7 @@
 		  "category"   : "",
       "tags"       : "detox, london, new age, tube, wellness, and spiritualism",
 		  "url"        : "/blog/karma-points-on-the-commute/",
-		  "date"       : "2018-10-06 12:45:00 +0100",
+		  "date"       : "2018-10-06 13:45:00 +0200",
 		  "shortdate"  : "October 06, 2018"
 		} ,
 	
@@ -32,7 +41,7 @@
 		  "category"   : "",
       "tags"       : "uk, europe, yolo, brexit, london, future, and past",
 		  "url"        : "/blog/london-calling-or-is-it-europe/",
-		  "date"       : "2018-09-06 14:45:00 +0100",
+		  "date"       : "2018-09-06 15:45:00 +0200",
 		  "shortdate"  : "September 06, 2018"
 		} ,
 	
@@ -41,7 +50,7 @@
 		  "category"   : "",
       "tags"       : "facepalm, newspeak, company culture, change, and duh",
 		  "url"        : "/blog/truisms-to-counter-company-culture-traps/",
-		  "date"       : "2018-07-26 17:00:00 +0100",
+		  "date"       : "2018-07-26 18:00:00 +0200",
 		  "shortdate"  : "July 26, 2018"
 		} ,
 	
@@ -50,7 +59,7 @@
 		  "category"   : "",
       "tags"       : "short memory, speed, generation, conversational interfaces, and chatbots",
 		  "url"        : "/blog/the-more-things-change/",
-		  "date"       : "2018-05-21 11:00:00 +0100",
+		  "date"       : "2018-05-21 12:00:00 +0200",
 		  "shortdate"  : "May 21, 2018"
 		} ,
 	
@@ -59,7 +68,7 @@
 		  "category"   : "",
       "tags"       : "professional and confessional",
 		  "url"        : "/blog/most-epic-professional-fails/",
-		  "date"       : "2018-03-25 11:00:00 +0100",
+		  "date"       : "2018-03-25 12:00:00 +0200",
 		  "shortdate"  : "March 25, 2018"
 		} ,
 	
@@ -68,7 +77,7 @@
 		  "category"   : "",
       "tags"       : "poetry, hype, haiku, sense, and nonsense",
 		  "url"        : "/blog/hypekus/",
-		  "date"       : "2018-01-20 18:00:00 +0000",
+		  "date"       : "2018-01-20 19:00:00 +0100",
 		  "shortdate"  : "January 20, 2018"
 		} ,
 	
@@ -77,7 +86,7 @@
 		  "category"   : "",
       "tags"       : "hype, knowledge, time, investment, choice, and timing",
 		  "url"        : "/blog/what-to-learn-when-and-why/",
-		  "date"       : "2017-12-29 20:45:00 +0000",
+		  "date"       : "2017-12-29 21:45:00 +0100",
 		  "shortdate"  : "December 29, 2017"
 		} ,
 	
@@ -86,7 +95,7 @@
 		  "category"   : "",
       "tags"       : "chanson, mindstorm, beauty, and (de)composers",
 		  "url"        : "/blog/unexpected-encounters/",
-		  "date"       : "2017-11-18 00:00:01 +0000",
+		  "date"       : "2017-11-18 01:00:01 +0100",
 		  "shortdate"  : "November 18, 2017"
 		} ,
 	
@@ -95,7 +104,7 @@
 		  "category"   : "",
       "tags"       : "network, babies, gephi, procreation, and visualization",
 		  "url"        : "/projects/firstname-network-belgium/",
-		  "date"       : "2016-10-30 15:45:00 +0000",
+		  "date"       : "2016-10-30 16:45:00 +0100",
 		  "shortdate"  : "October 30, 2016"
 		} ,
 	
@@ -104,7 +113,7 @@
 		  "category"   : "",
       "tags"       : "analog, books, touch, feel, and taste",
 		  "url"        : "/blog/club-chair-bookstores/",
-		  "date"       : "2016-03-06 07:00:00 +0000",
+		  "date"       : "2016-03-06 08:00:00 +0100",
 		  "shortdate"  : "March 06, 2016"
 		} ,
 	
@@ -113,7 +122,7 @@
 		  "category"   : "",
       "tags"       : "open data, belgium, civic participation, and data journalism",
 		  "url"        : "/blog/open-belgium-2016/",
-		  "date"       : "2016-03-01 22:40:00 +0000",
+		  "date"       : "2016-03-01 23:40:00 +0100",
 		  "shortdate"  : "March 01, 2016"
 		} ,
 	
@@ -122,7 +131,7 @@
 		  "category"   : "",
       "tags"       : "words, thoughts, and moving pictures",
 		  "url"        : "/blog/new-york-video/",
-		  "date"       : "2016-01-16 00:00:00 +0000",
+		  "date"       : "2016-01-16 00:00:00 +0100",
 		  "shortdate"  : "January 16, 2016"
 		} ,
 	
@@ -131,7 +140,7 @@
 		  "category"   : "",
       "tags"       : "career, change, never too old, and stay agile",
 		  "url"        : "/blog/changing-course/",
-		  "date"       : "2015-12-13 15:00:00 +0000",
+		  "date"       : "2015-12-13 16:00:00 +0100",
 		  "shortdate"  : "December 13, 2015"
 		} ,
 	
@@ -140,7 +149,7 @@
 		  "category"   : "",
       "tags"       : "poetry, haiku, and business",
 		  "url"        : "/blog/corporate-buddhism/",
-		  "date"       : "2015-10-03 13:01:00 +0100",
+		  "date"       : "2015-10-03 14:01:00 +0200",
 		  "shortdate"  : "October 03, 2015"
 		} ,
 	
@@ -149,7 +158,7 @@
 		  "category"   : "",
       "tags"       : "poetry, haiku, and amateur",
 		  "url"        : "/blog/poetry/",
-		  "date"       : "2015-07-29 13:01:00 +0100",
+		  "date"       : "2015-07-29 14:01:00 +0200",
 		  "shortdate"  : "July 29, 2015"
 		} ,
 	
@@ -158,7 +167,7 @@
 		  "category"   : "",
       "tags"       : "kiva, data science, and brussels",
 		  "url"        : "/projects/kiva-talk-brussels-data-science-community/",
-		  "date"       : "2015-05-06 00:55:00 +0100",
+		  "date"       : "2015-05-06 01:55:00 +0200",
 		  "shortdate"  : "May 06, 2015"
 		} ,
 	
@@ -167,7 +176,7 @@
 		  "category"   : "",
       "tags"       : "face detection, microsoft, age & gender prediction, and machine vision",
 		  "url"        : "/blog/age-prediction-child-diseases/",
-		  "date"       : "2015-05-01 17:00:00 +0100",
+		  "date"       : "2015-05-01 18:00:00 +0200",
 		  "shortdate"  : "May 01, 2015"
 		} ,
 	
@@ -176,7 +185,7 @@
 		  "category"   : "",
       "tags"       : "bootcamp, data science, and survival kit",
 		  "url"        : "/blog/survive-data-science-bootcamp/",
-		  "date"       : "2015-04-22 16:00:00 +0100",
+		  "date"       : "2015-04-22 17:00:00 +0200",
 		  "shortdate"  : "April 22, 2015"
 		} ,
 	
@@ -185,7 +194,7 @@
 		  "category"   : "",
       "tags"       : "haiku, poetry, america, and nyc",
 		  "url"        : "/blog/usa-picture-haikus/",
-		  "date"       : "2015-04-12 03:00:00 +0100",
+		  "date"       : "2015-04-12 04:00:00 +0200",
 		  "shortdate"  : "April 12, 2015"
 		} ,
 	
@@ -194,7 +203,7 @@
 		  "category"   : "",
       "tags"       : "topic models, microfinance, loans, development, kiva, d3, visualization, end2end, and deployment",
 		  "url"        : "/projects/kiva-loan-funding-predictor-project/",
-		  "date"       : "2015-04-07 12:00:00 +0100",
+		  "date"       : "2015-04-07 13:00:00 +0200",
 		  "shortdate"  : "April 07, 2015"
 		} ,
 	
@@ -203,7 +212,7 @@
 		  "category"   : "",
       "tags"       : "nlp, topic modelling, microfinance, loans, development, kiva, d3, and visualization",
 		  "url"        : "/projects/kiva-topic-modelling-project/",
-		  "date"       : "2015-03-13 12:00:00 +0000",
+		  "date"       : "2015-03-13 13:00:00 +0100",
 		  "shortdate"  : "March 13, 2015"
 		} ,
 	
@@ -212,7 +221,7 @@
 		  "category"   : "",
       "tags"       : "banking, target marketing, lift, customer ranking, logistic regression, knn, sklearn, d3, and visualization",
 		  "url"        : "/projects/banking-project/",
-		  "date"       : "2015-02-20 15:45:00 +0000",
+		  "date"       : "2015-02-20 16:45:00 +0100",
 		  "shortdate"  : "February 20, 2015"
 		} ,
 	
@@ -221,7 +230,7 @@
 		  "category"   : "",
       "tags"       : "haiku, poetry, and why not",
 		  "url"        : "/blog/data-science-haikus/",
-		  "date"       : "2015-02-15 22:20:00 +0000",
+		  "date"       : "2015-02-15 23:20:00 +0100",
 		  "shortdate"  : "February 15, 2015"
 		} ,
 	
@@ -230,7 +239,7 @@
 		  "category"   : "",
       "tags"       : "brain transfer, iq, eq, mba, and science",
 		  "url"        : "/blog/hugging-a-googler/",
-		  "date"       : "2015-02-08 12:10:00 +0000",
+		  "date"       : "2015-02-08 13:10:00 +0100",
 		  "shortdate"  : "February 08, 2015"
 		} ,
 	
@@ -239,7 +248,7 @@
 		  "category"   : "",
       "tags"       : "movies, linear regression, statsmodels, sklearn, and pyplot",
 		  "url"        : "/projects/movie-project/",
-		  "date"       : "2015-01-30 12:00:00 +0000",
+		  "date"       : "2015-01-30 13:00:00 +0100",
 		  "shortdate"  : "January 30, 2015"
 		} ,
 	
@@ -248,7 +257,7 @@
 		  "category"   : "",
       "tags"       : "data science, new york, food, and transport",
 		  "url"        : "/blog/week1/",
-		  "date"       : "2015-01-16 12:00:00 +0000",
+		  "date"       : "2015-01-16 13:00:00 +0100",
 		  "shortdate"  : "January 16, 2015"
 		} ,
 	
@@ -257,7 +266,7 @@
 		  "category"   : "",
       "tags"       : "data science, classification, machine learning, feature selection, and fun",
 		  "url"        : "/blog/hipster-or-not/",
-		  "date"       : "2015-01-12 20:07:00 +0000",
+		  "date"       : "2015-01-12 21:07:00 +0100",
 		  "shortdate"  : "January 12, 2015"
 		} ,
 	
@@ -266,7 +275,7 @@
 		  "category"   : "",
       "tags"       : "data science, interactive computing, and visualization",
 		  "url"        : "/blog/just-discovered-ipython/",
-		  "date"       : "2015-01-11 07:28:00 +0000",
+		  "date"       : "2015-01-11 08:28:00 +0100",
 		  "shortdate"  : "January 11, 2015"
 		} ,
 	
@@ -275,7 +284,7 @@
 		  "category"   : "",
       "tags"       : "data science and new york",
 		  "url"        : "/blog/welcome/",
-		  "date"       : "2014-12-26 14:18:00 +0000",
+		  "date"       : "2014-12-26 15:18:00 +0100",
 		  "shortdate"  : "December 26, 2014"
 		} 
 	
