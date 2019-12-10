@@ -167,95 +167,95 @@
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/articles/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/theme-setup/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/contact/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/projects/</loc>
-    <lastmod>2019-12-10T20:35:42+00:00</lastmod>
+    <lastmod>2019-12-10T21:57:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/projects/kiva-loan-funding-predictor-project/sankey.html</loc>
-    <lastmod>2015-04-03T18:46:39+01:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/kiva-topic-modelling-project/app/views/about.html</loc>
-    <lastmod>2015-03-12T22:36:16+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/kiva-topic-modelling-project/app/views/charts.html</loc>
-    <lastmod>2015-03-12T22:36:16+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/kiva-topic-modelling-project/app/views/fcc.html</loc>
-    <lastmod>2015-03-12T22:36:16+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/kiva-topic-modelling-project/app/views/kiva.html</loc>
-    <lastmod>2015-03-12T22:36:16+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/banking-project/ProfitHeatMap.html</loc>
-    <lastmod>2015-02-21T20:31:23+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/banking-project/LiftCurve.html</loc>
-    <lastmod>2015-02-21T20:31:23+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/banking-project/ROCCurve.html</loc>
-    <lastmod>2015-02-21T20:31:23+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>/projects/banking-project/ProfitCurve.html</loc>
-    <lastmod>2015-02-21T20:31:23+00:00</lastmod>
+    <lastmod>2019-12-10T21:56:24+00:00</lastmod>
     <priority>0.6</priority>
   </url>
 </urlset>
