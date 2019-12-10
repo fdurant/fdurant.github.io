@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2019-04-21T09:06:43+02:00</updated>
+<updated>2019-12-10T20:35:42+00:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -16,11 +16,68 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Reserved words]]></title>
+  <link rel="alternate" type="text/html" href="/blog/reserved-words/" />
+  <id>/blog/reserved-words</id>
+  <published>2019-12-10T23:59:00+00:00</published>
+  <updated>2019-12-10T23:59:00+00:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 id=&quot;python&quot;&gt;Python&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;continue or break&lt;br /&gt;
+assert None is False and True&lt;br /&gt;
+pass with class return&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;es6&quot;&gt;ES6&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;catch this void package&lt;br /&gt;
+default abstract interface&lt;br /&gt;
+private while native&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;c&quot;&gt;C&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;register auto&lt;br /&gt;
+sizeof char double int int&lt;br /&gt;
+short static unsigned&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;golang&quot;&gt;Golang&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;goto chan chan go&lt;br /&gt;
+fallthrough map struct switch select&lt;br /&gt;
+break case else defer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;turbo-pascal&quot;&gt;Turbo Pascal&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;destructor to string&lt;br /&gt;
+do not object procedure&lt;br /&gt;
+until then repeat&lt;/p&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/reserved-words/&quot;&gt;Reserved words&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 10, 2019.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Seven startup haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/seven-startup-haikus/" />
   <id>/blog/seven-startup-haikus</id>
-  <published>2019-04-21T02:08:45+02:00</published>
-  <updated>2019-04-21T02:08:45+02:00</updated>
+  <published>2019-04-21T01:08:45+01:00</published>
+  <updated>2019-04-21T01:08:45+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -92,8 +149,8 @@ Compressed Aire explodes&lt;/p&gt;
   <title type="html"><![CDATA['Brexit' least popular baby name in UK, ERG study finds]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-uk/" />
   <id>/projects/firstname-network-uk</id>
-  <published>2019-04-01T12:00:00+02:00</published>
-  <updated>2019-04-01T12:00:00+02:00</updated>
+  <published>2019-04-01T11:00:00+01:00</published>
+  <updated>2019-04-01T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -237,8 +294,8 @@ sorted then.&lt;/p&gt;
   <title type="html"><![CDATA[Five London Haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/five-london-haikus/" />
   <id>/blog/five-london-haikus</id>
-  <published>2018-12-02T01:15:00+01:00</published>
-  <updated>2018-12-02T01:15:00+01:00</updated>
+  <published>2018-12-02T00:15:00+00:00</published>
+  <updated>2018-12-02T00:15:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -295,8 +352,8 @@ Be A Banana&lt;/p&gt;
   <title type="html"><![CDATA[Karma points on the commute]]></title>
   <link rel="alternate" type="text/html" href="/blog/karma-points-on-the-commute/" />
   <id>/blog/karma-points-on-the-commute</id>
-  <published>2018-10-06T13:45:00+02:00</published>
-  <updated>2018-10-06T13:45:00+02:00</updated>
+  <published>2018-10-06T12:45:00+01:00</published>
+  <updated>2018-10-06T12:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -384,8 +441,8 @@ the new entrants’ eyes. Such hope, such happiness, such health!&lt;/p&gt;
   <title type="html"><![CDATA[London calling. Or is it Europe?]]></title>
   <link rel="alternate" type="text/html" href="/blog/london-calling-or-is-it-europe/" />
   <id>/blog/london-calling-or-is-it-europe</id>
-  <published>2018-09-06T15:45:00+02:00</published>
-  <updated>2018-09-06T15:45:00+02:00</updated>
+  <published>2018-09-06T14:45:00+01:00</published>
+  <updated>2018-09-06T14:45:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -447,8 +504,8 @@ in my case, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Pint_glass&quot;&gt
   <title type="html"><![CDATA[Truisms to counter company culture traps]]></title>
   <link rel="alternate" type="text/html" href="/blog/truisms-to-counter-company-culture-traps/" />
   <id>/blog/truisms-to-counter-company-culture-traps</id>
-  <published>2018-07-26T18:00:00+02:00</published>
-  <updated>2018-07-26T18:00:00+02:00</updated>
+  <published>2018-07-26T17:00:00+01:00</published>
+  <updated>2018-07-26T17:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -746,8 +803,8 @@ and use it.&lt;/p&gt;
   <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
   <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
   <id>/blog/the-more-things-change</id>
-  <published>2018-05-21T12:00:00+02:00</published>
-  <updated>2018-05-21T12:00:00+02:00</updated>
+  <published>2018-05-21T11:00:00+01:00</published>
+  <updated>2018-05-21T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -838,8 +895,8 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T12:00:00+02:00</published>
-  <updated>2018-03-25T12:00:00+02:00</updated>
+  <published>2018-03-25T11:00:00+01:00</published>
+  <updated>2018-03-25T11:00:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1044,8 +1101,8 @@ quite some competition out there.&lt;/p&gt;
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T19:00:00+01:00</published>
-  <updated>2018-01-20T19:00:00+01:00</updated>
+  <published>2018-01-20T18:00:00+00:00</published>
+  <updated>2018-01-20T18:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1102,8 +1159,8 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T21:45:00+01:00</published>
-  <updated>2017-12-29T21:45:00+01:00</updated>
+  <published>2017-12-29T20:45:00+00:00</published>
+  <updated>2017-12-29T20:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1224,8 +1281,8 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T01:00:01+01:00</published>
-  <updated>2017-11-18T01:00:01+01:00</updated>
+  <published>2017-11-18T00:00:01+00:00</published>
+  <updated>2017-11-18T00:00:01+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1278,8 +1335,8 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T16:45:00+01:00</published>
-  <updated>2016-10-30T16:45:00+01:00</updated>
+  <published>2016-10-30T15:45:00+00:00</published>
+  <updated>2016-10-30T15:45:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1324,8 +1381,8 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T08:00:00+01:00</published>
-  <updated>2016-03-06T08:00:00+01:00</updated>
+  <published>2016-03-06T07:00:00+00:00</published>
+  <updated>2016-03-06T07:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1397,8 +1454,8 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T23:40:00+01:00</published>
-  <updated>2016-03-01T23:40:00+01:00</updated>
+  <published>2016-03-01T22:40:00+00:00</published>
+  <updated>2016-03-01T22:40:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1461,8 +1518,8 @@ public procurement - if only to give start-ups in this field a reasonable chance
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+01:00</published>
-  <updated>2016-01-16T00:00:00+01:00</updated>
+  <published>2016-01-16T00:00:00+00:00</published>
+  <updated>2016-01-16T00:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1495,8 +1552,8 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T16:00:00+01:00</published>
-  <updated>2015-12-13T16:00:00+01:00</updated>
+  <published>2015-12-13T15:00:00+00:00</published>
+  <updated>2015-12-13T15:00:00+00:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1532,8 +1589,8 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T14:01:00+02:00</published>
-  <updated>2015-10-03T14:01:00+02:00</updated>
+  <published>2015-10-03T13:01:00+01:00</published>
+  <updated>2015-10-03T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1589,8 +1646,8 @@ Beautifies the truth&lt;/p&gt;
   <title type="html"><![CDATA[Musings from a distant present]]></title>
   <link rel="alternate" type="text/html" href="/blog/poetry/" />
   <id>/blog/poetry</id>
-  <published>2015-07-29T14:01:00+02:00</published>
-  <updated>2015-07-29T14:01:00+02:00</updated>
+  <published>2015-07-29T13:01:00+01:00</published>
+  <updated>2015-07-29T13:01:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1646,8 +1703,8 @@ as it was today&lt;/p&gt;
   <title type="html"><![CDATA[Presenting the Kiva project to the Brussels Data Science Community]]></title>
   <link rel="alternate" type="text/html" href="/projects/kiva-talk-brussels-data-science-community/" />
   <id>/projects/kiva-talk-brussels-data-science-community</id>
-  <published>2015-05-06T01:55:00+02:00</published>
-  <updated>2015-05-06T01:55:00+02:00</updated>
+  <published>2015-05-06T00:55:00+01:00</published>
+  <updated>2015-05-06T00:55:00+01:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1708,77 +1765,6 @@ global productivity of money.&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/projects/kiva-talk-brussels-data-science-community/&quot;&gt;Presenting the Kiva project to the Brussels Data Science Community&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 06, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Age prediction's child diseases]]></title>
-  <link rel="alternate" type="text/html" href="/blog/age-prediction-child-diseases/" />
-  <id>/blog/age-prediction-child-diseases</id>
-  <published>2015-05-01T18:00:00+02:00</published>
-  <updated>2015-05-01T18:00:00+02:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;&lt;img style=&quot;float:left; margin:0px;&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_46_estimated_38_360x520px.png&quot; /&gt;
-&lt;img style=&quot;float:left; margin-left:51px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_46_estimated_39_600x800px.png&quot; /&gt;
-&lt;img style=&quot;float:left; margin-left:51px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_42_600x800px.png&quot; /&gt;
-&lt;img style=&quot;float:left; margin-left:51px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_43_440x540px.png&quot; /&gt;
-&lt;img style=&quot;float:left; margin-left:51px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_46_estimated_43_360x510px.png&quot; /&gt;
-&lt;img style=&quot;float:left; margin-left:51px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_46_estimated_45_400x540px.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br style=&quot;clear:both&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;clear:both; float:right; margin:5px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_46_estimated_47_550x750px.png&quot; /&gt;
-In this &lt;a href=&quot;http://www.secondmachineage.com&quot;&gt;(second) machine age&lt;/a&gt;, it was only a matter of time before
-machines would start guessing our age. Researchers from Microsoft have
-recently released an online tool called “&lt;a href=&quot;http://how-old.net&quot;&gt;How Old Do I
-Look?&lt;/a&gt;”. When given a photo, the tool will not only tell you how
-old you are, but also your gender.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;clear:both; float:right; margin:5px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_48_440x550px.png&quot; /&gt;
-Since one is never too old to learn
-— especially about oneself — I gave
-it a go. Contrary to this &lt;a href=&quot;http://www.theguardian.com/media/2015/may/01/how-old-do-i-look-another-way-to-feel-bad-about-yourself-online&quot;&gt;rather biased article in The
-Guardian&lt;/a&gt;, I wanted to use more than a single
-data point per person to evaluate the predictor’s quality. (Data) Science oblige!&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;clear:both; float:right; margin:5px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_54_460x560px.png&quot; /&gt;
-Enter my often mocked selfie archive, painstakenly collected over the
-years for exactly this kind of scientific purpose. Thirteen pictures
-from the last year were pseudo-randomly selected, with some variation in
-hairstyle, location, sunlight, season, hours of sleep, bespectacledness, and headwear.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;clear:both; float:right; margin:5px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_54_580x700px.png&quot; /&gt;
-Let’s start with the good news: in 13 out of 13 cases, my gender was determined as
-being of the &lt;strong&gt;male&lt;/strong&gt; kind. To whom it may concern, and for the record: this prediction is &lt;strong&gt;100%
-congruent with the actual situation&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;clear:both; float:right; margin:5px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_55_420x540px.png&quot; /&gt;
-Then again, according to Microsoft, my &lt;strong&gt;average age&lt;/strong&gt; over the last year
-was (38 + 39 + 42 + 43 + 43 + 45 + 47 + 48 + 54 + 54 + 55 + 55 + 58) /
-13 = &lt;strong&gt;47,8&lt;/strong&gt; years. This is &lt;strong&gt;almost 2 years more than the actual&lt;/strong&gt;
-average age I had when the photos were taken. Not brilliant, but not
-that bad either, given the relatively small test sample size.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;clear:both; float:right; margin:5px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_55_470x570px.png&quot; /&gt;
-With a &lt;strong&gt;standard deviation&lt;/strong&gt; of &lt;strong&gt;6.7 years&lt;/strong&gt; (about 1/7 of the
-average), the age predictor does allow itself a fair amount of
-variability. As the saying goes: &lt;em&gt;with age comes wisdom, but sometimes age comes
-alone.&lt;/em&gt; I’m talking about the predictor, of course — it may
-still have some child diseases to outgrow.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;clear:both; float:right; margin:5px&quot; width=&quot;75&quot; src=&quot;/images/microsoft_how_old/actual_45_estimated_58_603x950px.png&quot; /&gt;
-On a less serious and scientific note: both my daughters will no doubt revel in joy that &lt;strong&gt;funny hats&lt;/strong&gt; do not make a
-middle-aged person — let alone a father — look any
-younger. Quite the contrary.&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/age-prediction-child-diseases/&quot;&gt;Age prediction's child diseases&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
