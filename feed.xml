@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2020-10-11T08:30:54+02:00</updated>
+<updated>2021-02-14T15:23:54-06:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -13,14 +13,117 @@
 </author>
 
 
-  
+<entry>
+  <title type="html"><![CDATA[Le Wagon Brussels Talk]]></title>
+  <link rel="alternate" type="text/html" href="/blog/le-wagon-talk/" />
+  <id>/blog/le-wagon-talk</id>
+  <published>2021-02-14T00:00:00-06:00</published>
+  <updated>2021-02-14T00:00:00-06:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Change your life, learn to code&lt;/em&gt; is the tagline of &lt;a href=&quot;https://www.lewagon.com&quot;&gt;Le Wagon&lt;/a&gt;, a top-ranked
+coding school with a global presence (40+ cities) that offers bootcamps in
+&lt;a href=&quot;https://www.lewagon.com/data-science-course/full-time&quot;&gt;Data Science&lt;/a&gt; and &lt;a href=&quot;https://www.lewagon.com/web-development-course/full-time&quot;&gt;Web Development&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Last Wednesday, Data Science student &lt;a href=&quot;https://www.linkedin.com/in/anne-sophie-hannes-39a59a151/&quot;&gt;Anne-Sophie Hannes&lt;/a&gt; &lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot;&gt;interviewed&lt;/a&gt;
+me about my own bootcamp experience (at &lt;a href=&quot;https://www.thisismetis.com&quot;&gt;another school&lt;/a&gt;), and how it
+changed my career. We also talked about my daily life of a co-founder &amp;amp; CTO at
+&lt;a href=&quot;http://ester.ai/&quot;&gt;Ester&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot;&gt;A full recording of the talk is available&lt;/a&gt;. Registration is required.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot; target=&quot;_new&quot;&gt;
+	&lt;img src=&quot;/images/Le_Wagon_Talk_20210210_01.jpeg&quot; alt=&quot;Frederik Durant interviewed by Anne-Sophie Hannes&quot; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here are a few summarizing statements:&lt;/p&gt;
+
+&lt;h3 id=&quot;cook-your-own-career&quot;&gt;Cook your own career&lt;/h3&gt;
+
+&lt;p&gt;Combining two seemingly distinct areas of interest (e.g. human language and computing) can go a long way
+in terms of career path. But when you’re stuck in a (real or perceived) dead-end, don’t hesitate to
+take a step back and/or aside. That is, if you’re willing to take the risk. At the very least, it will
+bring you somewhere else.&lt;/p&gt;
+
+&lt;h3 id=&quot;show-dont-tell&quot;&gt;Show, don’t tell&lt;/h3&gt;
+
+&lt;p&gt;Whether you - or others - call you(rself) a web developer, data analyst, data scientist, ML engineer
+or AI engineer doesn’t matter all that much. Neither does trying to tick off all 27 boxes on a
+job profile. What does matter is a demonstrable portfolio of projects, and a passion for
+building stuff that works. Companies don’t hire profiles, they hire people. Make them want you.&lt;/p&gt;
+
+&lt;h3 id=&quot;vectorize-your-beverages&quot;&gt;Vectorize your beverages&lt;/h3&gt;
+
+&lt;p&gt;The flavor experience of wine or beer is not only about the actual beverage, but also about consumers’
+hyper-personal biological receptors, the shape and color of the container that holds the drink, the
+circumstances in which the drinks are consumed and many other contextual variables. &lt;a href=&quot;http://ester.ai/&quot;&gt;Ester&lt;/a&gt;
+aims to learn product representations from data sources that are as comprehensive as possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;never-waste-a-good-crisis&quot;&gt;Never waste a good crisis&lt;/h3&gt;
+
+&lt;p&gt;In this world, unpredictable things happen. Without Covid, Ester would probably have had another
+CTO. The worldwide crisis that wreaks havoc on one side, also opens opportunities for fast-movers that
+are able to adapt on the other side. In the food &amp;amp; beverage industry, the strong push towards e-commerce
+is forcing incumbent retailers to accelerate their digital transformation strategies and programs.
+As an independent provider of flavor intelligence, &lt;a href=&quot;http://ester.ai/&quot;&gt;Ester&lt;/a&gt; help retailers provide their customers
+a better service each time they figure out which products to like, choose and buy.&lt;/p&gt;
+
+&lt;h3 id=&quot;organize-your-chaos&quot;&gt;Organize your chaos&lt;/h3&gt;
+
+&lt;p&gt;Startups tend to be inherently chaotic during the iterative search for the first minimum viable
+product (MVP) that has mimimum acceptable (model) performance (MAP). Precisely for that reason, it
+is vital to automate Continuous Integration and Continuous Deployment (CI/CD) processes
+early enough in the game. That is the only way to keep enough of the scarce resources available
+for actual value-added developer work. Just as vital is to pick the right cloud platform
+&lt;em&gt;abstraction layer&lt;/em&gt; to develop on. If too high-level, there’s not enough flexibility. If too
+low-level, there’s too much infrastructure to manage. Personally, we try to be Kubernetes-neutral
+during the startup stage. That means Docker images and containers (and the code they run) are
+the lowest infrastructural elements we think we can afford, time-wise.&lt;/p&gt;
+
+&lt;h3 id=&quot;follow-fast-and-say-no---no---no&quot;&gt;Follow fast, and say no - no - no&lt;/h3&gt;
+
+&lt;p&gt;When making technology choices, it pays to be a little conservative when going from nowhere
+to somewhere in a matter of weeks. Suboptimal solutions that are good enough but delivered
+in time are much better (at first) than using the latest and greatest hyped yet risky
+technology. Saying &lt;em&gt;no&lt;/em&gt; to that newest cool technology (GPT-3, anyone?) is hard, but right.
+Dare go against the stream!&lt;/p&gt;
+
+&lt;h3 id=&quot;could-you-smell-that-for-me-please&quot;&gt;Could you smell that for me, please?&lt;/h3&gt;
+
+&lt;p&gt;Digitized senses (aka artificial taste and smell) are an active area of research and development.
+Companies like &lt;a href=&quot;https://yesse.tech&quot;&gt;Yesse Technologies&lt;/a&gt; are creating the building blocks for artificial mouths and
+noses that could augment the current sensory analyses conducted by human tasters in &lt;a href=&quot;https://www.kuleuven.be/verstrepen/en&quot;&gt;scientific labs
+like prof. Kevin Vertrepen’s&lt;/a&gt; at KULeuven/VIB.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-steady-go&quot;&gt;Learn, steady, go!&lt;/h3&gt;
+
+&lt;p&gt;Last, but not least: surviving a bootcamp was already hard enough in pre-Covid times.
+Don’t stress out too much about everything that doesn’t fit you, instead focus on
+developing your strengths. Use your gut instinct, make choices and go for it.
+Don’t waste too much time planning how to become successful. Time only runs forward!&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot; target=&quot;_new&quot;&gt;
+	&lt;img src=&quot;/images/Le_Wagon_Talk_20210210_02.jpeg&quot; alt=&quot;Frederik Durant interviewed by Anne-Sophie Hannes&quot; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/le-wagon-talk/&quot;&gt;Le Wagon Brussels Talk&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 14, 2021.&lt;/p&gt;</content>
+</entry>
+
 
 <entry>
   <title type="html"><![CDATA[London in pictures]]></title>
   <link rel="alternate" type="text/html" href="/blog/london-video/" />
   <id>/blog/london-video</id>
-  <published>2020-10-11T00:00:00+02:00</published>
-  <updated>2020-10-11T00:00:00+02:00</updated>
+  <published>2020-10-11T00:00:00-05:00</published>
+  <updated>2020-10-11T00:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -34,14 +137,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Reserved words]]></title>
   <link rel="alternate" type="text/html" href="/blog/reserved-words/" />
   <id>/blog/reserved-words</id>
-  <published>2019-12-11T00:59:00+01:00</published>
-  <updated>2019-12-11T00:59:00+01:00</updated>
+  <published>2019-12-10T17:59:00-06:00</published>
+  <updated>2019-12-10T17:59:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -87,18 +188,16 @@ do not object procedure&lt;br /&gt;
 until then repeat&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/reserved-words/&quot;&gt;Reserved words&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 11, 2019.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/reserved-words/&quot;&gt;Reserved words&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 10, 2019.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Seven startup haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/seven-startup-haikus/" />
   <id>/blog/seven-startup-haikus</id>
-  <published>2019-04-21T02:08:45+02:00</published>
-  <updated>2019-04-21T02:08:45+02:00</updated>
+  <published>2019-04-20T19:08:45-05:00</published>
+  <updated>2019-04-20T19:08:45-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -160,18 +259,16 @@ As noisy signals erupt&lt;br /&gt;
 Compressed Aire explodes&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/seven-startup-haikus/&quot;&gt;Seven startup haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 21, 2019.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/seven-startup-haikus/&quot;&gt;Seven startup haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 20, 2019.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA['Brexit' least popular baby name in UK, ERG study finds]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-uk/" />
   <id>/projects/firstname-network-uk</id>
-  <published>2019-04-01T12:00:00+02:00</published>
-  <updated>2019-04-01T12:00:00+02:00</updated>
+  <published>2019-04-01T05:00:00-05:00</published>
+  <updated>2019-04-01T05:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -288,7 +385,7 @@ delusions and common-sense reality.&lt;/p&gt;
 
 &lt;figure&gt;
 	&lt;img src=&quot;/images/cheese_smog.jpg&quot; alt=&quot;Dr. Made-Up Cheese-Smog&quot; /&gt;
-	&lt;figcaption&gt;ERG&#39;s lead scientist dr. Made-Up Cheese-Smog
+	&lt;figcaption&gt;ERG's lead scientist dr. Made-Up Cheese-Smog
 	still baffled over the surprising research results, after all
 	those years&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -309,20 +406,18 @@ sorted then.&lt;/p&gt;
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Five London Haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/five-london-haikus/" />
   <id>/blog/five-london-haikus</id>
-  <published>2018-12-02T01:15:00+01:00</published>
-  <updated>2018-12-02T01:15:00+01:00</updated>
+  <published>2018-12-01T18:15:00-06:00</published>
+  <updated>2018-12-01T18:15:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
     
   </author>
-  <content type="html">&lt;h1 id=&quot;mundo-lingomundolingo&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Mundo-Lingo-London-Language-Exchange/&quot;&gt;Mundo Lingo&lt;/a&gt;&lt;/h1&gt;
+  <content type="html">&lt;h1 id=&quot;mundo-lingo&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Mundo-Lingo-London-Language-Exchange/&quot;&gt;Mundo Lingo&lt;/a&gt;&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Multi-coloured flags&lt;br /&gt;
@@ -363,18 +458,16 @@ Be A Banana&lt;/p&gt;
 &lt;/blockquote&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/five-london-haikus/&quot;&gt;Five London Haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 02, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/five-london-haikus/&quot;&gt;Five London Haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 01, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Karma points on the commute]]></title>
   <link rel="alternate" type="text/html" href="/blog/karma-points-on-the-commute/" />
   <id>/blog/karma-points-on-the-commute</id>
-  <published>2018-10-06T13:45:00+02:00</published>
-  <updated>2018-10-06T13:45:00+02:00</updated>
+  <published>2018-10-06T06:45:00-05:00</published>
+  <updated>2018-10-06T06:45:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -456,14 +549,12 @@ the new entrants’ eyes. Such hope, such happiness, such health!&lt;/p&gt;
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[London calling. Or is it Europe?]]></title>
   <link rel="alternate" type="text/html" href="/blog/london-calling-or-is-it-europe/" />
   <id>/blog/london-calling-or-is-it-europe</id>
-  <published>2018-09-06T15:45:00+02:00</published>
-  <updated>2018-09-06T15:45:00+02:00</updated>
+  <published>2018-09-06T08:45:00-05:00</published>
+  <updated>2018-09-06T08:45:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -519,14 +610,12 @@ in my case, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Pint_glass&quot;&gt
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Truisms to counter company culture traps]]></title>
   <link rel="alternate" type="text/html" href="/blog/truisms-to-counter-company-culture-traps/" />
   <id>/blog/truisms-to-counter-company-culture-traps</id>
-  <published>2018-07-26T18:00:00+02:00</published>
-  <updated>2018-07-26T18:00:00+02:00</updated>
+  <published>2018-07-26T11:00:00-05:00</published>
+  <updated>2018-07-26T11:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -599,7 +688,7 @@ aspects of corporate culture from doing any further harm. &lt;em&gt;Or not.&lt;/
 
 &lt;p&gt;So, to whom it may concern:&lt;/p&gt;
 
-&lt;h3 id=&quot;adapt-or-die&quot;&gt;#1. Adapt or die&lt;/h3&gt;
+&lt;h3 id=&quot;1-adapt-or-die&quot;&gt;#1. Adapt or die&lt;/h3&gt;
 
 &lt;p&gt;Whether it’s your job, your life or your company: nothing lasts for
 ever. As evolution has shown, species can survive over thousands of
@@ -629,7 +718,7 @@ or you will die.&lt;/p&gt;
 &lt;strong&gt;the biggest risk is not to take enough risk, or not fast
 enough&lt;/strong&gt;. Reinvent yourself, or someone else will.&lt;/p&gt;
 
-&lt;h3 id=&quot;high-priests-are-just-women-in-funny-dresses&quot;&gt;#2. High-priests are just (wo)men in funny dresses&lt;/h3&gt;
+&lt;h3 id=&quot;2-high-priests-are-just-women-in-funny-dresses&quot;&gt;#2. High-priests are just (wo)men in funny dresses&lt;/h3&gt;
 
 &lt;p&gt;In any long-standing organization, culture is just as much a
 matter of emotional experience as of rational learning. That’s why it
@@ -659,7 +748,7 @@ to &lt;em&gt;unmask&lt;/em&gt; the high-priests, and replace a sufficient number
 them&lt;/strong&gt; with people who can credibly represent the next cultural
 wave.&lt;/p&gt;
 
-&lt;h3 id=&quot;dont-just-allow-agile-and-devops-embrace-them&quot;&gt;#3. Don’t just &lt;em&gt;allow&lt;/em&gt; Agile and DevOps: &lt;em&gt;embrace&lt;/em&gt; them&lt;/h3&gt;
+&lt;h3 id=&quot;3-dont-just-allow-agile-and-devops-embrace-them&quot;&gt;#3. Don’t just &lt;em&gt;allow&lt;/em&gt; Agile and DevOps: &lt;em&gt;embrace&lt;/em&gt; them&lt;/h3&gt;
 
 &lt;p&gt;Any software professional who hasn’t been asleep for the last ten to fifteen
 years, knows that the &lt;a href=&quot;http://agilemanifesto.org&quot;&gt;&lt;strong&gt;Agile Movement&lt;/strong&gt;&lt;/a&gt;, the &lt;a href=&quot;https://www.atlassian.com/devops&quot;&gt;&lt;strong&gt;DevOps approach&lt;/strong&gt;&lt;/a&gt; and related
@@ -681,7 +770,7 @@ adapt&lt;/strong&gt; — proving on the spot that they never will be.&lt;/p&gt;
 
 &lt;p&gt;Simple advice: Don’t listen to them, and &lt;strong&gt;do the right thing&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;meet-less-decide-more&quot;&gt;#4. Meet less, decide more&lt;/h3&gt;
+&lt;h3 id=&quot;4-meet-less-decide-more&quot;&gt;#4. Meet less, decide more&lt;/h3&gt;
 
 &lt;p&gt;The number and quality of decisions is inversely proportional to the
 number of meeting platforms and participants involved in making
@@ -709,7 +798,7 @@ example in the &lt;a href=&quot;https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72
 stake, thoughtful stability may make sense; when companies need to make
 and execute decisions fast, &lt;strong&gt;veto power kills progress&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;think-networks-not-hyperdimensional-spaces&quot;&gt;#5. Think networks, not hyperdimensional spaces&lt;/h3&gt;
+&lt;h3 id=&quot;5-think-networks-not-hyperdimensional-spaces&quot;&gt;#5. Think networks, not hyperdimensional spaces&lt;/h3&gt;
 
 &lt;p&gt;There is a good reason why MBA students all over the world are
 commonly exposed to &lt;a href=&quot;http://2x2matrix.com/downloads/bcg.pdf&quot;&gt;Boston Consulting Group’s 2x2
@@ -757,7 +846,7 @@ principles of our era: &lt;strong&gt;more complex yet less complicated&lt;/stron
 organizations that organize themselves around simple principles, allow
 for &lt;strong&gt;more adaptability, flexibility and growth.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;use-generally-available-state-of-the-art-it&quot;&gt;#6. Use generally available, state-of-the-art IT&lt;/h3&gt;
+&lt;h3 id=&quot;6-use-generally-available-state-of-the-art-it&quot;&gt;#6. Use generally available, state-of-the-art IT&lt;/h3&gt;
 
 &lt;p&gt;The more complicated an organization is (re)designed and (re)built, the harder
 it is for its collaborators to find who is responsible for
@@ -781,7 +870,7 @@ your own, then buy one. That is, if you have the time.&lt;/p&gt;
 &lt;p&gt;But first and foremost, hire and train your proverbial truck drivers!
 &lt;em&gt;They&lt;/em&gt; are the new bottleneck.&lt;/p&gt;
 
-&lt;h3 id=&quot;want-to-innovate-build-the-path-to-production&quot;&gt;#7. Want to innovate? Build the path to production&lt;/h3&gt;
+&lt;h3 id=&quot;7-want-to-innovate-build-the-path-to-production&quot;&gt;#7. Want to innovate? Build the path to production&lt;/h3&gt;
 
 &lt;p&gt;To play the &lt;strong&gt;innovation game&lt;/strong&gt;, many companies feel the need to
 externalize their efforts in so-called &lt;strong&gt;skunkworks or
@@ -818,14 +907,12 @@ and use it.&lt;/p&gt;
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
   <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
   <id>/blog/the-more-things-change</id>
-  <published>2018-05-21T12:00:00+02:00</published>
-  <updated>2018-05-21T12:00:00+02:00</updated>
+  <published>2018-05-21T05:00:00-05:00</published>
+  <updated>2018-05-21T05:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -910,14 +997,12 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T12:00:00+02:00</published>
-  <updated>2018-03-25T12:00:00+02:00</updated>
+  <published>2018-03-25T05:00:00-05:00</published>
+  <updated>2018-03-25T05:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -926,7 +1011,7 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
   <content type="html">&lt;p&gt;We all make mistakes in life, don’t we? Especially when we’re at work.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/errare-humanum-est.jpg&quot; alt=&quot;Photo of eraser gum with inscription &#39;errare humanum est&#39;&quot; /&gt;
+	&lt;img src=&quot;/images/errare-humanum-est.jpg&quot; alt=&quot;Photo of eraser gum with inscription 'errare humanum est'&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Here’s my &lt;strong&gt;personal top-10&lt;/strong&gt; of professional fails (so far), carefully collected over the years.
@@ -935,7 +1020,7 @@ situations, to outright unforgivable actions.&lt;/p&gt;
 
 &lt;p&gt;Enjoy!&lt;/p&gt;
 
-&lt;h3 id=&quot;driving-180-kmh-with-a-harddisk-full-of-data&quot;&gt;#10. Driving 180 km/h with a harddisk full of data&lt;/h3&gt;
+&lt;h3 id=&quot;10-driving-180-kmh-with-a-harddisk-full-of-data&quot;&gt;#10. Driving 180 km/h with a harddisk full of data&lt;/h3&gt;
 
 &lt;p&gt;More than twenty years ago, when I was still in my twenties and
 therefore immortal,
@@ -952,7 +1037,7 @@ I swore to never do that again.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;Made the deadline&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;Almost made the deadline&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;stomach-problems-on-an-intercontinental-flight&quot;&gt;#9. Stomach problems on an intercontinental flight&lt;/h3&gt;
+&lt;h3 id=&quot;9-stomach-problems-on-an-intercontinental-flight&quot;&gt;#9. Stomach problems on an intercontinental flight&lt;/h3&gt;
 
 &lt;p&gt;What do you get when you combine a week of jetlag and lack of sleep
 with a chicken curry inflight meal, and a glass of port?&lt;/p&gt;
@@ -964,7 +1049,7 @@ carrying the British Airways logo — a real collector’s item!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;deep respect&lt;/strong&gt; for flight attendants and airport paramedics&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;embarrassing walk&lt;/strong&gt; in BA pajamas through Heathrow transit zone&lt;/p&gt;
 
-&lt;h3 id=&quot;not-checking-company-critical-backup-tapes&quot;&gt;#8. Not checking company-critical backup tapes&lt;/h3&gt;
+&lt;h3 id=&quot;8-not-checking-company-critical-backup-tapes&quot;&gt;#8. Not checking company-critical backup tapes&lt;/h3&gt;
 
 &lt;p&gt;This is a classic.&lt;/p&gt;
 
@@ -983,7 +1068,7 @@ full of fault-tolerant RAID disks.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;never waste a good crisis&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;heart rate&lt;/strong&gt; and &lt;strong&gt;blood pressure&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;firing-a-key-person-in-the-team-and-then-quitting&quot;&gt;#7. Firing a key person in the team, and then quitting&lt;/h3&gt;
+&lt;h3 id=&quot;7-firing-a-key-person-in-the-team-and-then-quitting&quot;&gt;#7. Firing a key person in the team, and then quitting&lt;/h3&gt;
 
 &lt;p&gt;At that same startup, I had to let go an important team member,
 knowing that I might resign myself a week later. Which I did, once I
@@ -994,7 +1079,7 @@ got the green light from my new employer.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;the company survived&lt;/strong&gt;, of course, at least for a while&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: there’s little fun in dealing with &lt;strong&gt;ethical dilemmas&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;agreeing-to-get-paid-half-in-money-half-in-shares&quot;&gt;#6. Agreeing to get paid half in money, half in shares&lt;/h3&gt;
+&lt;h3 id=&quot;6-agreeing-to-get-paid-half-in-money-half-in-shares&quot;&gt;#6. Agreeing to get paid half in money, half in shares&lt;/h3&gt;
 
 &lt;p&gt;In the mid-noughties, when I was a freelancer building speech-driven
 phone applications, I was called in to program the one and only Beavis
@@ -1014,7 +1099,7 @@ thing I’ve ever worked on. But also the least well paid.&lt;/p&gt;
 
 &lt;p&gt;So, what else did I suck at?&lt;/p&gt;
 
-&lt;h3 id=&quot;telling-political-jokes-to-foreign-co-workers&quot;&gt;#5. Telling political jokes to foreign co-workers&lt;/h3&gt;
+&lt;h3 id=&quot;5-telling-political-jokes-to-foreign-co-workers&quot;&gt;#5. Telling political jokes to foreign co-workers&lt;/h3&gt;
 
 &lt;p&gt;Over lunch at work, I once jokingly made a comment to a French project
 partner about “Hirochirac” — the
@@ -1033,7 +1118,7 @@ espressos and cappuccinos.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;Follow the international news&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;Discuss it with locals&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;not-putting-all-contractual-clauses-on-paper&quot;&gt;#4. Not putting all contractual clauses on paper&lt;/h3&gt;
+&lt;h3 id=&quot;4-not-putting-all-contractual-clauses-on-paper&quot;&gt;#4. Not putting all contractual clauses on paper&lt;/h3&gt;
 
 &lt;p&gt;When joining a Belgian company that had just been acquired by a very
 well funded Silicon Valley startup, I was promised a sizeable amount of
@@ -1051,7 +1136,7 @@ less than a billion dollars. A small part of which could have been mine.&lt;/p&g
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;I could have made some decent money&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;I didn’t&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;agreeing-to-split-an-rd-team-in-r-and-d-subteams&quot;&gt;#3. Agreeing to split an R&amp;amp;D team in R and D subteams&lt;/h3&gt;
+&lt;h3 id=&quot;3-agreeing-to-split-an-rd-team-in-r-and-d-subteams&quot;&gt;#3. Agreeing to split an R&amp;amp;D team in R and D subteams&lt;/h3&gt;
 
 &lt;p&gt;A couple of years ago, my boss wanted to make sure that the R&amp;amp;D team I
 was leading would spend enough time on innovative research, next to
@@ -1072,7 +1157,7 @@ fall apart in two camps: the “winners” (researchers) and the “losers” (d
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: I had been &lt;strong&gt;loyal to the chief&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: I was &lt;strong&gt;squeezed as a middle manager&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;telling-truth-to-ceo-bypassing-local-boss&quot;&gt;#2. Telling truth to CEO, bypassing local boss&lt;/h3&gt;
+&lt;h3 id=&quot;2-telling-truth-to-ceo-bypassing-local-boss&quot;&gt;#2. Telling truth to CEO, bypassing local boss&lt;/h3&gt;
 
 &lt;p&gt;The daughter company from item #4 was in dire straits, so the
 mother company CEO decided to cut his losses and pull the
@@ -1092,7 +1177,7 @@ think. I never checked.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: Keep your &lt;strong&gt;self-respect&lt;/strong&gt; by staying &lt;strong&gt;loyal to your own beliefs&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: Be prepared to &lt;strong&gt;take the bullet&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;send-blame-mail-to-team-member-for-assumed-lack-of-motivation-with-whole-team-in-cc&quot;&gt;#1. Send blame mail to team member for assumed lack of motivation, with whole team in Cc:&lt;/h3&gt;
+&lt;h3 id=&quot;1-send-blame-mail-to-team-member-for-assumed-lack-of-motivation-with-whole-team-in-cc&quot;&gt;#1. Send blame mail to team member for assumed lack of motivation, with whole team in Cc:&lt;/h3&gt;
 
 &lt;p&gt;A project team member wrote to the team that she was unable to perform a certain task
 by a certain deadline, giving a reason that I deemed bogus. In a
@@ -1116,14 +1201,12 @@ quite some competition out there.&lt;/p&gt;
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T19:00:00+01:00</published>
-  <updated>2018-01-20T19:00:00+01:00</updated>
+  <published>2018-01-20T12:00:00-06:00</published>
+  <updated>2018-01-20T12:00:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1174,14 +1257,12 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T21:45:00+01:00</published>
-  <updated>2017-12-29T21:45:00+01:00</updated>
+  <published>2017-12-29T14:45:00-06:00</published>
+  <updated>2017-12-29T14:45:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1296,14 +1377,12 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T01:00:01+01:00</published>
-  <updated>2017-11-18T01:00:01+01:00</updated>
+  <published>2017-11-17T18:00:01-06:00</published>
+  <updated>2017-11-17T18:00:01-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1346,18 +1425,16 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BJT5BUZr_9Y?ecver=2&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/unexpected-encounters/&quot;&gt;Unexpected encounters&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on November 18, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/unexpected-encounters/&quot;&gt;Unexpected encounters&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on November 17, 2017.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T16:45:00+01:00</published>
-  <updated>2016-10-30T16:45:00+01:00</updated>
+  <published>2016-10-30T10:45:00-05:00</published>
+  <updated>2016-10-30T10:45:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1396,14 +1473,12 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T08:00:00+01:00</published>
-  <updated>2016-03-06T08:00:00+01:00</updated>
+  <published>2016-03-06T01:00:00-06:00</published>
+  <updated>2016-03-06T01:00:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1469,14 +1544,12 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T23:40:00+01:00</published>
-  <updated>2016-03-01T23:40:00+01:00</updated>
+  <published>2016-03-01T16:40:00-06:00</published>
+  <updated>2016-03-01T16:40:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1533,14 +1606,12 @@ public procurement - if only to give start-ups in this field a reasonable chance
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[New York, one year ago]]></title>
   <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
   <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+01:00</published>
-  <updated>2016-01-16T00:00:00+01:00</updated>
+  <published>2016-01-16T00:00:00-06:00</published>
+  <updated>2016-01-16T00:00:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1567,14 +1638,12 @@ And yet it also pleases me and seems right that what is of value and wisdom to o
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Changing course, once more]]></title>
   <link rel="alternate" type="text/html" href="/blog/changing-course/" />
   <id>/blog/changing-course</id>
-  <published>2015-12-13T16:00:00+01:00</published>
-  <updated>2015-12-13T16:00:00+01:00</updated>
+  <published>2015-12-13T09:00:00-06:00</published>
+  <updated>2015-12-13T09:00:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1604,14 +1673,12 @@ book&lt;/a&gt; and taking the &lt;a href=&quot;https://www.coursera.org/course/p
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Corporate buddhism]]></title>
   <link rel="alternate" type="text/html" href="/blog/corporate-buddhism/" />
   <id>/blog/corporate-buddhism</id>
-  <published>2015-10-03T14:01:00+02:00</published>
-  <updated>2015-10-03T14:01:00+02:00</updated>
+  <published>2015-10-03T07:01:00-05:00</published>
+  <updated>2015-10-03T07:01:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1658,63 +1725,6 @@ Beautifies the truth&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;/blog/corporate-buddhism/&quot;&gt;Corporate buddhism&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on October 03, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Musings from a distant present]]></title>
-  <link rel="alternate" type="text/html" href="/blog/poetry/" />
-  <id>/blog/poetry</id>
-  <published>2015-07-29T14:01:00+02:00</published>
-  <updated>2015-07-29T14:01:00+02:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;h1 id=&quot;memories&quot;&gt;Memories&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Through the veil of time&lt;br /&gt;
-Distant features once so close&lt;br /&gt;
-Glimmer on the mind&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;city-walls&quot;&gt;City walls&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;High on the rooftops&lt;br /&gt;
-Water towers bleed to death&lt;br /&gt;
-Staining the brownstones&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;broken-light&quot;&gt;Broken light&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;On the window sill&lt;br /&gt;
-The glass shines, filled with moonbeams&lt;br /&gt;
-scattered on the floor&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;winter&quot;&gt;Winter&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Snowflake by snowflake&lt;br /&gt;
-Early spring’s nipped in the bud&lt;br /&gt;
-Flowers in the clouds&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;moments&quot;&gt;Moments&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;From tomorrow on&lt;br /&gt;
-Yesterday won’t be the same&lt;br /&gt;
-as it was today&lt;/p&gt;
-&lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/blog/poetry/&quot;&gt;Musings from a distant present&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on July 29, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
