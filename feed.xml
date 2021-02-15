@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2021-02-14T15:23:54-06:00</updated>
+<updated>2021-02-15T02:58:41-06:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -28,9 +28,9 @@
 coding school with a global presence (40+ cities) that offers bootcamps in
 &lt;a href=&quot;https://www.lewagon.com/data-science-course/full-time&quot;&gt;Data Science&lt;/a&gt; and &lt;a href=&quot;https://www.lewagon.com/web-development-course/full-time&quot;&gt;Web Development&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Last Wednesday, Data Science student &lt;a href=&quot;https://www.linkedin.com/in/anne-sophie-hannes-39a59a151/&quot;&gt;Anne-Sophie Hannes&lt;/a&gt; &lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot;&gt;interviewed&lt;/a&gt;
+&lt;p&gt;Last week, Data Science student &lt;a href=&quot;https://www.linkedin.com/in/anne-sophie-hannes-39a59a151/&quot;&gt;Anne-Sophie Hannes&lt;/a&gt; &lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot;&gt;interviewed&lt;/a&gt;
 me about my own bootcamp experience (at &lt;a href=&quot;https://www.thisismetis.com&quot;&gt;another school&lt;/a&gt;), and how it
-changed my career. We also talked about my daily life of a co-founder &amp;amp; CTO at
+changed my career. We also talked about my daily life as a co-founder &amp;amp; CTO at
 &lt;a href=&quot;http://ester.ai/&quot;&gt;Ester&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot;&gt;A full recording of the talk is available&lt;/a&gt;. Registration is required.&lt;/p&gt;
@@ -41,20 +41,18 @@ changed my career. We also talked about my daily life of a co-founder &amp;amp; 
     &lt;/a&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Here are a few summarizing statements:&lt;/p&gt;
+&lt;p&gt;No time to listen? Here is the gist of our conversation in a few paragraphs.&lt;/p&gt;
 
-&lt;h3 id=&quot;cook-your-own-career&quot;&gt;Cook your own career&lt;/h3&gt;
+&lt;h3 id=&quot;cook-up-your-own-career&quot;&gt;Cook up your own career&lt;/h3&gt;
 
-&lt;p&gt;Combining two seemingly distinct areas of interest (e.g. human language and computing) can go a long way
-in terms of career path. But when you’re stuck in a (real or perceived) dead-end, don’t hesitate to
-take a step back and/or aside. That is, if you’re willing to take the risk. At the very least, it will
+&lt;p&gt;Combining two seemingly distinct areas of interest (e.g. natural language and computing) can go a long way in terms of crafting a career path. But when you’re stuck in a (real or perceived) dead-end, don’t hesitate to take a sidestep. That is, if you’re willing to take the risk. At the very least, it will
 bring you somewhere else.&lt;/p&gt;
 
 &lt;h3 id=&quot;show-dont-tell&quot;&gt;Show, don’t tell&lt;/h3&gt;
 
 &lt;p&gt;Whether you - or others - call you(rself) a web developer, data analyst, data scientist, ML engineer
-or AI engineer doesn’t matter all that much. Neither does trying to tick off all 27 boxes on a
-job profile. What does matter is a demonstrable portfolio of projects, and a passion for
+or AI engineer doesn’t matter all that much. Neither does trying to tick off all 27 boxes on an
+idealistic job profile. What does matter is a demonstrable project portfolio, and a passion for
 building stuff that works. Companies don’t hire profiles, they hire people. Make them want you.&lt;/p&gt;
 
 &lt;h3 id=&quot;vectorize-your-beverages&quot;&gt;Vectorize your beverages&lt;/h3&gt;
@@ -62,28 +60,32 @@ building stuff that works. Companies don’t hire profiles, they hire people. Ma
 &lt;p&gt;The flavor experience of wine or beer is not only about the actual beverage, but also about consumers’
 hyper-personal biological receptors, the shape and color of the container that holds the drink, the
 circumstances in which the drinks are consumed and many other contextual variables. &lt;a href=&quot;http://ester.ai/&quot;&gt;Ester&lt;/a&gt;
-aims to learn product representations from data sources that are as comprehensive as possible.&lt;/p&gt;
+learns product representations from data sources that are as comprehensive as possible, in order
+to provide personalized recommendations.&lt;/p&gt;
 
 &lt;h3 id=&quot;never-waste-a-good-crisis&quot;&gt;Never waste a good crisis&lt;/h3&gt;
 
-&lt;p&gt;In this world, unpredictable things happen. Without Covid, Ester would probably have had another
-CTO. The worldwide crisis that wreaks havoc on one side, also opens opportunities for fast-movers that
-are able to adapt on the other side. In the food &amp;amp; beverage industry, the strong push towards e-commerce
+&lt;p&gt;In this world, unpredictable things happen. If it wasn’t for Covid-19, Ester would probably
+have had another CTO. The worldwide crisis that wreaks havoc, also opens
+opportunities for fast-movers that are able and willing to adapt. In the food &amp;amp; beverage industry,
+the strong push towards e-commerce
 is forcing incumbent retailers to accelerate their digital transformation strategies and programs.
-As an independent provider of flavor intelligence, &lt;a href=&quot;http://ester.ai/&quot;&gt;Ester&lt;/a&gt; help retailers provide their customers
-a better service each time they figure out which products to like, choose and buy.&lt;/p&gt;
+As an independent provider of flavor intelligence, &lt;a href=&quot;http://ester.ai/&quot;&gt;Ester&lt;/a&gt; help retailers provide
+a better service to their customers, each time they figure out which products to like,
+choose and buy.&lt;/p&gt;
 
 &lt;h3 id=&quot;organize-your-chaos&quot;&gt;Organize your chaos&lt;/h3&gt;
 
 &lt;p&gt;Startups tend to be inherently chaotic during the iterative search for the first minimum viable
-product (MVP) that has mimimum acceptable (model) performance (MAP). Precisely for that reason, it
-is vital to automate Continuous Integration and Continuous Deployment (CI/CD) processes
+product (MVP) that has &lt;a href=&quot;https://www.ai-roi.com/post/the-ai-first-startup-playbook&quot;&gt;mimimal algorithmic performance (MAP)&lt;/a&gt;. Precisely for that reason, it
+is vital to automate Continuous Integration and Deployment (CI/CD) processes
 early enough in the game. That is the only way to keep enough of the scarce resources available
-for actual value-added developer work. Just as vital is to pick the right cloud platform
+for actual value-added development work. Just as crucial is to pick the right cloud platform
 &lt;em&gt;abstraction layer&lt;/em&gt; to develop on. If too high-level, there’s not enough flexibility. If too
-low-level, there’s too much infrastructure to manage. Personally, we try to be Kubernetes-neutral
-during the startup stage. That means Docker images and containers (and the code they run) are
-the lowest infrastructural elements we think we can afford, time-wise.&lt;/p&gt;
+low-level, there’s too much infrastructure to manage. At Ester, we have chosen to be
+&lt;a href=&quot;https://www.ctodose.com/blog/2019/3/4/kubernetes-just-say-no&quot;&gt;Kubernetes-neutral&lt;/a&gt; during the startup stage. That means Docker images and containers
+(and the code they run) are the lowest infrastructural elements we want to handle ourselves.
+Everything else is outsourced.&lt;/p&gt;
 
 &lt;h3 id=&quot;follow-fast-and-say-no---no---no&quot;&gt;Follow fast, and say no - no - no&lt;/h3&gt;
 
@@ -91,7 +93,7 @@ the lowest infrastructural elements we think we can afford, time-wise.&lt;/p&gt;
 to somewhere in a matter of weeks. Suboptimal solutions that are good enough but delivered
 in time are much better (at first) than using the latest and greatest hyped yet risky
 technology. Saying &lt;em&gt;no&lt;/em&gt; to that newest cool technology (GPT-3, anyone?) is hard, but right.
-Dare go against the stream!&lt;/p&gt;
+Dare to go against the stream!&lt;/p&gt;
 
 &lt;h3 id=&quot;could-you-smell-that-for-me-please&quot;&gt;Could you smell that for me, please?&lt;/h3&gt;
 
@@ -102,10 +104,11 @@ like prof. Kevin Vertrepen’s&lt;/a&gt; at KULeuven/VIB.&lt;/p&gt;
 
 &lt;h3 id=&quot;learn-steady-go&quot;&gt;Learn, steady, go!&lt;/h3&gt;
 
-&lt;p&gt;Last, but not least: surviving a bootcamp was already hard enough in pre-Covid times.
-Don’t stress out too much about everything that doesn’t fit you, instead focus on
+&lt;p&gt;Last, but not least: &lt;a href=&quot;http://frederikdurant.com/blog/survive-data-science-bootcamp/&quot;&gt;surviving a bootcamp&lt;/a&gt; was already hard enough in
+normal pre-Covid times.
+Don’t stress out too much about subjects that don’t fit you, instead focus on
 developing your strengths. Use your gut instinct, make choices and go for it.
-Don’t waste too much time planning how to become successful. Time only runs forward!&lt;/p&gt;
+Don’t waste too much time trying to plan how to become successful. Time only runs forward!&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;a href=&quot;https://app.livestorm.co/le-wagon-12/le-wagon-talk-with-frederik-durant-cto-of-ester&quot; target=&quot;_new&quot;&gt;
