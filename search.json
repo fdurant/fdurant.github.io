@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "People, places and music",
+		  "category"   : "",
+      "tags"       : "pondering, wondering, and lost and found",
+		  "url"        : "/blog/people-places-music/",
+		  "date"       : "2021-03-28 00:00:00 -0500",
+		  "shortdate"  : "March 28, 2021"
+		} ,
+	
+		{
 		  "title"      : "Le Wagon Brussels Talk",
 		  "category"   : "",
       "tags"       : "data, science, engineering, life, risk, choice, and fireside chat",
