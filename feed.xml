@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Frederik Durant's .data blog</title>
+<title type="text">Frederik Durant's randomly ordered bytes</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2021-09-22T15:03:11+02:00</updated>
+<updated>2021-12-30T18:23:50-06:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
@@ -13,14 +13,77 @@
 </author>
 
 
-  
+<entry>
+  <title type="html"><![CDATA[End of year reflections]]></title>
+  <link rel="alternate" type="text/html" href="/blog/reflections/" />
+  <id>/blog/reflections</id>
+  <published>2021-12-30T00:00:00-06:00</published>
+  <updated>2021-12-30T00:00:00-06:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 id=&quot;where-puppies-grow&quot;&gt;Where puppies grow&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Daunting desert hill&lt;br /&gt;
+Fly, blue butterfly, and drink&lt;br /&gt;
+Oasis flowers&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5xbUx44mKpA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;fiery-compost&quot;&gt;Fiery compost&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Soggy autumn leaves&lt;br /&gt;
+Freshly rotting on the heap&lt;br /&gt;
+Inside, chilling warmth&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aelpqWEBHR4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;empire-of-liberty&quot;&gt;Empire of liberty&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Time for your jab, sir&lt;br /&gt;
+Thank you James — since you’re asking,&lt;br /&gt;
+Any strychnine left?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OH6KApqmrBk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;some-like-it-hot&quot;&gt;Some like it hot&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lines in the sand at&lt;br /&gt;
+Hotel del Coronado&lt;br /&gt;
+Washed out by the sun&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/O040xuq2FR0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;headshot-habit&quot;&gt;Headshot habit&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Care to stay alive?&lt;br /&gt;
+Forehead scan says red or green&lt;br /&gt;
+Sudden death — not yet&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VAyhzKfZb7c&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/reflections/&quot;&gt;End of year reflections&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on December 30, 2021.&lt;/p&gt;</content>
+</entry>
+
 
 <entry>
   <title type="html"><![CDATA[Not so guilty pleasures]]></title>
   <link rel="alternate" type="text/html" href="/blog/not-so-guilty-pleasures/" />
   <id>/blog/not-so-guilty-pleasures</id>
-  <published>2021-09-22T00:00:00+02:00</published>
-  <updated>2021-09-22T00:00:00+02:00</updated>
+  <published>2021-09-22T00:00:00-05:00</published>
+  <updated>2021-09-22T00:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -101,18 +164,16 @@ for itself&lt;/a&gt;, non diluted.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AUKR4FpChcc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/not-so-guilty-pleasures/&quot;&gt;Not so guilty pleasures&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on September 22, 2021.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/not-so-guilty-pleasures/&quot;&gt;Not so guilty pleasures&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on September 22, 2021.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[People, places and music]]></title>
   <link rel="alternate" type="text/html" href="/blog/people-places-music/" />
   <id>/blog/people-places-music</id>
-  <published>2021-03-28T00:00:00+01:00</published>
-  <updated>2021-03-28T00:00:00+01:00</updated>
+  <published>2021-03-28T00:00:00-05:00</published>
+  <updated>2021-03-28T00:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -124,7 +185,7 @@ for itself&lt;/a&gt;, non diluted.&lt;/p&gt;
 Spend time with people. And capture the moments
 in a word. And a song.&lt;/p&gt;
 
-&lt;h2 id=&quot;now&quot;&gt;2020-now&lt;/h2&gt;
+&lt;h2 id=&quot;2020-now&quot;&gt;2020-now&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Zoom to moon, tell me&lt;br /&gt;
@@ -134,7 +195,7 @@ Anyone out there?&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5IsSpAOD6K8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;2018-2020&lt;/h2&gt;
+&lt;h2 id=&quot;2018-2020&quot;&gt;2018-2020&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Oxbridge ambitious&lt;br /&gt;
@@ -144,7 +205,7 @@ Purpose, hard to find&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yuTMWgOduFM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;2015-2018&lt;/h2&gt;
+&lt;h2 id=&quot;2015-2018&quot;&gt;2015-2018&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Chelsea, 21st &lt;br /&gt;
@@ -154,7 +215,7 @@ yet a dream so real&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1TC02VaB1Rw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;2012-2015&lt;/h2&gt;
+&lt;h2 id=&quot;2012-2015&quot;&gt;2012-2015&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Lost soul found again&lt;br /&gt;
@@ -164,7 +225,7 @@ moment, time stood still&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/diwF1-xJwZM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;2010 - 2012&lt;/h2&gt;
+&lt;h2 id=&quot;2010---2012&quot;&gt;2010 - 2012&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Tango in the sky&lt;br /&gt;
@@ -174,7 +235,7 @@ Eyes up in the sun&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Rvl4OUBHr10&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;2002- 2010&lt;/h2&gt;
+&lt;h2 id=&quot;2002--2010&quot;&gt;2002- 2010&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Painful desire&lt;br /&gt;
@@ -184,7 +245,7 @@ No feeling unfelt&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0_25S5BgTlg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;1998 - 2002&lt;/h2&gt;
+&lt;h2 id=&quot;1998---2002&quot;&gt;1998 - 2002&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Dot com web flash boom&lt;br /&gt;
@@ -194,7 +255,7 @@ Swirling through our heads&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/spYajHvUFQk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;1992 - 1997&lt;/h2&gt;
+&lt;h2 id=&quot;1992---1997&quot;&gt;1992 - 1997&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Gin &amp;amp; juice for you?&lt;br /&gt;
@@ -204,7 +265,7 @@ Can’t wait to convert&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DI3yXg-sX5c&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-7&quot;&gt;1986 - 1992&lt;/h2&gt;
+&lt;h2 id=&quot;1986---1992&quot;&gt;1986 - 1992&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Defrocked Jesuits&lt;br /&gt;
@@ -214,7 +275,7 @@ Take a sip from life&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jQvUBf5l7Vw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-8&quot;&gt;1980 - 1986&lt;/h2&gt;
+&lt;h2 id=&quot;1980---1986&quot;&gt;1980 - 1986&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Unliveable age&lt;br /&gt;
@@ -224,14 +285,15 @@ Because there I was&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4s25ZFwjbYs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&amp;gt; Swagger, style and charm&lt;br /&gt;
-&amp;gt; Ascended from outer space&lt;br /&gt;
-&amp;gt; Not just for one day&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Swagger, style and charm&lt;br /&gt;
+Ascended from outer space&lt;br /&gt;
+Not just for one day&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_YC3sTbAPcU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-9&quot;&gt;1975 - 1980&lt;/h2&gt;
+&lt;h2 id=&quot;1975---1980&quot;&gt;1975 - 1980&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Vinyl Swedish blonde&lt;br /&gt;
@@ -241,25 +303,24 @@ Honey from her mouth&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xFrGuyw1V8s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&amp;gt; Elegance and sway&lt;br /&gt;
-&amp;gt; Image of an unborn time&lt;br /&gt;
-&amp;gt; Wait, I’m on my way&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Elegance and sway&lt;br /&gt;
+Image of an unborn time&lt;br /&gt;
+Wait, I’m on my way&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FqVLT8vgZYw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/people-places-music/&quot;&gt;People, places and music&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 28, 2021.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/people-places-music/&quot;&gt;People, places and music&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on March 28, 2021.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Le Wagon Brussels Talk]]></title>
   <link rel="alternate" type="text/html" href="/blog/le-wagon-talk/" />
   <id>/blog/le-wagon-talk</id>
-  <published>2021-02-14T00:00:00+01:00</published>
-  <updated>2021-02-14T00:00:00+01:00</updated>
+  <published>2021-02-14T00:00:00-06:00</published>
+  <updated>2021-02-14T00:00:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -358,18 +419,16 @@ Don’t waste too much time trying to plan how to become successful. Time only r
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/le-wagon-talk/&quot;&gt;Le Wagon Brussels Talk&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on February 14, 2021.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/le-wagon-talk/&quot;&gt;Le Wagon Brussels Talk&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on February 14, 2021.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[London in pictures]]></title>
   <link rel="alternate" type="text/html" href="/blog/london-video/" />
   <id>/blog/london-video</id>
-  <published>2020-10-11T00:00:00+02:00</published>
-  <updated>2020-10-11T00:00:00+02:00</updated>
+  <published>2020-10-11T00:00:00-05:00</published>
+  <updated>2020-10-11T00:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -379,18 +438,16 @@ Don’t waste too much time trying to plan how to become successful. Time only r
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IKcsKyxguO0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/london-video/&quot;&gt;London in pictures&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on October 11, 2020.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/london-video/&quot;&gt;London in pictures&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on October 11, 2020.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Reserved words]]></title>
   <link rel="alternate" type="text/html" href="/blog/reserved-words/" />
   <id>/blog/reserved-words</id>
-  <published>2019-12-11T00:59:00+01:00</published>
-  <updated>2019-12-11T00:59:00+01:00</updated>
+  <published>2019-12-10T17:59:00-06:00</published>
+  <updated>2019-12-10T17:59:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -436,18 +493,16 @@ do not object procedure&lt;br /&gt;
 until then repeat&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/reserved-words/&quot;&gt;Reserved words&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 11, 2019.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/reserved-words/&quot;&gt;Reserved words&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on December 10, 2019.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Seven startup haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/seven-startup-haikus/" />
   <id>/blog/seven-startup-haikus</id>
-  <published>2019-04-21T02:08:45+02:00</published>
-  <updated>2019-04-21T02:08:45+02:00</updated>
+  <published>2019-04-20T19:08:45-05:00</published>
+  <updated>2019-04-20T19:08:45-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -509,18 +564,16 @@ As noisy signals erupt&lt;br /&gt;
 Compressed Aire explodes&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/seven-startup-haikus/&quot;&gt;Seven startup haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 21, 2019.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/seven-startup-haikus/&quot;&gt;Seven startup haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on April 20, 2019.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA['Brexit' least popular baby name in UK, ERG study finds]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-uk/" />
   <id>/projects/firstname-network-uk</id>
-  <published>2019-04-01T12:00:00+02:00</published>
-  <updated>2019-04-01T12:00:00+02:00</updated>
+  <published>2019-04-01T05:00:00-05:00</published>
+  <updated>2019-04-01T05:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -637,7 +690,7 @@ delusions and common-sense reality.&lt;/p&gt;
 
 &lt;figure&gt;
 	&lt;img src=&quot;/images/cheese_smog.jpg&quot; alt=&quot;Dr. Made-Up Cheese-Smog&quot; /&gt;
-	&lt;figcaption&gt;ERG&#39;s lead scientist dr. Made-Up Cheese-Smog
+	&lt;figcaption&gt;ERG's lead scientist dr. Made-Up Cheese-Smog
 	still baffled over the surprising research results, after all
 	those years&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -654,24 +707,22 @@ Liechtenstein&lt;/a&gt;, money’s not an issue anymore. That’s
 sorted then.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-uk/&quot;&gt;'Brexit' least popular baby name in UK, ERG study finds&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on April 01, 2019.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-uk/&quot;&gt;'Brexit' least popular baby name in UK, ERG study finds&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on April 01, 2019.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Five London Haikus]]></title>
   <link rel="alternate" type="text/html" href="/blog/five-london-haikus/" />
   <id>/blog/five-london-haikus</id>
-  <published>2018-12-02T01:15:00+01:00</published>
-  <updated>2018-12-02T01:15:00+01:00</updated>
+  <published>2018-12-01T18:15:00-06:00</published>
+  <updated>2018-12-01T18:15:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
     
   </author>
-  <content type="html">&lt;h1 id=&quot;mundo-lingomundolingo&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Mundo-Lingo-London-Language-Exchange/&quot;&gt;Mundo Lingo&lt;/a&gt;&lt;/h1&gt;
+  <content type="html">&lt;h1 id=&quot;mundo-lingo&quot;&gt;&lt;a href=&quot;https://www.meetup.com/Mundo-Lingo-London-Language-Exchange/&quot;&gt;Mundo Lingo&lt;/a&gt;&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Multi-coloured flags&lt;br /&gt;
@@ -712,18 +763,16 @@ Be A Banana&lt;/p&gt;
 &lt;/blockquote&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/five-london-haikus/&quot;&gt;Five London Haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 02, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/five-london-haikus/&quot;&gt;Five London Haikus&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on December 01, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Karma points on the commute]]></title>
   <link rel="alternate" type="text/html" href="/blog/karma-points-on-the-commute/" />
   <id>/blog/karma-points-on-the-commute</id>
-  <published>2018-10-06T13:45:00+02:00</published>
-  <updated>2018-10-06T13:45:00+02:00</updated>
+  <published>2018-10-06T06:45:00-05:00</published>
+  <updated>2018-10-06T06:45:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -801,18 +850,16 @@ the new entrants’ eyes. Such hope, such happiness, such health!&lt;/p&gt;
 &lt;p&gt;Damn, where’s my Oyster card?&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/karma-points-on-the-commute/&quot;&gt;Karma points on the commute&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on October 06, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/karma-points-on-the-commute/&quot;&gt;Karma points on the commute&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on October 06, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[London calling. Or is it Europe?]]></title>
   <link rel="alternate" type="text/html" href="/blog/london-calling-or-is-it-europe/" />
   <id>/blog/london-calling-or-is-it-europe</id>
-  <published>2018-09-06T15:45:00+02:00</published>
-  <updated>2018-09-06T15:45:00+02:00</updated>
+  <published>2018-09-06T08:45:00-05:00</published>
+  <updated>2018-09-06T08:45:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -864,18 +911,16 @@ in my case, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Pint_glass&quot;&gt
 &lt;p&gt;For old times’ sake.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/london-calling-or-is-it-europe/&quot;&gt;London calling. Or is it Europe?&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on September 06, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/london-calling-or-is-it-europe/&quot;&gt;London calling. Or is it Europe?&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on September 06, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Truisms to counter company culture traps]]></title>
   <link rel="alternate" type="text/html" href="/blog/truisms-to-counter-company-culture-traps/" />
   <id>/blog/truisms-to-counter-company-culture-traps</id>
-  <published>2018-07-26T18:00:00+02:00</published>
-  <updated>2018-07-26T18:00:00+02:00</updated>
+  <published>2018-07-26T11:00:00-05:00</published>
+  <updated>2018-07-26T11:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -948,7 +993,7 @@ aspects of corporate culture from doing any further harm. &lt;em&gt;Or not.&lt;/
 
 &lt;p&gt;So, to whom it may concern:&lt;/p&gt;
 
-&lt;h3 id=&quot;adapt-or-die&quot;&gt;#1. Adapt or die&lt;/h3&gt;
+&lt;h3 id=&quot;1-adapt-or-die&quot;&gt;#1. Adapt or die&lt;/h3&gt;
 
 &lt;p&gt;Whether it’s your job, your life or your company: nothing lasts for
 ever. As evolution has shown, species can survive over thousands of
@@ -978,7 +1023,7 @@ or you will die.&lt;/p&gt;
 &lt;strong&gt;the biggest risk is not to take enough risk, or not fast
 enough&lt;/strong&gt;. Reinvent yourself, or someone else will.&lt;/p&gt;
 
-&lt;h3 id=&quot;high-priests-are-just-women-in-funny-dresses&quot;&gt;#2. High-priests are just (wo)men in funny dresses&lt;/h3&gt;
+&lt;h3 id=&quot;2-high-priests-are-just-women-in-funny-dresses&quot;&gt;#2. High-priests are just (wo)men in funny dresses&lt;/h3&gt;
 
 &lt;p&gt;In any long-standing organization, culture is just as much a
 matter of emotional experience as of rational learning. That’s why it
@@ -1008,7 +1053,7 @@ to &lt;em&gt;unmask&lt;/em&gt; the high-priests, and replace a sufficient number
 them&lt;/strong&gt; with people who can credibly represent the next cultural
 wave.&lt;/p&gt;
 
-&lt;h3 id=&quot;dont-just-allow-agile-and-devops-embrace-them&quot;&gt;#3. Don’t just &lt;em&gt;allow&lt;/em&gt; Agile and DevOps: &lt;em&gt;embrace&lt;/em&gt; them&lt;/h3&gt;
+&lt;h3 id=&quot;3-dont-just-allow-agile-and-devops-embrace-them&quot;&gt;#3. Don’t just &lt;em&gt;allow&lt;/em&gt; Agile and DevOps: &lt;em&gt;embrace&lt;/em&gt; them&lt;/h3&gt;
 
 &lt;p&gt;Any software professional who hasn’t been asleep for the last ten to fifteen
 years, knows that the &lt;a href=&quot;http://agilemanifesto.org&quot;&gt;&lt;strong&gt;Agile Movement&lt;/strong&gt;&lt;/a&gt;, the &lt;a href=&quot;https://www.atlassian.com/devops&quot;&gt;&lt;strong&gt;DevOps approach&lt;/strong&gt;&lt;/a&gt; and related
@@ -1030,7 +1075,7 @@ adapt&lt;/strong&gt; — proving on the spot that they never will be.&lt;/p&gt;
 
 &lt;p&gt;Simple advice: Don’t listen to them, and &lt;strong&gt;do the right thing&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;meet-less-decide-more&quot;&gt;#4. Meet less, decide more&lt;/h3&gt;
+&lt;h3 id=&quot;4-meet-less-decide-more&quot;&gt;#4. Meet less, decide more&lt;/h3&gt;
 
 &lt;p&gt;The number and quality of decisions is inversely proportional to the
 number of meeting platforms and participants involved in making
@@ -1058,7 +1103,7 @@ example in the &lt;a href=&quot;https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72
 stake, thoughtful stability may make sense; when companies need to make
 and execute decisions fast, &lt;strong&gt;veto power kills progress&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;think-networks-not-hyperdimensional-spaces&quot;&gt;#5. Think networks, not hyperdimensional spaces&lt;/h3&gt;
+&lt;h3 id=&quot;5-think-networks-not-hyperdimensional-spaces&quot;&gt;#5. Think networks, not hyperdimensional spaces&lt;/h3&gt;
 
 &lt;p&gt;There is a good reason why MBA students all over the world are
 commonly exposed to &lt;a href=&quot;http://2x2matrix.com/downloads/bcg.pdf&quot;&gt;Boston Consulting Group’s 2x2
@@ -1106,7 +1151,7 @@ principles of our era: &lt;strong&gt;more complex yet less complicated&lt;/stron
 organizations that organize themselves around simple principles, allow
 for &lt;strong&gt;more adaptability, flexibility and growth.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;use-generally-available-state-of-the-art-it&quot;&gt;#6. Use generally available, state-of-the-art IT&lt;/h3&gt;
+&lt;h3 id=&quot;6-use-generally-available-state-of-the-art-it&quot;&gt;#6. Use generally available, state-of-the-art IT&lt;/h3&gt;
 
 &lt;p&gt;The more complicated an organization is (re)designed and (re)built, the harder
 it is for its collaborators to find who is responsible for
@@ -1130,7 +1175,7 @@ your own, then buy one. That is, if you have the time.&lt;/p&gt;
 &lt;p&gt;But first and foremost, hire and train your proverbial truck drivers!
 &lt;em&gt;They&lt;/em&gt; are the new bottleneck.&lt;/p&gt;
 
-&lt;h3 id=&quot;want-to-innovate-build-the-path-to-production&quot;&gt;#7. Want to innovate? Build the path to production&lt;/h3&gt;
+&lt;h3 id=&quot;7-want-to-innovate-build-the-path-to-production&quot;&gt;#7. Want to innovate? Build the path to production&lt;/h3&gt;
 
 &lt;p&gt;To play the &lt;strong&gt;innovation game&lt;/strong&gt;, many companies feel the need to
 externalize their efforts in so-called &lt;strong&gt;skunkworks or
@@ -1163,18 +1208,16 @@ and use it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Wanna bet?&lt;/strong&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/truisms-to-counter-company-culture-traps/&quot;&gt;Truisms to counter company culture traps&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on July 26, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/truisms-to-counter-company-culture-traps/&quot;&gt;Truisms to counter company culture traps&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on July 26, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Chatbots: the more things change, the more they are the same]]></title>
   <link rel="alternate" type="text/html" href="/blog/the-more-things-change/" />
   <id>/blog/the-more-things-change</id>
-  <published>2018-05-21T12:00:00+02:00</published>
-  <updated>2018-05-21T12:00:00+02:00</updated>
+  <published>2018-05-21T05:00:00-05:00</published>
+  <updated>2018-05-21T05:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1255,18 +1298,16 @@ Interface Design&lt;/a&gt; by James P. Giangola and Jennifer
 Balogh. I bought it in … 2004.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/the-more-things-change/&quot;&gt;Chatbots: the more things change, the more they are the same&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on May 21, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/the-more-things-change/&quot;&gt;Chatbots: the more things change, the more they are the same&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on May 21, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Most epic professional fails]]></title>
   <link rel="alternate" type="text/html" href="/blog/most-epic-professional-fails/" />
   <id>/blog/most-epic-professional-fails</id>
-  <published>2018-03-25T12:00:00+02:00</published>
-  <updated>2018-03-25T12:00:00+02:00</updated>
+  <published>2018-03-25T05:00:00-05:00</published>
+  <updated>2018-03-25T05:00:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1275,7 +1316,7 @@ Balogh. I bought it in … 2004.&lt;/p&gt;
   <content type="html">&lt;p&gt;We all make mistakes in life, don’t we? Especially when we’re at work.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/errare-humanum-est.jpg&quot; alt=&quot;Photo of eraser gum with inscription &#39;errare humanum est&#39;&quot; /&gt;
+	&lt;img src=&quot;/images/errare-humanum-est.jpg&quot; alt=&quot;Photo of eraser gum with inscription 'errare humanum est'&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Here’s my &lt;strong&gt;personal top-10&lt;/strong&gt; of professional fails (so far), carefully collected over the years.
@@ -1284,7 +1325,7 @@ situations, to outright unforgivable actions.&lt;/p&gt;
 
 &lt;p&gt;Enjoy!&lt;/p&gt;
 
-&lt;h3 id=&quot;driving-180-kmh-with-a-harddisk-full-of-data&quot;&gt;#10. Driving 180 km/h with a harddisk full of data&lt;/h3&gt;
+&lt;h3 id=&quot;10-driving-180-kmh-with-a-harddisk-full-of-data&quot;&gt;#10. Driving 180 km/h with a harddisk full of data&lt;/h3&gt;
 
 &lt;p&gt;More than twenty years ago, when I was still in my twenties and
 therefore immortal,
@@ -1301,7 +1342,7 @@ I swore to never do that again.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;Made the deadline&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;Almost made the deadline&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;stomach-problems-on-an-intercontinental-flight&quot;&gt;#9. Stomach problems on an intercontinental flight&lt;/h3&gt;
+&lt;h3 id=&quot;9-stomach-problems-on-an-intercontinental-flight&quot;&gt;#9. Stomach problems on an intercontinental flight&lt;/h3&gt;
 
 &lt;p&gt;What do you get when you combine a week of jetlag and lack of sleep
 with a chicken curry inflight meal, and a glass of port?&lt;/p&gt;
@@ -1313,7 +1354,7 @@ carrying the British Airways logo — a real collector’s item!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;deep respect&lt;/strong&gt; for flight attendants and airport paramedics&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;embarrassing walk&lt;/strong&gt; in BA pajamas through Heathrow transit zone&lt;/p&gt;
 
-&lt;h3 id=&quot;not-checking-company-critical-backup-tapes&quot;&gt;#8. Not checking company-critical backup tapes&lt;/h3&gt;
+&lt;h3 id=&quot;8-not-checking-company-critical-backup-tapes&quot;&gt;#8. Not checking company-critical backup tapes&lt;/h3&gt;
 
 &lt;p&gt;This is a classic.&lt;/p&gt;
 
@@ -1332,7 +1373,7 @@ full of fault-tolerant RAID disks.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;never waste a good crisis&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;heart rate&lt;/strong&gt; and &lt;strong&gt;blood pressure&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;firing-a-key-person-in-the-team-and-then-quitting&quot;&gt;#7. Firing a key person in the team, and then quitting&lt;/h3&gt;
+&lt;h3 id=&quot;7-firing-a-key-person-in-the-team-and-then-quitting&quot;&gt;#7. Firing a key person in the team, and then quitting&lt;/h3&gt;
 
 &lt;p&gt;At that same startup, I had to let go an important team member,
 knowing that I might resign myself a week later. Which I did, once I
@@ -1343,7 +1384,7 @@ got the green light from my new employer.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;the company survived&lt;/strong&gt;, of course, at least for a while&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: there’s little fun in dealing with &lt;strong&gt;ethical dilemmas&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;agreeing-to-get-paid-half-in-money-half-in-shares&quot;&gt;#6. Agreeing to get paid half in money, half in shares&lt;/h3&gt;
+&lt;h3 id=&quot;6-agreeing-to-get-paid-half-in-money-half-in-shares&quot;&gt;#6. Agreeing to get paid half in money, half in shares&lt;/h3&gt;
 
 &lt;p&gt;In the mid-noughties, when I was a freelancer building speech-driven
 phone applications, I was called in to program the one and only Beavis
@@ -1363,7 +1404,7 @@ thing I’ve ever worked on. But also the least well paid.&lt;/p&gt;
 
 &lt;p&gt;So, what else did I suck at?&lt;/p&gt;
 
-&lt;h3 id=&quot;telling-political-jokes-to-foreign-co-workers&quot;&gt;#5. Telling political jokes to foreign co-workers&lt;/h3&gt;
+&lt;h3 id=&quot;5-telling-political-jokes-to-foreign-co-workers&quot;&gt;#5. Telling political jokes to foreign co-workers&lt;/h3&gt;
 
 &lt;p&gt;Over lunch at work, I once jokingly made a comment to a French project
 partner about “Hirochirac” — the
@@ -1382,7 +1423,7 @@ espressos and cappuccinos.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;Follow the international news&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;Discuss it with locals&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;not-putting-all-contractual-clauses-on-paper&quot;&gt;#4. Not putting all contractual clauses on paper&lt;/h3&gt;
+&lt;h3 id=&quot;4-not-putting-all-contractual-clauses-on-paper&quot;&gt;#4. Not putting all contractual clauses on paper&lt;/h3&gt;
 
 &lt;p&gt;When joining a Belgian company that had just been acquired by a very
 well funded Silicon Valley startup, I was promised a sizeable amount of
@@ -1400,7 +1441,7 @@ less than a billion dollars. A small part of which could have been mine.&lt;/p&g
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: &lt;strong&gt;I could have made some decent money&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: &lt;strong&gt;I didn’t&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;agreeing-to-split-an-rd-team-in-r-and-d-subteams&quot;&gt;#3. Agreeing to split an R&amp;amp;D team in R and D subteams&lt;/h3&gt;
+&lt;h3 id=&quot;3-agreeing-to-split-an-rd-team-in-r-and-d-subteams&quot;&gt;#3. Agreeing to split an R&amp;amp;D team in R and D subteams&lt;/h3&gt;
 
 &lt;p&gt;A couple of years ago, my boss wanted to make sure that the R&amp;amp;D team I
 was leading would spend enough time on innovative research, next to
@@ -1421,7 +1462,7 @@ fall apart in two camps: the “winners” (researchers) and the “losers” (d
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: I had been &lt;strong&gt;loyal to the chief&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: I was &lt;strong&gt;squeezed as a middle manager&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;telling-truth-to-ceo-bypassing-local-boss&quot;&gt;#2. Telling truth to CEO, bypassing local boss&lt;/h3&gt;
+&lt;h3 id=&quot;2-telling-truth-to-ceo-bypassing-local-boss&quot;&gt;#2. Telling truth to CEO, bypassing local boss&lt;/h3&gt;
 
 &lt;p&gt;The daughter company from item #4 was in dire straits, so the
 mother company CEO decided to cut his losses and pull the
@@ -1441,7 +1482,7 @@ think. I never checked.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Good&lt;/em&gt;: Keep your &lt;strong&gt;self-respect&lt;/strong&gt; by staying &lt;strong&gt;loyal to your own beliefs&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Bad&lt;/em&gt;: Be prepared to &lt;strong&gt;take the bullet&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;send-blame-mail-to-team-member-for-assumed-lack-of-motivation-with-whole-team-in-cc&quot;&gt;#1. Send blame mail to team member for assumed lack of motivation, with whole team in Cc:&lt;/h3&gt;
+&lt;h3 id=&quot;1-send-blame-mail-to-team-member-for-assumed-lack-of-motivation-with-whole-team-in-cc&quot;&gt;#1. Send blame mail to team member for assumed lack of motivation, with whole team in Cc:&lt;/h3&gt;
 
 &lt;p&gt;A project team member wrote to the team that she was unable to perform a certain task
 by a certain deadline, giving a reason that I deemed bogus. In a
@@ -1461,18 +1502,16 @@ of days to be on speaking terms again.&lt;/p&gt;
 quite some competition out there.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/most-epic-professional-fails/&quot;&gt;Most epic professional fails&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 25, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/most-epic-professional-fails/&quot;&gt;Most epic professional fails&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on March 25, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Five hypekus &mdash; because we can]]></title>
   <link rel="alternate" type="text/html" href="/blog/hypekus/" />
   <id>/blog/hypekus</id>
-  <published>2018-01-20T19:00:00+01:00</published>
-  <updated>2018-01-20T19:00:00+01:00</updated>
+  <published>2018-01-20T12:00:00-06:00</published>
+  <updated>2018-01-20T12:00:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1519,18 +1558,16 @@ To &lt;a href=&quot;https://techcrunch.com/2015/10/24/why-iot-security-is-so-cri
 &lt;/blockquote&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/hypekus/&quot;&gt;Five hypekus &mdash; because we can&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 20, 2018.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/hypekus/&quot;&gt;Five hypekus &mdash; because we can&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on January 20, 2018.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[What to learn when, and why]]></title>
   <link rel="alternate" type="text/html" href="/blog/what-to-learn-when-and-why/" />
   <id>/blog/what-to-learn-when-and-why</id>
-  <published>2017-12-29T21:45:00+01:00</published>
-  <updated>2017-12-29T21:45:00+01:00</updated>
+  <published>2017-12-29T14:45:00-06:00</published>
+  <updated>2017-12-29T14:45:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1641,18 +1678,16 @@ time, hype cycle position and personal risk profile allows for a &lt;strong&gt;b
 &lt;p&gt;Happy learning!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/what-to-learn-when-and-why/&quot;&gt;What to learn when, and why&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on December 29, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/what-to-learn-when-and-why/&quot;&gt;What to learn when, and why&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on December 29, 2017.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Unexpected encounters]]></title>
   <link rel="alternate" type="text/html" href="/blog/unexpected-encounters/" />
   <id>/blog/unexpected-encounters</id>
-  <published>2017-11-18T01:00:01+01:00</published>
-  <updated>2017-11-18T01:00:01+01:00</updated>
+  <published>2017-11-17T18:00:01-06:00</published>
+  <updated>2017-11-17T18:00:01-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1695,18 +1730,16 @@ heading for &lt;a href=&quot;https://en.wikipedia.org/wiki/Highgate_Cemetery&quo
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BJT5BUZr_9Y?ecver=2&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/unexpected-encounters/&quot;&gt;Unexpected encounters&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on November 18, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/unexpected-encounters/&quot;&gt;Unexpected encounters&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on November 17, 2017.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Mapping the Belgian baby name space]]></title>
   <link rel="alternate" type="text/html" href="/projects/firstname-network-belgium/" />
   <id>/projects/firstname-network-belgium</id>
-  <published>2016-10-30T16:45:00+01:00</published>
-  <updated>2016-10-30T16:45:00+01:00</updated>
+  <published>2016-10-30T10:45:00-05:00</published>
+  <updated>2016-10-30T10:45:00-05:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1741,18 +1774,16 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
 &lt;p&gt;So, young or not-so-young friends &amp;amp; colleagues: if you’re into procreation mode or expecting, and want your newborn to wear that fancy name: &lt;em&gt;no more excuses&lt;/em&gt;.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/&quot;&gt;Mapping the Belgian baby name space&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on October 30, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/&quot;&gt;Mapping the Belgian baby name space&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on October 30, 2016.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
   <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
   <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T08:00:00+01:00</published>
-  <updated>2016-03-06T08:00:00+01:00</updated>
+  <published>2016-03-06T01:00:00-06:00</published>
+  <updated>2016-03-06T01:00:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1814,18 +1845,16 @@ hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt
 &lt;p&gt;&lt;strong&gt;&lt;small&gt;Note: article updated on Sun March 7th, 2016&lt;/small&gt;&lt;/strong&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/club-chair-bookstores/&quot;&gt;In praise of the club chair bookstore&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 06, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/club-chair-bookstores/&quot;&gt;In praise of the club chair bookstore&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on March 06, 2016.&lt;/p&gt;</content>
 </entry>
 
-
-  
 
 <entry>
   <title type="html"><![CDATA[Impressions from Open Belgium 2016]]></title>
   <link rel="alternate" type="text/html" href="/blog/open-belgium-2016/" />
   <id>/blog/open-belgium-2016</id>
-  <published>2016-03-01T23:40:00+01:00</published>
-  <updated>2016-03-01T23:40:00+01:00</updated>
+  <published>2016-03-01T16:40:00-06:00</published>
+  <updated>2016-03-01T16:40:00-06:00</updated>
   <author>
     <name>Frederik Durant</name>
     <uri></uri>
@@ -1878,41 +1907,7 @@ To promote this agile approach, large government agencies and institutions need 
 public procurement - if only to give start-ups in this field a reasonable chance to win their first deals.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/open-belgium-2016/&quot;&gt;Impressions from Open Belgium 2016&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on March 01, 2016.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[New York, one year ago]]></title>
-  <link rel="alternate" type="text/html" href="/blog/new-york-video/" />
-  <id>/blog/new-york-video</id>
-  <published>2016-01-16T00:00:00+01:00</published>
-  <updated>2016-01-16T00:00:00+01:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;One year ago, I was in New York for the experience of a lifetime.&lt;/p&gt;
-
-&lt;p&gt;I could turn this into a very long blog post, but …&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Words do not express thoughts very well. They always become a little different immediately they are expressed,
-a little distorted, a little foolish.
-And yet it also pleases me and seems right that what is of value and wisdom to one man seems nonsense to another.&lt;br /&gt;
-– &lt;cite&gt;Herman Hesse&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hence this collection of moving pictures - you can take that literally, or not.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Qyx9-PFJR4k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The music that best reflects my mood of the day is by jazz trumpeter Kenny Dorham.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/blog/new-york-video/&quot;&gt;New York, one year ago&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's .data blog&lt;/a&gt; on January 16, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/blog/open-belgium-2016/&quot;&gt;Impressions from Open Belgium 2016&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on March 01, 2016.&lt;/p&gt;</content>
 </entry>
 
 </feed>
