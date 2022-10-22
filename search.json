@@ -1,6 +1,15 @@
 [
 	
 		{
+		  "title"      : "Seven Haikus from Brussels",
+		  "category"   : "",
+      "tags"       : "Brussels, Business, and Banter",
+		  "url"        : "/blog/seven-haikus-from-brussels/",
+		  "date"       : "2022-10-22 00:00:00 -0500",
+		  "shortdate"  : "October 22, 2022"
+		} ,
+	
+		{
 		  "title"      : "Old year&#39;s resolutions for 2021",
 		  "category"   : "",
       "tags"       : "Personal development, underpromise, and overdeliver",

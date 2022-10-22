@@ -4,13 +4,89 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2022-05-16T14:09:28-05:00</updated>
+<updated>2022-10-22T07:45:29-05:00</updated>
 <id>/</id>
 <author>
   <name>Frederik Durant</name>
   <uri>/</uri>
   
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Seven Haikus from Brussels]]></title>
+  <link rel="alternate" type="text/html" href="/blog/seven-haikus-from-brussels/" />
+  <id>/blog/seven-haikus-from-brussels</id>
+  <published>2022-10-22T00:00:00-05:00</published>
+  <updated>2022-10-22T00:00:00-05:00</updated>
+  <author>
+    <name>Frederik Durant</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">&lt;h1 id=&quot;coffee-break&quot;&gt;Coffee break&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;@ &lt;a href=&quot;https://www.bozar.be/nl/bozar-cafe-victor&quot;&gt;Café Victor&lt;/a&gt;&lt;br /&gt;
+Flippant &amp;amp; Old intruders&lt;br /&gt;
+White shirts, flat wallets&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;agile-visions&quot;&gt;Agile visions&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cost, quality, scope&lt;br /&gt;
+Multi-layered crystal balls&lt;br /&gt;
+Push the door, pick two&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;unit-testing&quot;&gt;Unit testing&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Inputs and outputs&lt;br /&gt;
+Paths shrouded in mystery&lt;br /&gt;
+An amazing maze&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;house-of-cards&quot;&gt;House of cards&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hold your ace and wait&lt;br /&gt;
+But I want to play it now&lt;br /&gt;
+Earthquake — told you so&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;no-kidding&quot;&gt;No kidding&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Managers manage&lt;br /&gt;
+Programmers program — that is&lt;br /&gt;
+Indeed, what they do&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;recursive-chat&quot;&gt;Recursive chat&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Am I a robot?&lt;br /&gt;
+Maybe I am, maybe not&lt;br /&gt;
+Let me ask myself&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;multilingual-language-models&quot;&gt;Multilingual language models&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vectors and trigrams&lt;br /&gt;
+Go ahead, just talk to me&lt;br /&gt;
+Know what I’m saying?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mdwNl1nW0zc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(written over soup and coffee at &lt;a href=&quot;https://goo.gl/maps/aAfCjLKBQFGS7eQy8&quot;&gt;Exki, Plux&lt;/a&gt;)&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/seven-haikus-from-brussels/&quot;&gt;Seven Haikus from Brussels&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on October 22, 2022.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -1853,77 +1929,6 @@ I downloaded the &lt;a href=&quot;http://statbel.fgov.be/nl/modules/publications
 
 
   &lt;p&gt;&lt;a href=&quot;/projects/firstname-network-belgium/&quot;&gt;Mapping the Belgian baby name space&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on October 30, 2016.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[In praise of the club chair bookstore]]></title>
-  <link rel="alternate" type="text/html" href="/blog/club-chair-bookstores/" />
-  <id>/blog/club-chair-bookstores</id>
-  <published>2016-03-06T01:00:00-06:00</published>
-  <updated>2016-03-06T01:00:00-06:00</updated>
-  <author>
-    <name>Frederik Durant</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">&lt;p&gt;One of my favorite pastimes since I was a philology student in the late eighties has
-been, rather unsurprisingly, visiting bookstores. In my &lt;a href=&quot;http://www.kuleuven.be/english&quot;&gt;student&lt;/a&gt; town &lt;a href=&quot;https://en.wikipedia.org/wiki/Leuven&quot;&gt;Leuven&lt;/a&gt;, I spent
-hours - and relative tons of money - at &lt;a href=&quot;http://boekhandelpeeters.be/nl&quot;&gt;Boekhandel Peeters&lt;/a&gt;, specialized in the liberal
-arts. For computing and other
-so-called hard sciences, Wouters was my 
-preferred place to go. It sadly &lt;a href=&quot;http://www.boekblad.nl/acco-neemt-deel-fonteyn-wouters-over.121794.lynkx&quot;&gt;went bankrupt&lt;/a&gt; in 2006,
-when it was swallowed by the cooperative &lt;a href=&quot;https://www.acco.be/en/boekhandel/onzeboekhandels&quot;&gt;Acco&lt;/a&gt;, itself founded in
-1960.&lt;/p&gt;
-
-&lt;p&gt;In 1995, just after I started my professional career, &lt;a href=&quot;https://en.wikipedia.org/wiki/Jeff_Bezos&quot;&gt;Jeff
-Bezos&lt;/a&gt; founded &lt;a href=&quot;http://www.amazon.com&quot;&gt;Amazon.com&lt;/a&gt;. The brick-and-mortar
-bookstore as we knew it was indeed never going to be the same as before. In the
-US, super-bookstore chain &lt;a href=&quot;https://en.wikipedia.org/wiki/Borders_Group&quot;&gt;Borders&lt;/a&gt; &lt;a href=&quot;http://business.time.com/2011/07/19/5-reasons-borders-went-out-of-business-and-what-will-take-its-place/&quot;&gt;didn’t adapt fast
-enough&lt;/a&gt;, started going downhill and finally
-&lt;a href=&quot;http://dealbook.nytimes.com/2011/02/16/borders-files-for-bankruptcy/&quot;&gt;disappeared&lt;/a&gt; in 2011. &lt;a href=&quot;http://stores.barnesandnoble.com&quot;&gt;Barnes &amp;amp; Noble&lt;/a&gt;
-gobbled them up.&lt;/p&gt;
-
-&lt;p&gt;As much as I appreciate Amazon’s search capabilities and limitless offering, I
-still prefer the smell and touch of physical books and, by extension,
-bookstores. For the latter, on the condition that they have &lt;strong&gt;something extra&lt;/strong&gt; to
-offer. That can be a combination of:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;a choice adapted to my specialized taste - quality always trumping quantity&lt;/li&gt;
-  &lt;li&gt;a &lt;a href=&quot;https://en.wikipedia.org/wiki/Club_chair&quot;&gt;club chair&lt;/a&gt;, vital for bringing the &lt;strike&gt;buyer&lt;/strike&gt; reader in the correct mental state&lt;/li&gt;
-  &lt;li&gt;a cup of coffee or tea, with or without &lt;a href=&quot;https://en.wikipedia.org/wiki/Madeleine_(cake)&quot;&gt;madeleine&lt;/a&gt; (or similar)&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;à la limite&lt;/em&gt;, silent whispers from the other &lt;em&gt;flâneurs&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Yesterday, I was lucky enough to discover such a place in the &lt;a href=&quot;http://albertine.com/about-us/&quot;&gt;Librairie
-Albertine&lt;/a&gt; in New York City. The whole atmosphere breathes &lt;em&gt;luxe, calme et volupté&lt;/em&gt;, as &lt;a href=&quot;https://en.wikipedia.org/wiki/Charles_Baudelaire&quot;&gt;Charles B.&lt;/a&gt; would say.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/albertine.jpg&quot; alt=&quot;Marcel Proust Reading Room at Albertine&quot; /&gt;
-	&lt;figcaption&gt;The Marcel Proust Reading Room at the Librairie Albertine in NYC&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Other bookstores that I have visited and particularly like include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.passaporta.be/en/home&quot;&gt;Passa Porta&lt;/a&gt; and &lt;a href=&quot;http://www.tropismes.com&quot;&gt;Tropismes&lt;/a&gt; in Brussels&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stores.barnesandnoble.com/store/2234&quot;&gt;Barnes &amp;amp; Noble on 5th Avenue&lt;/a&gt; in New York City&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.cambridge.org/about-us/visit-bookshop&quot;&gt;The Cambridge University Press Bookshop&lt;/a&gt; in Cambridge, England&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://web.mit.edu/bookstore/www/&quot;&gt;The MIT Press Bookstore&lt;/a&gt;, &lt;a href=&quot;http://store.thecoop.com&quot;&gt;Coop&lt;/a&gt; and &lt;a href=&quot;http://www.harvard.com/about/hbs_in_brief/&quot;&gt;Harvard Bookstore&lt;/a&gt; in Cambridge, Massachusetts&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ironically, Amazon.com recently announced &lt;a href=&quot;http://www.cnbc.com/2015/11/03/amazons-next-chapter-opening-a-physical-bookstore.html&quot;&gt;plans to open
-hundreds of &lt;strong&gt;physical&lt;/strong&gt; bookstores&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I fear the worst, but hope for the best!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;small&gt;Note: article updated on Sun March 7th, 2016&lt;/small&gt;&lt;/strong&gt;&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;/blog/club-chair-bookstores/&quot;&gt;In praise of the club chair bookstore&lt;/a&gt; was originally published by Frederik Durant at &lt;a href=&quot;&quot;&gt;Frederik Durant's randomly ordered bytes&lt;/a&gt; on March 06, 2016.&lt;/p&gt;</content>
 </entry>
 
 </feed>
